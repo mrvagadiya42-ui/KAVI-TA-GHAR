@@ -1,155 +1,263 @@
 # कविता का घर | Kavita Ka Ghar | કવિતાનું ઘર
 
-Play Group se Class 1 tak ki **74 kavitayen** — Hindi, Gujarati aur English teeno bhashaon mein.
+**Play Group se Class 1 tak ki 126 kavitayen** — Hindi, Gujarati aur English teeno bhashaon mein.
+Sur wala audio, 3D animation, recording, PDF, aur ek real Android app.
 
-Poori website **React** me bani hai (no build step chahiye, bas chalati hai).
+🔗 **Live website:** https://kavita-ka-ghar-abf9e.web.app
 
 ---
 
-## Chalane ka tareeka (2 options)
+## 📊 Numbers
 
-### Option 1 — Aasan tarika (sirf ek click)
+| Kya | Kitna |
+|---|---|
+| Kavitayen | **126** (Play 27 · LKG 32 · UKG 37 · Class 1 30) |
+| Bhasha | 3 (हिन्दी / ગુજરાતી / English) |
+| Audio files | **378** (har kavita × 3 bhasha) |
+| Audio size | 59 MB |
+| 3D characters | ~25 (code se bane, koi image nahi) |
+| Repo size | ~1 MB (audio/build gitignore) |
 
-`index.html` par double-click kar dijiye. Website khul jayegi.
+---
 
-> ⚠️ Sirf ek baat: `file://` par **offline PWA / APK install** kaam nahi karta.
-> Woh ke liye Option 2 behtar hai.
+## ▶ Chalane ke 3 tareeke
 
-### Option 2 — Local server (recommended)
+### 1️⃣ Website — aasan (ek click)
+`index.html` par double-click. Website khul jayegi.
 
-Project folder me `serve.py` hai. Ek hi command:
+> ⚠️ Sirf `file://` par PWA install kaam nahi karta. Uske liye option 2 behtar hai.
 
-```bash
+### 2️⃣ Website — local server (recommended)
+```powershell
 python serve.py
 ```
-
 Phir browser me kholein: **http://localhost:5501/**
+Isse offline mode (service worker) bhi sahi chalta hai.
 
-Isse offline mode (service worker) bhi sahi se kaam karta hai.
-
-> `python` na ho to? Node.js install karke `npx serve .` bhi chalta hai.
+### 3️⃣ Android app — APK
+```powershell
+BUILD-APK.bat
+```
+APK bana jayega: `android\app\build\outputs\apk\debug\app-debug.apk`
 
 ---
 
-## Kya kya hai website me
+## 🛠️ Build scripts
+
+| Script | Kya karta hai |
+|---|---|
+| `tools_extract_json.py` | `src/data/*.js` → `src/data/poems.json` |
+| `tools_make_audio.py` | `edge-tts` se 378 audio banata hai (line-by-line, sur wala). `--only <id>` ek kavita ke liye |
+| `tools_build_web.py` | JSX compile → `www/` (Babel ki 2.8 MB zaroorat nahi, `file://` par bhi chalta hai) |
+| `serve.py` | Local server (no cache) |
+| `PUSH-TO-GITHUB.bat` | One-click GitHub push |
+| `BUILD-APK.bat` | One-click APK build |
+
+**Full build (zero se):**
+```powershell
+python tools_extract_json.py      # data
+python tools_make_audio.py        # audio (10-15 min)
+python tools_build_web.py         # www/
+```
+
+---
+
+## 🎨 Features
 
 | Feature | Detail |
 |---|---|
-| **📚 Class button** | Header me — click karke Play Group / LKG / UKG / Class 1 chun sakte hain. Poori list box ke andar hi rehti hai. |
-| **🌐 Bhasha badlein** | Poori website ka text हिन्दी / ગુજરાતી / English me switch hota hai. |
-| **▶ Play button** | Har card par, aur poem kholne par bada play button. Poem sunata hai (Dheere / Theek / Tez speed). |
-| **📖 3 bhasha tabs** | हिन्दी · ગુજરાતી · English · या "तीनों एक साथ" |
-| **🎤 Apni awaaz** | Baccha khud poem record kar sakta hai, sun sakta hai aur `.webm` file save kar sakta hai. |
-| **🖨 PDF / Print** | Browser ka print → "Save as PDF". Poem + tasveer, 1/3 bhashaon me. |
-| **🖼 Tasveer save** | Original SVG tasveer download. |
-| **🎥 Apna video** | Teacher apna video link daal sakta hai, phir ▶ button se chalega. |
-| **🏛 Traditional** | Toggle — sirf paramparik (folk/classic) kavitayen. |
-| **⬅➡ Pichli / Agli** | Poem se poem me seedha jump. |
-| **PWA / Offline** | `manifest.webmanifest` + `sw.js` — ek baar khulne ke baad bina internet ke bhi chalega, aur phone par app install ho sakta hai. |
+| 📚 **Class button** | Header me — Play Group / LKG / UKG / Class 1. Poori list box ke andar hi rehti hai |
+| 🌐 **Bhasha badlein** | Poori website ka text हिन्दी / ગુજરાતી / English me switch |
+| ▶ **Play** | Har card par + poem me bada button. Speed: Dheere / Theek / Tez |
+| 📖 **3 bhasha tabs** | हिन्दी · ગુજરાતी · English · ya "तीनों एक साथ" |
+| 🗣️ **Naam ki guaraish** | Bacche ka naam **ek baar, ladki ki awaz** me bolta hai |
+| 🎤 **Apni awaaz** | Baccha khud poem record kare, sune, aur `.webm` save kare |
+| 🎬 **3D animation** | Code se bani CSS scenes — koi video/image file nahi |
+| 🖨 **PDF / Print** | Browser print → "Save as PDF". Poem + tasveer |
+| 🖼 **Tasveer save** | Original SVG download |
+| 🎥 **Teacher video** | Teacher apna video link daal sakti hain |
+| 🏛 **Traditional** | Toggle — sirf paramparik (folk/classic) kavitayen |
+| ⬅➡ **Pichli / Agli** | Poem se poem me seedha jump |
+| 📱 **PWA / Offline** | Ek baar khulne ke baad bina internet ke bhi chalta hai |
+| 🖨 **Android APK** | WebView wrapper — puri website + audio app ke andar |
 
 ---
 
-## Copyright — sab safe hai ✅
-
-| Cheez | Kahan se aayi |
-|---|---|
-| 74 kavitayen (3 bhasha) | Sab **original**, maine khud likhi hain |
-| Tasveerein | **Code se bani SVG** (`src/lib/art.js`) — kisi ki copy nahi |
-| Audio (sunao) | Browser ka **free Text-To-Speech** — koi recording copy nahi |
-| Audio (recording) | Bacche ki **apni** awaaz, sirf uske device par |
-| 17 Traditional poems | 100+ saal purani **public-domain folk rhymes**, apne shabdon me dobara likhi gayi hain |
-
-❌ Jaan-boojh kar nahi rakha: aaj ke copyrighted poems, film songs, pop songs,
-aur kisi aur ki recording/shaayari. Isiliye website par logo likha hai —
-**"No copyright"**.
-
----
-
-## Folder structure
+## 📁 Folder structure
 
 ```
 kavita-ka-ghar-react/
-├── index.html                 # HTML + saare script tags
-├── manifest.webmanifest       # PWA / app install
-├── sw.js                      # offline service worker (network-first)
-├── serve.py                   # local server (no cache)
+├── index.html                    # HTML + script tags (dev, Babel ke saath)
+├── manifest.webmanifest          # PWA / app install
+├── sw.js                         # offline service worker
+├── serve.py                      # local server
+├── firebase.json                 # Firebase Hosting config
+│
+├── BUILD-APK.bat                 # one-click APK build
+├── PUSH-TO-GITHUB.bat            # one-click GitHub push
+│
+├── tools_extract_json.py
+├── tools_make_audio.py
+├── tools_build_web.py
+│
 ├── assets/
-│   └── icon.svg               # app ka icon
-├── vendor/                    # React + Babel (local, offline chalta hai)
+│   ├── icon.svg                  # app icon
+│   └── audio/                    # 378 mp3  (gitignore — script se banta hai)
+│
+├── vendor/                       # React + Babel (local, offline)
 │   ├── react.min.js
 │   ├── react-dom.min.js
 │   └── babel.min.js
-└── src/
-    ├── styles.css             # poori styling (rainbow theme)
-    ├── main.js                # entry point
-    ├── App.jsx                # main React component
-    ├── data/
-    │   ├── poems-core.js      # 12 original kavitayen
-    │   ├── poems-a.js         # 15 kavitayen
-    │   ├── poems-b.js         # 15 kavitayen
-    │   ├── poems-c.js         # 15 kavitayen
-    │   └── poems-classics.js  # 17 traditional / folk kavitayen
-    ├── lib/
-    │   ├── lang.js            # bhasha ka config
-    │   ├── art.js             # original SVG art engine
-    │   └── hooks.js           # useSpeech, useRecorder, useToast
-    └── components/
-        ├── Art.jsx            # SVG wrapper
-        ├── ClassPicker.jsx    # 📚 class selection button + popup
-        ├── Shell.jsx          # Header, Hero, PoemGrid
-        └── Reader.jsx         # poem panel + saare tools
+│
+├── src/
+│   ├── styles.css                # poori styling (rainbow theme)
+│   ├── css3d.css                 # 3D engine ke saare animations
+│   ├── main.js                   # entry point (audio unlock + mount)
+│   ├── App.jsx                   # main React component
+│   ├── data/
+│   │   ├── poems-core.js         # 12 original
+│   │   ├── poems-a.js            # 15
+│   │   ├── poems-b.js            # 15
+│   │   ├── poems-c.js            # 15
+│   │   ├── poems-classics.js     # traditional / folk
+│   │   ├── poems-popular.js      # popular rhymes
+│   │   ├── poems-popular2.js
+│   │   ├── poems-popular3.js     # 18 (Humpty Dumpty, Twinkle, Baa Baa…)
+│   │   └── poems.json            # (generated)
+│   ├── lib/
+│   │   ├── lang.js               # bhasha config
+│   │   ├── ui.js                 # teeno bhasha ke UI strings
+│   │   ├── romanize.js           # Devanagari → Latin (voice na ho to)
+│   │   ├── say.js                # female-voice picker, chime, greeting
+│   │   ├── art.js                # original SVG art engine
+│   │   ├── art3d.js              # 3D scene generator
+│   │   └── hooks.js              # usePoemAudio, useRecorder, useSpeech, useToast
+│   └── components/
+│       ├── Art.jsx
+│       ├── ClassPicker.jsx
+│       ├── LangPicker.jsx
+│       ├── NameGate.jsx          # naam ka pehla screen
+│       ├── Shell.jsx             # Header, Hero, ClassTiles, PoemGrid
+│       └── Reader.jsx            # poem panel + saare tools
+│
+├── www/                          # compiled build (gitignore)
+│
+└── android/                      # Android Studio / Gradle project
+    ├── build.gradle
+    ├── settings.gradle
+    ├── gradle.properties
+    └── app/
+        ├── build.gradle
+        └── src/main/
+            ├── AndroidManifest.xml
+            ├── java/com/kavitakaghar/app/MainActivity.java
+            ├── res/              # icon + theme
+            └── assets/www/       # compiled website (gitignore)
 ```
 
 ---
 
-## Naya poem kaise add karein?
+## 🔨 Tech stack
 
-`src/data/` me koi bhi nayi file bana kar usme aisa likhein:
+| Layer | Kya hai |
+|---|---|
+| Frontend | React 18 (local vendor files — koi CDN nahi) |
+| Styling | Pure CSS (rainbow theme + CSS 3D engine) |
+| 3D | CSS divs — koi SVG/video/image nahi |
+| Audio | `edge-tts` neural voices (Swara hi / Dhwani gu / Neerja en) |
+| App | Android WebView + Gradle |
+| Hosting | Firebase Hosting |
+| Build | Python scripts + Babel CLI |
 
-```js
+**Dev mode me Babel browser me chalta hai** (`text/babel` scripts).
+**Production/Android me JSX pehle se compile hota hai** → fast + `file://` par chalta hai.
+
+---
+
+## ✍️ Nayi kavita kaise add karein?
+
+`src/data/` me koi bhi nayi file banao:
+
+```javascript
 window.KG = window.KG || {};
-KG.POEMS.push(
-{
+KG.POEMS.push({
   id: "p-naya",
   title: { hi: "नया शीर्षक", gu: "નવો શીર્ષક", en: "New Title" },
-  classId: "lkg",                     // play | lkg | ukg | c1
+  classId: "lkg",                    // play | lkg | ukg | c1
   scene: ["day", "sun", "child"],     // tasveer ke liye
   poem: {
     hi: `पहली लाइन
-      दूसरी लाइन`,
+दूसरी लाइन`,
     gu: `...`,
     en: `...`
   }
-}
-);
+});
 ```
 
-Phir `index.html` me us file ka ek `<script>` tag add kar dein
-(baaki files ke neeche) aur `sw.js` ki `FILES` list me bhi daal dein.
+**Phir 3 jagah update karein:**
+1. `index.html` me us file ka `<script>` tag (neeche)
+2. `tools_extract_json.py` ki file list me naam
+3. `sw.js` ki FILES list me (offline ke liye)
 
-### `scene` me kaun si cheezein aa sakti hain
+**Audio banana:**
+```powershell
+python tools_make_audio.py --only p-naya
+```
 
-`day` `night` `sun` `moon` `stars` `cloud` `rain` `snow` `tree` `flower`
-`butterfly` `bee` `bird` `child` `hands` `home` `school` `book` `pen`
-`pencil?` nahi — `computer` `clock` `lamp` `mirror` `tooth` `robot` `rocket`
-`kite` `balloon` `ball` `drum` `bus` `bicycle` `train` `gift` `cake`
-`icecream` `elephant` `lion` `rabbit` `monkey` `cow` `hen` `fish` `boat`
-`pond` `river` `mountain` `spider` `carrot` `diya` `colours`
-
----
-
-## Phone par app / APK banana
-
-Website PWA-ready hai. Phone ke Chrome me kholein → menu →
-**"Add to Home screen" / "Install app"**. Uske baad ye ek app jaisa
-chalega aur offline bhi chalega.
-
-Asli APK (Play Store ke liye) chahiye to is project ko
-**Capacitor** ya **PWABuilder** se wrap kiya ja sakta hai — uske liye
-Node.js install karna padega.
+**scene me kya aa sakta hai:**
+```
+day night sun moon stars cloud rain snow tree flower
+butterfly bee bird child hands home school book pen
+clock lamp mirror tooth robot rocket kite balloon ball
+drum bus bicycle train gift cake icecream elephant
+lion rabbit monkey cow hen fish boat pond river mountain
+spider carrot diya colours
+```
 
 ---
 
-## Dhanyavaad 💛
+## 🔒 Copyright — sab safe hai ✅
 
-Made with love for bacche, teachers aur parents.
+| Cheez | Kahan se aayi |
+|---|---|
+| 126 kavitayen (3 bhasha) | **Sab original**, maine khud likhi hain |
+| Tasveerein | Code se bani SVG (`src/lib/art.js`) — kisi ki copy nahi |
+| 3D scenes | Code se bane CSS divs (`src/lib/art3d.js`) |
+| Audio (sunao) | Neural TTS (`edge-tts`) — koi recording copy nahi |
+| Audio (recording) | Bacche ki apni awaaz, sirf uske device par |
+| Folk rhymes | 100+ saal purani public-domain, apne shabdon me dobara likhi |
+
+❌ **Jaan-boojh kar nahi rakha:** aaj ke copyrighted poems, film/pop songs,
+aur kisi aur ki recording ya shaayari.
+
+---
+
+## ⚙️ Zaroori tools
+
+| Tool | Kyun | Installed? |
+|---|---|---|
+| Python 3 | scripts ke liye | ✅ |
+| Node.js 18+ | Babel compile | ✅ |
+| JDK 17 | Gradle / Android | ✅ |
+| Android SDK | APK build | ✅ |
+| Gradle 8.7 | APK build | ✅ |
+
+> Website chalane ke liye kuch install karne ki zaroorat **nahi** hai.
+> Sirf APK banane ke liye JDK + Android SDK chahiye (ek baar).
+
+---
+
+## 🚀 Firebase deploy
+
+```powershell
+firebase login
+firebase deploy --only hosting --project kavita-ka-ghar-abf9e
+```
+
+Details: [DEPLOY-FIREBASE.md](DEPLOY-FIREBASE.md)
+
+---
+
+## 💛 Dhanyavaad
+
+Bacche, teachers aur parents ke liye — pyaar se banaya gaya hai.

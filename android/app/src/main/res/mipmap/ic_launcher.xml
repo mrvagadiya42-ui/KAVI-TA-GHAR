@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  API 24-25 ke liye plain icon.
+  (API 26+ pe mipmap-anydpi-v26/ic_launcher.xml — adaptive icon — use hota hai)
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_launcher_bg" />
+
+    <item
+        android:drawable="@drawable/ic_launcher_fg"
+        android:bottom="8dp"
+        android:left="8dp"
+        android:right="8dp"
+        android:top="8dp" />
+
+</layer-list>

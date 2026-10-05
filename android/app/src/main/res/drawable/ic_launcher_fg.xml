@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- kitaab + sur ka icon -->
+<!-- Adaptive icon ka foreground: kitaab + sur ka strip -->
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- kitaab -->
     <item android:drawable="@drawable/ic_launcher_book" />
 
-    <!-- niche rainbow strip -->
+    <!-- niche rainbow strip (0dp = full width) -->
     <item
         android:drawable="@drawable/ic_launcher_rainbow"
-        android:bottom="0" />
+        android:bottom="0dp"
+        android:gravity="bottom" />
 
 </layer-list>
