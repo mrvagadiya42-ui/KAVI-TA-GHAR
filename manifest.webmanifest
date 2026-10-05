@@ -1,0 +1,26 @@
+{
+  "name": "कविता का घर | Kavita Ka Ghar",
+  "short_name": "कविता का घर",
+  "description": "Play Group se Class 1 tak ki kavitayen — Hindi, Gujarati aur English mein. Suno, record karo, PDF aur tasveer download karo.",
+  "lang": "hi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF9EE",
+  "theme_color": "#FF5C8A",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

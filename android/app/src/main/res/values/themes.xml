@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Kavita" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/kgh_bg</item>
+        <item name="android:statusBarColor">#FF5C8A</item>
+        <item name="android:navigationBarColor">#FFF9EE</item>
+    </style>
+</resources>

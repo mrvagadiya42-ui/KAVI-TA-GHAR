@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>कविता का घर | Kavita Ka Ghar | કવિતાનું ઘર</title>
+<meta name="description" content="Play Group se Class 1 tak ki kavitayen — Hindi, Gujarati aur English mein. Suno, record karo, tasveer aur PDF download karo.">
+<meta name="theme-color" content="#FF5C8A">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icon.svg">
+<link rel="stylesheet" href="src/styles.css">
+<link rel="stylesheet" href="src/css3d.css">
+</head>
+<body>
+
+<div id="root">
+  <!-- React yahan render hoga -->
+  <div class="boot">⏳ कविता का घर खुल रहा है…</div>
+</div>
+
+<!-- print (PDF) ke liye -->
+<div id="printArea" class="print-area"></div>
+
+<!-- ================= React (local files — offline bhi chalega) ================= -->
+<script src="vendor/react.min.js"></script>
+<script src="vendor/react-dom.min.js"></script>
+<script src="vendor/babel.min.js"></script>
+
+<!-- data -->
+<script type="text/babel" data-presets="react" src="src/data/poems-core.js"></script>
+<script type="text/babel" data-presets="react" src="src/data/poems-a.js"></script>
+<script type="text/babel" data-presets="react" src="src/data/poems-b.js"></script>
+<script type="text/babel" data-presets="react" src="src/data/poems-c.js"></script>
+<script type="text/babel" data-presets="react" src="src/data/poems-classics.js"></script>
+<script type="text/babel" data-presets="react" src="src/data/poems-popular.js"></script>
+<script type="text/babel" data-presets="react" src="src/data/poems-popular2.js"></script>
+<script type="text/babel" data-presets="react" src="src/data/poems-popular3.js"></script>
+
+<!-- lib -->
+<script type="text/babel" data-presets="react" src="src/lib/lang.js"></script>
+<script type="text/babel" data-presets="react" src="src/lib/ui.js"></script>
+<script type="text/babel" data-presets="react" src="src/lib/romanize.js"></script>
+<script type="text/babel" data-presets="react" src="src/lib/say.js"></script>
+<script type="text/babel" data-presets="react" src="src/lib/art.js"></script>
+<script type="text/babel" data-presets="react" src="src/lib/art3d.js"></script>
+<script type="text/babel" data-presets="react" src="src/lib/hooks.js"></script>
+
+<!-- components -->
+<script type="text/babel" data-presets="react" src="src/components/Art.jsx"></script>
+<script type="text/babel" data-presets="react" src="src/components/NameGate.jsx"></script>
+<script type="text/babel" data-presets="react" src="src/components/LangPicker.jsx"></script>
+<script type="text/babel" data-presets="react" src="src/components/ClassPicker.jsx"></script>
+<script type="text/babel" data-presets="react" src="src/components/Shell.jsx"></script>
+<script type="text/babel" data-presets="react" src="src/components/Reader.jsx"></script>
+
+<!-- app -->
+<script type="text/babel" data-presets="react" src="src/App.jsx"></script>
+<script type="text/babel" data-presets="react" src="src/main.js"></script>
+
+</body>
+</html>

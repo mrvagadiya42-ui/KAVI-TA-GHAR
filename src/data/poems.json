@@ -1,0 +1,2607 @@
+{
+ "classes": [
+  {
+   "id": "play",
+   "label": "Play Group",
+   "age": "2 – 3 saal",
+   "emoji": "🧸"
+  },
+  {
+   "id": "lkg",
+   "label": "LKG / Nursery",
+   "age": "3 – 4 saal",
+   "emoji": "🎈"
+  },
+  {
+   "id": "ukg",
+   "label": "UKG / KG",
+   "age": "4 – 5 saal",
+   "emoji": "🎨"
+  },
+  {
+   "id": "c1",
+   "label": "Class 1",
+   "age": "6 – 7 saal",
+   "emoji": "📚"
+  }
+ ],
+ "poems": [
+  {
+   "id": "p-chandu",
+   "title": {
+    "hi": "चाँद जी कैसे आए",
+    "gu": "ચાંદ જી કેવી રીતે આવ્યા",
+    "en": "How the Moon Came"
+   },
+   "classId": "play",
+   "scene": [
+    "night",
+    "moon",
+    "stars",
+    "child"
+   ],
+   "videoNote": "Apna video link yahan daalein",
+   "poem": {
+    "hi": "चाँद जी आए आसमान में,\n      चमक-चमक करे मोती माँ।\n      तारे जी ने पूछा — चाँद भइया,\n      क्यूँ आज तुम आए हो?\n\n      चाँद ने कहा — मैं यहाँ आया,\n      रात को सबको रोशन करे।\n      छोटे बच्चे सोए हैं सब,\n      मीठी-मीठी कहानी सुनाए।",
+    "gu": "ચાંદ જી આવ્યા આકાશમાં,\n      ચમક-ચમક કરે મોતી માં.\n      તારા જીએ પૂછ્યો — ચાંદ ભાઈ,\n      શું આજ તું આવ્યો છે?\n\n      ચાંદ બોલ્યો — હું અહીં આવ્યો,\n      રાતને સૌને રોશન કરું.\n      નાના બાળકો સૂઈ ગયા છે,\n      મીઠી-મીઠી કહાણી સુનાવું.",
+    "en": "The Moon came up in the sky,\n      shining bright like a pearl.\n      The little stars said — Moon, where are you from?\n      Why have you come tonight?\n\n      The Moon said — I am here,\n      to give light to the night.\n      All the small ones have gone to sleep,\n      I will tell a sweet story."
+   }
+  },
+  {
+   "id": "p-hands",
+   "title": {
+    "hi": "मेरे हाथ",
+    "gu": "મારા હાથ",
+    "en": "My Hands"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "child",
+    "hands"
+   ],
+   "poem": {
+    "hi": "मेरे हैं दो हाथ, दो प्यारे हाथ,\n      हाथों से खेलूँ, हाथों से गाऊँ।\n      ऊपर ऊपर, नीचे नीचे,\n      ताली बजाऊँ — clap, clap, clap!\n\n      पानी पीता हूँ, खाना खाता हूँ,\n      दोस्तों को गले लगाता हूँ।\n      मेरे हैं दो हाथ, दो प्यारे हाथ,\n      इनसे काम होता हर एक काम!",
+    "gu": "મારા છે બે હાથ, બે પ્યારા હાથ,\n      હાથથી રમું, હાથથી ગાઉં.\n      ઉપર ઉપર, નીચે નીચે,\n      ટાલી વજાવું — clap, clap, clap!\n\n      પાણી પીઉં, ખાવું ખાઉં,\n      મિત્રોને ગળે ભીળતો.\n      મારા છે બે હાથ, बે પ્યારા હાથ,\n      આથી કામ થાય દરેક કામ!",
+    "en": "I have two hands, two lovely hands,\n      with hands I play, with hands I sing.\n      Up and up, and down and down,\n      I clap my hands — clap, clap, clap!\n\n      I drink the water, I eat my food,\n      I hug my friends and make them happy.\n      I have two hands, two lovely hands,\n      they help me do every single thing!"
+   }
+  },
+  {
+   "id": "p-duck",
+   "title": {
+    "hi": "बत्तख पानी में",
+    "gu": "બતખ પાણીમાં",
+    "en": "The Duck in the Pond"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "pond",
+    "duck"
+   ],
+   "poem": {
+    "hi": "बत्तख बत्तख पानी में,\n      तैरता आए डब-डब-डब।\n      पानी में नहाए, पानी में खेले,\n      नन्हा सा दिल जब-बब!",
+    "gu": "બતખ બતખ પાણીમાં,\n      તેરતો આવે ડબ-ડબ-ડબ.\n      પાણીમાં નહાયે, પાણીમાં ખેલે,\n      નાનો સો દિલ જબ-બબ!",
+    "en": "A duck, a duck, inside the pond,\n      comes swimming — splash, splash, splash.\n      She bathes in water, she plays in water,\n      with a little heart — flap, flap!"
+   }
+  },
+  {
+   "id": "p-friends",
+   "title": {
+    "hi": "मेरे दोस्त",
+    "gu": "મારા મિત્રો",
+    "en": "My Friends"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "child",
+    "bird",
+    "tree"
+   ],
+   "poem": {
+    "hi": "मेरे हैं मित्र — अगला, पगला,\n      चिड़िया, खरगोश, और चूहा साया।\n      हाथ मिलाते, साथ में खाते,\n      गाना गाते — कभी नहीं गवाते।\n\n      जब मैं गिरूँ, तो उठाते हैं,\n      जब रूझूँ, तो हँसाते हैं।\n      मेरे हैं मित्र — अगला, पगला,\n      सबको छोड़कर मेरा प्यारा!",
+    "gu": "મારા છે મિત્રો — આગળ, પાગળ,\n      ચીડિયું, ખરગોશ, અને નાંદો સાયો.\n      હાથ મળાવે, સાથે ખાય,\n      ગીત ગાય — કદી નહીં ગવાય.\n\n      જ્યારે હું પડું, ત્યારે ઊઠાવે,\n      જ્યારે રડું, ત્યારે હસાવે.\n      મારા છે મિત્રો — આગળ, પાગળ,\n      સૌને છોડીને મારો પ્યારો!",
+    "en": "I have friends — brave ones, silly ones,\n      a bird, a rabbit and a little mouse.\n      We hold hands, we eat together,\n      we sing songs — forever and ever.\n\n      When I fall down, they lift me up,\n      when I cry, they make me laugh.\n      I have friends — brave ones, silly ones,\n      they love me more than anyone!"
+   }
+  },
+  {
+   "id": "p-apple",
+   "title": {
+    "hi": "मेरा लाल सेब",
+    "gu": "મારું લાલ સફરજન",
+    "en": "My Red Apple"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "tree",
+    "apple"
+   ],
+   "poem": {
+    "hi": "सेब गुलाबी, सेब लाल,\n      ऊपर ऊपर टाँगा देता पेड़।\n      ऊपर गई तो बादलों पे,\n      नीचे आई तो रही मेरी गोद में।\n\n      धोता हूँ मैं रोज़ सुबह-सुबह,\n      मीठे मुँह से बोलूँ — गुड मॉर्निंग माँ!",
+    "gu": "સફરજન ગુલાબી, સફરજન લાલ,\n      ઉપર ઉપર ઝૂલે છે વૃક્ષ.\n      ઉપર ગઈ તો વદલની ઉપર,\n      નીચે આવી તો રહી મારી કોડમાં.\n\n      ધોવું છું હું રોજ સવારે,\n      મીઠા મોંથે બોલું — ગુડ મોર્નિંગ મા!",
+    "en": "An apple pink, an apple red,\n      hanging high on the tree.\n      I climbed up to the clouds,\n      then I rolled down to my lap.\n\n      I wash it every single day,\n      with my sweet mouth I say — Good morning, Ma!"
+   }
+  },
+  {
+   "id": "p-rain",
+   "title": {
+    "hi": "वर्षा आई",
+    "gu": "વરસાદ આવી",
+    "en": "The Rain Came"
+   },
+   "classId": "lkg",
+   "scene": [
+    "rain",
+    "cloud",
+    "umbrella",
+    "frog"
+   ],
+   "poem": {
+    "hi": "टप-टप-टप, टप-टप-टप,\n      बादलों ने कहा — हम आए!\n      छत पर बैठा एक बच्चा,\n      छाता लेकर निकल गया।\n\n      कदम-कदम छोटे-छोटे,\n      भीग गए सारे नाचते।\n      टप-टप-टप, टप-टप-टप,\n      फिर धूप, फिर मौसम खुश!",
+    "gu": "ટપ-ટપ-ટપ, ટપ-ટપ-ટપ,\n      વદલો કહ્યા — અમે આવ્યા!\n      છત પર બેઠો એક બાળક,\n      છત્રો લઈને બહાર ગયો.\n\n      પગ-પગ નાના-નાના,\n      ભીના ગયા સૌ નર્તતા.\n      ટપ-ટપ-ટપ, ટપ-ટપ-ટપ,\n      ફરી દિવસ, ફરી મોટા ખુશ!",
+    "en": "Tap-tap-tap, tap-tap-tap,\n      the clouds said — we are here!\n      A child was sitting on the roof,\n      he took his umbrella and went outside.\n\n      Little steps, hop-hop-hop,\n      everybody got wet and danced.\n      Tap-tap-tap, tap-tap-tap,\n      then the sun, then a happy sky!"
+   }
+  },
+  {
+   "id": "p-mother",
+   "title": {
+    "hi": "मेरी मम्मी",
+    "gu": "મારી મમ્મી",
+    "en": "My Mother"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "child",
+    "home"
+   ],
+   "poem": {
+    "hi": "जब था मैं बहुत छोटा,\n      मम्मी थी मेरी पहली दुनिया।\n      कहती — सो जा मेरे लाल,\n      सुबह निकली सुनहरी दी।\n\n      मम्मी के हाथ बनते मिठाई,\n      मम्मी की बातें होती सच्ची।\n      उनके बिना जगड़ा लगता,\n      उनके साथ सब हँसता।\n\n      धन्य है वो, वो धन्य है वो,\n      जिसने दिया मुझे सब कुछ,\n      उनकी गोद ही मेरा संसार,\n      उनका प्यार ही मेरा सहारा।",
+    "gu": "જ્યારે હું ઘણું નાનો હતો,\n      મમ્મી હતી મારી પ્રથમ દુનિયા.\n      કહેતી — સુઈ જા મારા લાલ,\n      સવારે નીકળી સુનહરી દી.\n\n      મમ્મીના હાથ બને મીઠાઈ,\n      મમ્મીની વાતો હોય સચ્છી.\n      તેના વગર ઝઘટો લાગે,\n      તેની સાથે બધું હસે.\n\n      ધન્ય છે વો, વો ધન્ય છે વો,\n      જેણે આપ્યું મને બધું,\n      તેની કોડ મારું સંસાર,\n      તેનો પ્યાર મારો સહાર.",
+    "en": "When I was very small,\n      my mother was my whole first world.\n      She would say — sleep now, my son,\n      and the morning would come in gold.\n\n      Her hands make the sweetest things,\n      her words are always true.\n      Without her I feel small,\n      with her everything is fine.\n\n      Blessed is she, blessed is she,\n      who gave me everything she had.\n      Her lap is my whole world,\n      her love is my only support."
+   }
+  },
+  {
+   "id": "p-school",
+   "title": {
+    "hi": "मेरा स्कूल",
+    "gu": "મારું શાળા",
+    "en": "My School"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "school",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "सुबह आठ बजे गेट खुलता,\n      सब दौड़ते हैं अंदर।\n      हर बच्चा हँसता है,\n      हर बच्चा मास्टर।\n      गिनती लगती, हाथ उठता,\n      चीख के मिठास भरता।\n      खेलते हैं, गाते हैं,\n      भरत की ऐसी जगह!\n\n      कल भी आऊँगा सुबह,\n      दिल जी लेकर जाऊँगा,\n      मेरा स्कूल, मेरा घर,\n      दोनों जैसे भाई-बहन।",
+    "gu": "સવારે આઠ વાગે બારણું ખૂલે,\n      બધા દોડે છે અંદર.\n      દરેક બાળક હસે છે,\n      દરેક બાળક માસ્ટર.\n      ગણતરી લાગે, હાથ ઊપારે,\n      ચીસકે મિઠાસ ભરાય.\n      રમીએ, ગાઈએ,\n      ભારતની આવી જગ!",
+    "en": "At eight the gates are opened,\n      everybody runs inside.\n      Every child is smiling,\n      every child is a master.\n      Numbers we count, hands we raise,\n      the class is full of sweet noise.\n      We play, we sing,\n      India has a place like this!\n\n      Tomorrow I will come again,\n      I will carry my heart with me.\n      My school, my home,\n      both are like brother and sister."
+   }
+  },
+  {
+   "id": "p-kite",
+   "title": {
+    "hi": "पतंग की उड़ान",
+    "gu": "પતંગની ઉડાણ",
+    "en": "The Kite Flies High"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "kite",
+    "tree",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "पतंग थी मेरी लाल,\n      ऊपर आसमान में।\n      हवा ने सहारा दिया,\n      उड़ी ऐसी खूबसूरत कि रानी!\n\n      धीरे-धीरे ऊपर चढ़ी,\n      बादलों को छू गई।\n      डोरा थोड़ा ढीला कर दो,\n      वापस घर की ओर चली।\n\n      उड़ना गिरने से सीखो,\n      ऊँचा सोचो, ऊँचा जाओ।\n      डोरा हाथ में मज़बूत रखो,\n      फिर आसमान सरकार!",
+    "gu": "પતંગ હતી મારી લાલ,\n      ઉપર આકાશમાં.\n      પવને સાથ આપ્યો,\n      ઊડી એવી સુંદર કે રાણી!\n\n      ધીરે-ધીરે ઉપર ચઢી,\n      વદલોને છૂઈ ગઈ.\n      દોરો થોડો ઢીલો કર દો,\n      પાછી ઘર તરફ ચલી.\n\n      ઊડવું પડવાથી શીખો,\n      ઊંચું વિચારો, ઊંચું જાઓ.\n      દોરો હાથમાં મજબૂત રાખો,\n      ફરી આકાશ સરકાર!",
+    "en": "My kite was red and bright,\n      flying up in the sky.\n      The wind held it up high,\n      it flew like a beautiful queen!\n\n      Slowly, slowly it climbed,\n      it touched the clouds above.\n      Let the string go a little loose,\n      then it came back toward the house.\n\n      Fly to learn how you will fall,\n      think tall, go tall.\n      Hold your string with a strong hand,\n      then the whole sky is yours!"
+   }
+  },
+  {
+   "id": "p-holi",
+   "title": {
+    "hi": "होली का त्यौहार",
+    "gu": "હોળીનો તહેવારો",
+    "en": "The Festival of Holi"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "colours",
+    "child"
+   ],
+   "poem": {
+    "hi": "मार्च आया, रंग बरसा,\n      हर तरह से रंग बरसा।\n      लाल पीला नीला हरा,\n      मन में उठा उल्लास भरा।\n\n      गुलाल लगाओ, पानी छींटो,\n      चाचा चाची को ठप्प कर दो!\n      मिट्टी के पहाड़ बनाओ,\n      पिचकुरी को घूमाओ।\n\n      अगले साल फिर आएगा,\n      रंगों का त्योहार लाएगा।\n      सबको साथ में खेलेंगे,\n      सबको गले लगा लेंगे!",
+    "gu": "માર્ચ આવ્યો, રંગ ભરાયો,\n      દરેક રીતે રંગ ભરાયો.\n      લાલ પીળો ભૂરું લીલું હરો,\n      મનમાં ઉઠ્યો ઉલ્લાસ ભરો.\n\n      ગુલાલ લગાવો, પાણી છાંટો,\n      ચાચા ચાચીને ઠપ્પ કર દો!\n      માટીના પહાડ બનાવો,\n      પિચકરીને ફેરવો.\n\n      આવતા વર્ષ ફરી આવશે,\n      રંગોનો તહેવાર લાવશે.\n      બધા સાથે રમીશું,\n      બધાને ગળે ભીળીશું!",
+    "en": "March has come, the colours fall,\n      every kind of colour falls.\n      Red and yellow, blue and green,\n      my heart is filled with joy.\n\n      Throw the colour, splash the water,\n      give our uncle and aunt a shower!\n      Make little hills of mud,\n      and take the papad round and round.\n\n      Next year it will come again,\n      with its festival of colour.\n      All of us will play together,\n      all of us will hug each other!"
+   }
+  },
+  {
+   "id": "p-sun",
+   "title": {
+    "hi": "सूरज का संदेश",
+    "gu": "સૂર્યનો સંદેશ",
+    "en": "The Sun's Message"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "sun",
+    "cloud",
+    "tree"
+   ],
+   "poem": {
+    "hi": "सुबह सूरज बोला — उठो,\n      खोलो आँखें, धूप पाओ।\n      खेत को देता मैं रोशनी,\n      सबको देता मैं बलिदानी।\n\n      बीच में बादल आ जाते,\n      ढाँक लेते हैं मेरी किरण।\n      फिर मैं हँसता-हँसता निकलता,\n      करता सबको फिर से शरण।\n\n      मैं सब पर बरसता हूँ,\n      बिना किसी के भेदभाव।\n      छोटा हो, बड़ा हो,\n      सबको प्यार, सबको सुख।",
+    "gu": "સવારે સૂર્ય બોલ્યો — ઊઠો,\n      આંખ ખોલો, ધોર પાઓ.\n      ખેતરને આપું રોશની,\n      બધાને આપું બલિદાની.\n\n      વચ્ચે વદલો આ જાય,\n      ઢાંકી લે છે મારી કિરણ.\n      પછી હું હસતાં-હસતાં નીકળું,\n      કરું બધાને ફરી શરણ.\n\n      હું બધા પર વરસું,\n      કોઈને તફાવત વગર.\n      નાનો હો, મોટો હો,\n      બધાને પ્યાર, બધાને સુખ.",
+    "en": "In the morning the Sun says — get up,\n      open your eyes, take the light.\n      I give the fields their shining,\n      for everybody I sacrifice my light.\n\n      Sometimes the clouds arrive\n      and cover all my rays.\n      Then I smile and I come out,\n      and give everyone shelter again.\n\n      I fall on everybody,\n      without asking who they are.\n      Small or tall, rich or poor,\n      love for all, care for all."
+   }
+  },
+  {
+   "id": "p-mitri",
+   "title": {
+    "hi": "सच्ची मित्रता",
+    "gu": "સાચું મિત્રત્વ",
+    "en": "True Friendship"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "child",
+    "tree",
+    "bird"
+   ],
+   "poem": {
+    "hi": "सच्चा मित्र रखे कभी पीठ पीछे,\n      न ऊँचा न नीचा, बस एक समान।\n      न आलसी है, न चालाक उसे,\n      नहीं रखता मन में कोई छिपान।\n\n      हाथ पकड़े तो ज़िंदगी भर,\n      बिगड़ा मामला साथ चले।\n      हँसी तो ऐसी कि दुख पतला,\n      और दर्द ढल जाए के छले।\n\n      खुशी हो तो दोहरे करे,\n      दुख हो तो आधा करे।\n      मित्र सच्चा तो सोना जैसा,\n      खोने पर भी चमके।",
+    "gu": "સાચો મિત્ર રાખે કદી પીઠ પાછળ,\n      ન ઊંચો ન નીચો, બસ એક સમાન.\n      ન આળસી છે, ન ચાલાક તેને,\n      નથી રાખે મનમાં કોઈ છુપાવ.\n\n      હાથ પકડે તો જીવન ભર,\n      બગડેલો કામ સાથે ચલે.\n      હાસ્ય તો એવું કે દુઃખ પાતળું,\n      અને દરદ ઢલ જાય કે છલે.\n\n      ખુશી હો તો બેવડું કરે,\n      દુઃખ હો તો અડધું કરે.\n      મિત્ર સાચો તો સોના જેવો,\n      ખોને પર પણ ચમકે.",
+    "en": "A true friend never turns his back,\n      neither tall nor low — we are the same.\n      Never lazy, never too clever,\n      never hiding what he thinks or feels.\n\n      Hold my hand and hold it always,\n      walk beside me in my trouble.\n      Such laughter that the sorrow thins,\n      and the pain washes out completely.\n\n      When I am glad, he doubles it,\n      when I am sad, he halves it.\n      A true friend is the gold of friends,\n      he shines even in the dark."
+   }
+  },
+  {
+   "id": "p-subah",
+   "title": {
+    "hi": "सुबह हो गई",
+    "gu": "સવાર થઈ ગઈ",
+    "en": "Morning Has Come"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "sun",
+    "cloud",
+    "child"
+   ],
+   "poem": {
+    "hi": "सुबह हो गई, सूरज आया,\n    दरवाज़ा खोलो, मुँह धो लो।\n    मम्मी बोली — चाय पी लो,\n    फिर खेलने दौड़ लगा लो!\n\n    एक दो तीन, उठो उठो,\n    नए दिन का चम्मा जूटो।",
+    "gu": "સવાર થઈ ગઈ, સૂર્ય આવ્યો,\n    બારણું ખોલો, મોં ધોવો.\n    મમ્મી બોલી — ચા પી લો,\n    પછી રમવા દોડ લગાવો!\n\n    એક બે ત્રણ, ઊઠો ઊઠો,\n    નવા દિવસનો ચમમાં જૂઓ.",
+    "en": "Morning has come, the Sun is here,\n    open the door and wash your face.\n    Mother says — please drink your tea,\n    then run outside and start to play!\n\n    One two three, get up get up,\n    let the new day fill your cup."
+   }
+  },
+  {
+   "id": "p-paon",
+   "title": {
+    "hi": "मेरे पैर",
+    "gu": "મારા પગ",
+    "en": "My Feet"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "hands",
+    "child"
+   ],
+   "poem": {
+    "hi": "मेरे हैं दो पैर, प्यारे पैर,\n    इन्हें से चलूँ, इन्हें से गाऊँ।\n    टप-टप-टप चलते पैर,\n    ढोल-ढोल करते कदम-कदम।\n\n    पहला कदम, दूसरा कदम,\n    तीसरे पर मिले अब हाथ।\n    सो जाओ मेरे प्यारे पैर,\n    कल फिर से करेंगे तैयार।",
+    "gu": "મારા છે બે પગ, પ્યારા પગ,\n    આથી ચાલું, આથી ગાવું.\n    ટપ-ટપ-ટપ ચાલે પગ,\n    ઢોલ-ઢોલ કરે કદમ-કદમ.\n\n    પહેલો કદમ, બીજો કદમ,\n    તીજા પર મળે હવે હાથ.\n    સૂઈ જાઓ મારા પ્યારા પગ,\n    કાલે ફરીથી કરીશું તૈયાર.",
+    "en": "I have two feet, two lovely feet,\n    with them I walk, with them I sing.\n    Tap-tap-tap they go along,\n    drum-drum-drum they step like a song.\n\n    First step, second step,\n    the third one meets my hand.\n    Go to sleep now, lovely feet,\n    tomorrow we will dance again."
+   }
+  },
+  {
+   "id": "p-ginti",
+   "title": {
+    "hi": "एक दो तीन",
+    "gu": "એક બે ત્રણ",
+    "en": "One Two Three"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "child",
+    "star",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "एक — एक उँगली,\n    दो — दो उँगलियाँ,\n    तीन — तीन उँगलियाँ,\n    चार — पकड़ ली अपनी।\n\n    पाँच में सबसे बड़ा,\n    छह को गिनो ज़ोर से,\n    सात — आठ — नौ — दस,\n    हाथों का खेल अब हो गया!",
+    "gu": "એક — એક આંગળી,\n    બે — બે આંગળીઓ,\n    ત્રણ — ત્રણ આંગળીઓ,\n    ચાર — પકડી લી પોતાની.\n\n    પાંચમાં સૌથી મોટો,\n    છ ગણો જોરથી,\n    સાત — આઠ — નવ — દસ,\n    હાથનો રમતો હવે થઈ ગયો!",
+    "en": "One — one finger,\n    Two — two fingers,\n    Three — three fingers,\n    Four — I take them all.\n\n    Five is the biggest one,\n    six we count out loud,\n    seven — eight — nine — ten,\n    now the hand game has begun!"
+   }
+  },
+  {
+   "id": "p-sabzi",
+   "title": {
+    "hi": "आलू और गाजर",
+    "gu": "બટાકા અને ગાજર",
+    "en": "Potato and Carrot"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "carrot",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "आलू भूनी लाल-लाल,\n    गाजर लंबी नारंगी वाली।\n    एक काटू ज़ोर से,\n    हाथ पकाले रसीली!\n\n    माँ कहती — खा लो बेटा,\n    ताकि बढ़े तुम मज़बूत।\n    थोड़ी सब्ज़ी, थोड़ा दूध,\n    पक़े हुए चने हो ज़रूरत।",
+    "gu": "બટાકા ભૂના લાલ-લાલ,\n    ગાજર લાંબી કાળાવાળી.\n    એક કાપી મોટા થી,\n    હાથ પકાડે રસીલી!\n\n    માં કહે — ખા લે પુત્ર,\n    જેથી વધે તું મજબૂત.\n    થોડી શાકભાજી, થોડું દૂધ,\n    શરીર માટે જરૂરી.",
+    "en": "Potato roasted, red and warm,\n    carrot long and orange.\n    I cut them with a big big bite,\n    my little hands get dancing.\n\n    Mother says — eat them all, my son,\n    so that you grow strong.\n    A little vegetable, a little milk,\n    is what our body wants."
+   }
+  },
+  {
+   "id": "p-gubbara",
+   "title": {
+    "hi": "गुब्बारा उड़ा",
+    "gu": "બલૂન ઊડ્યો",
+    "en": "The Balloon Went Up"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "balloon",
+    "child"
+   ],
+   "poem": {
+    "hi": "लाल-नीला पीला गुब्बारा,\n    ऊपर-ऊपर जाता जाए।\n    डोरा हाथ से छूट गया,\n    गुब्बारा आसमान में खो जाए।\n\n    जा ऊपर, जा ऊपर, प्यारे गुब्बारे,\n    मुझे नीचे छोड़ के जा।\n    जब तूँ लौटेगा जल्दी से,\n    तब तक हँसूँगा मैं हर-हर!",
+    "gu": "લાલ-નીલું પીળું બલૂન,\n    ઉપર-ઉપર જાય છે.\n    દોરો હાથથી છૂટી ગયો,\n    બલૂન આકાશમાં ખોય જાય.\n\n    જા ઉપર, જા ઉપર, પ્યારા બલૂન,\n    મને નીચે છોડીને જા.\n    જ્યારે પાછું આવશે તું,\n    ત્યારસુધી હસશું હર-હર!",
+    "en": "Red and blue and yellow balloon,\n    up and up it goes.\n    The string slips right out of my hand,\n    the balloon flies and I let go.\n\n    Go up, go up, my lovely balloon,\n    please don't leave me here.\n    When you come back to me again,\n    I will laugh and cheer!"
+   }
+  },
+  {
+   "id": "p-nandi",
+   "title": {
+    "hi": "नंदी गाय",
+    "gu": "નંદિ ગાય",
+    "en": "Our Cuddly Cow"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "cow",
+    "hen",
+    "child"
+   ],
+   "poem": {
+    "hi": "नंदी गाय हमारी,\n    सफ़ेद-सफ़ेद चमकती।\n    दूध देती सुबह-सुबह,\n    और खाती है घास जमी।\n\n    पीठ पर बैठो प्यार से,\n    धीरे-धीरे डोले दो।\n    नंदी कहती — मुझे इजाज़ करो,\n    मैं सबकी प्यारी हूँ!",
+    "gu": "નંદિ ગાય આમારી,\n    સફેદ-સફેદ ચમકતી.\n    દૂધ આપે સવારે,\n    અને ખાય છે ઘાસ જમીન.\n\n    પીઠ પર બેસો પ્યારથી,\n    ધીરે-ધીરે ડોલો દો.\n    નંદિ કહે — મને ઇજાજત કરો,\n    હું બધાની પ્યારી છું!",
+    "en": "Our cow is Nandi, our own,\n    white and shining, nice to hold.\n    She gives milk in the morning,\n    and she eats the grass of gold.\n\n    Sit on her back very slow,\n    and gently rock along.\n    Nandi says — please be gentle,\n    I am everyone's dear song."
+   }
+  },
+  {
+   "id": "p-mithai",
+   "title": {
+    "hi": "जन्मदिन की मिठाई",
+    "gu": "જન્મદિની મીઠાઈ",
+    "en": "Birthday Sweetness"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "cake",
+    "child",
+    "balloon"
+   ],
+   "poem": {
+    "hi": "केक पर लगे मोमबत्ती,\n    जन्म का मीठा उत्सव।\n    फूँक मारो, सब जलें,\n    हँसो-हँसो करें शुभ गंभीर!\n\n    मिठाई खाओ, गाना गाओ,\n    जन्मदिन मेरा आया।\n    सबको बाँटो, सबको खिलाओ,\n    खुशी का दिन आज लाया!",
+    "gu": "કેક પર લાગી મોમબત્તી,\n    જન્મનો મીઠો ઉત્સવ.\n    ફૂંક મારો, બધી વળી,\n    હસો-હસો કરો શુભ કાંજ સવ!\n\n    મીઠાઈ ખાઓ, ગીત ગાઓ,\n    મારો જન્મદિન આવ્યો.\n    બધાને વાંચો, બધાને ખિલાવો,\n    ખુશીનો દિવસ આજે લાવ્યો!",
+    "en": "Little candles on the cake,\n    what a sweet day is here!\n    Blow, blow, and out they go,\n    everyone is smiling, cheer!\n\n    Eat the sweet, sing the song,\n    my birthday has arrived.\n    Share with all and make them smile,\n    today we are the happiest hive."
+   }
+  },
+  {
+   "id": "p-baraf",
+   "title": {
+    "hi": "बर्फ़ का टुकड़ा",
+    "gu": "બરફનો ટુકડો",
+    "en": "A Piece of Snow"
+   },
+   "classId": "play",
+   "scene": [
+    "snow",
+    "snowman",
+    "child"
+   ],
+   "poem": {
+    "hi": "बर्फ़ हरी भागी बादल से,\n    सफ़ेद-सफ़ेद नरम-नरम।\n    हाथ फैसा, मुँह हँसाया,\n    छोटी सी बच्ची, चिक्क-चिक्क!\n\n    गोला बनाया बर्फ़ का,\n    आँखें बनीं कोपी-कोपी।\n    बर्फ़ खेलो, रास्ते बनाओ,\n    फिर सूरज आए — गले लगाओ!",
+    "gu": "બરફ વાદળાથી ભાગી,\n    સફેદ-સફેદ નરમ-નરમ.\n    હાથ પસાર્યો, ખુશ થયો,\n    નાની બચ્ચી, ચિક-ચિક!\n\n    ગોળો બનાવ્યો બરફનો,\n    આંખો બની કોપી-કોપી.\n    બરફ રમીઓ, રસ્તા બનાવો,\n    પછી સૂર્ય આવ્યો — ગળે લાગાવો!",
+    "en": "The snow has fallen from the cloud,\n    white and soft and so light.\n    Hands out wide and smiling mouth,\n    little one, this is so nice!\n\n    I made a snowman round and fat,\n    eyes of coal, a funny nose.\n    We played with snow and made a road,\n    then came the sun — I love you!"
+   }
+  },
+  {
+   "id": "p-mandar",
+   "title": {
+    "hi": "बंदर और केला",
+    "gu": "વાંદળ અને કેળું",
+    "en": "The Monkey and the Banana"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "monkey",
+    "tree"
+   ],
+   "poem": {
+    "hi": "पेड़ पर बैठा बंदर,\n    केला खाता हर-हर।\n    नीचे देखे बच्चे सब,\n    पकड़ो मुझे नीचे उतर!\n\n    लटकन-छपाक करता बंदर,\n    पेड़ से टूटा केला गिरा।\n    बच्चों ने कहा — आ गया नीचे,\n    हाथ बढ़ाओ, केला लिया!",
+    "gu": "વૃક્ષ પર બેઠો વાંદળ,\n    કેળું ખાય છે હર-હર.\n    નીચે જુએ બાળકો સબ,\n    પકડો મને નીચે ઉતાર!\n\n    લટકત-છપાક કરે વાંદળ,\n    વૃક્ષથી કેળું ખર્યું.\n    બાળકોએ કહ્યું — નીચે આવ્યો,\n    હાથ લંબાવો, કેળું લીધું!",
+    "en": "A monkey sitting in the tree,\n    eating bananas, one two three.\n    The children looked up and called,\n    come down to us, we want to see!\n\n    He swung and swayed from branch to branch,\n    then down the yellow banana fell.\n    We ran and caught it — look, we have it!\n    Monkey from the tree, farewell!"
+   }
+  },
+  {
+   "id": "p-hathi",
+   "title": {
+    "hi": "हाथी जी बड़े",
+    "gu": "હાથી ભાઈ મોટા",
+    "en": "The Big Elephant"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "elephant",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "हाथी जी बड़े-बड़े,\n    सूँड लंबी, कान बड़े।\n    धीरे-धीरे चलते जी,\n    हमको सबको प्यार करें जी।\n\n    ऊपर सी एक आम तोड़े,\n    नीचे से एक फूल उठाए।\n    \"आ जा बेटा, ऊपर बैठ जा,\"—\n    सबसे प्यारी कहानी सुनाए।",
+    "gu": "હાથી ભાઈ મોટા-મોટા,\n    સૂંડ લાંબી, કાન મોટા.\n    ધીરે-ધીરે ચાલે છે,\n    આપણને સૌને પ્યાર કરે છે.\n\n    ઉપરથી એક કેરી તોડે,\n    નીચેથી એક ફૂલ ઊઢારે.\n    \"આ જા પુત્ર, ઉપર બેસ જા\" —\n    સૌથી પ્યારી વાત સુનાવે.",
+    "en": "Our elephant is big and tall,\n    long trunk and ears so wide.\n    He walks so slow and heavy-footed,\n    with love for all, step by step.\n\n    Up high he picks a mango,\n    down low he lifts a flower.\n    \"Come here child, sit upon my back\" —\n    the sweetest story of the hour."
+   }
+  },
+  {
+   "id": "p-sher",
+   "title": {
+    "hi": "शेर और खरगोश",
+    "gu": "સિંહ અને ખરગોશ",
+    "en": "The Lion and the Rabbit"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "lion",
+    "rabbit",
+    "tree"
+   ],
+   "poem": {
+    "hi": "शेर सोया गहरी नींद,\n    खरगोश निकला चोंटने-चोंट।\n    दर-दर पेड़ उखाड़ दिए,\n    शेर जागा — रन-रन थै!\n\n    शेर ने पूछा — क्या हुआ?\n    खरगोश बोला — पकड़ ली तूँ!\n    सब मिलकर मदद को दौड़े,\n    गाजर का खेल छोड़ दिया ने काम।",
+    "gu": "સિંહ સૂવ્યો ઊંઘરેટો,\n    ખરગોશ નીકળ્યો ચાવવા.\n    દર-દર વૃક્ષ ઉખાડ્યા દીઠા,\n    સિંહ જાગ્યો — દોડ-દોડ આવ્યો!\n\n    સિંહે પૂછ્યું — શું થયું?\n    ખરગોશ બોલ્યો — પકડી લીધું!\n    બધા મળી મદદ કરવા દોડ્યા,\n    ગાજરનો ખેલ પૂરો થઈ ગયો.",
+    "en": "The lion slept in a very deep sleep,\n    the rabbit hopped out to munch.\n    He pulled up the trees here and there,\n    the lion woke — and ran to munch!\n\n    The lion said — what has happened?\n    The rabbit said — catch me if you can!\n    They all came running to help him,\n    and the carrot game was done."
+   }
+  },
+  {
+   "id": "p-machhli",
+   "title": {
+    "hi": "मछली वालू नदी",
+    "gu": "માછલી વાળું નદી",
+    "en": "The Fish in the Water"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "pond",
+    "fish",
+    "bird"
+   ],
+   "poem": {
+    "hi": "नदी में तैरती मछली,\n    पानी ने ऐसा किया।\n    फिन लगी नन्हीं पंखों से,\n    नीचे-ऊपर, नीचे-ऊपर।\n\n    कुछ कहती है मछली —\n    \"पानी गहरा, पानी प्यारा!\n    मेरे बिना यहाँ सूखा,\n    मेरे बिना जीवन अधूरा!\"",
+    "gu": "નદીમાં તરતી માછલી,\n    પાણીએ એવું કર્યું.\n    પાંખડી નાની જરીબોથી,\n    નીચે-ઉપર, નીચે-ઉપર.\n\n    કંઈ કહે છે માછલી —\n    \"પાણી ઊંડું, પાણી પ્યારું!\n    મારા વગર અહીં સૂકાઈ,\n    મારા વગર જીવન અધૂરું!\"",
+    "en": "A little fish swims in the stream,\n    the water has done so much.\n    Her small fins go up and down,\n    down and up, and up and down.\n\n    The fish says — listen here you,\n    \"the water is deep and sweet!\n    Without me this river is dry,\n    without me my life is incomplete!\""
+   }
+  },
+  {
+   "id": "p-bus",
+   "title": {
+    "hi": "बस वाली कविता",
+    "gu": "બસ વાળી કવિતા",
+    "en": "The Bus Song"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "bus",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "बस आई बस आई,\n    पीली बस लाई।\n    \"चढ़ो चढ़ो आगे बैठो,\n    डाल-डाल छोड़ दो पत्ते लाई!\"\n\n    बस चली ढूँ-ढूँ-ढूँ,\n    पेड़ पास-पास।\n    खिड़की से देखे बच्चे सब,\n    हाथ हिलाते — जाओ जाओ पास!",
+    "gu": "બસ આવી બસ આવી,\n    પીળી બસ લાવી.\n    \"ચઢો ચઢો આગળ બેસો,\n    ડાલ-ડાલ છોડી દો પત્તા લાવી!\"\n\n    બસ ચલી ઢૂં-ઢૂં-ઢૂં,\n    વૃક્ષ પાસે-પાસે.\n    બારીકીથી જુએ બાળકો સબ,\n    હાથ હલાવે — જાઓ જાઓ પાસે!",
+    "en": "Here comes the bus, here comes the bus,\n    the yellow bus is here.\n    \"Climb up, climb up, sit in front,\n    hold the tree-leaf for the fare!\"\n\n    The bus goes hum, hum, hum,\n    trees standing in a row.\n    All the kids look out the window,\n    waving hands — here we go!"
+   }
+  },
+  {
+   "id": "p-gend",
+   "title": {
+    "hi": "गेंद है मेरी",
+    "gu": "દડો છે મારો",
+    "en": "This Ball Is Mine"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "ball",
+    "child",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "गेंद है मेरी गोल-मटोल,\n    सफ़ेद-काली धारियाँ।\n    ऊपर ऊपर छोड़ता हूँ,\n    नीचे आए तो पकड़ लेता कोई।\n\n    रोल-रोल जाती दूर,\n    लौटकर आती मेरे पास।\n    खेल है मेरा गेंद से,\n    बस मिलती है गिनती तेज़!",
+    "gu": "દડો છે મારો ગોળ-મટોલ,\n    સફેદ-કાળી ધારીઓ.\n    ઉપર ઉપર નાખું છું,\n    નીચે આવે તો પકડે કોઈ.\n\n    રોલ-રોલ જાય દૂર,\n    પાછી આવે મારી પાસે.\n    રમત છે મારી દડા સાથે,\n    ગણતરી જ માટે વધારે!",
+    "en": "This ball of mine is round and fat,\n    with stripes of white and black.\n    I throw it up, up, up and high,\n    when it comes down you catch it back.\n\n    Rolling and rolling it goes far,\n    and comes back close to me.\n    My ball is my best friend now,\n    and counting is the game, you see!"
+   }
+  },
+  {
+   "id": "p-makdi",
+   "title": {
+    "hi": "मकड़ी के आठ पैर",
+    "gu": "કરમાતના આઠ પગ",
+    "en": "The Spider's Eight Legs"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "spider",
+    "tree",
+    "bird"
+   ],
+   "poem": {
+    "hi": "देखो देखो मकड़ी,\n    आठ पैरों वाली।\n    जाला बनाती धागे से,\n    गिनती सीखो तुम सारी!\n\n    एक, दो, तीन, चार,\n    पाँच, छह, सात, आठ।\n    इतनी पैरों वाली जानदार,\n    और मकड़ी मुँ से बात करे हार!",
+    "gu": "જુઓ જુઓ કરમાત,\n    આઠ પગવાળી.\n    જાળ બનાવે દોરથી,\n    ગણતરી શીખો તમ સાચી!\n\n    એક, બે, ત્રણ, ચાર,\n    પાંચ, છ, સાત, આઠ.\n    આટ્ટા પગવાળી જાનદાર,\n    અને કરમાત વાત કરે માર!",
+    "en": "Look, look, the spider,\n    with eight legs to him.\n    She makes her web with thread so fine,\n    now count them — everyone of them!\n\n    One, two, three, four,\n    five, six, seven, eight.\n    Such a lovely strong-legged one,\n    she talks to us and laughs — that's great!"
+   }
+  },
+  {
+   "id": "p-ghari",
+   "title": {
+    "hi": "मेरी घड़ी",
+    "gu": "મારી ઘડિયાળ",
+    "en": "My Little Clock"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "clock",
+    "child"
+   ],
+   "poem": {
+    "hi": "टिक-टिक करती घड़ी,\n    कभी रुकती नहीं मेरी।\n    सुबह बजे सात बजकर,\n    जगा देती मुझे प्यारी-प्यारी!\n\n    छह बजे तो उठो जी,\n    आठ बजे खाना खाओ।\n    दस बजे पढ़ने बैठ जा,\n    और नींद को निकल जाओ!",
+    "gu": "ટિક-ટિક કરે ઘડિયાળ,\n    કદી રોકાતી નથી મારી.\n    સવારે વાગ્યા સાત વાગીને,\n    જગાડે છે મને પ્યારી-પ્યારી!\n\n    છ વાગ્યે તો ઊઠો ભાઈ,\n    આઠ વાગ્યે ખાવું ખાઓ.\n    દસ વાગ્યે વાંચવા બેસ જા,\n    અને ઊંઘ કાઢી જાઓ!",
+    "en": "Tick-tick, tick-tick goes my clock,\n    it never stops for me.\n    At seven in the morning,\n    it wakes me up so gently.\n\n    At six you must get up,\n    at eight you must eat.\n    At ten you sit and learn your books,\n    and off to sleep you go, that's neat!"
+   }
+  },
+  {
+   "id": "p-dant",
+   "title": {
+    "hi": "ब्रश से दाँत",
+    "gu": "બ્રશથી દાંત",
+    "en": "Brush Your Teeth"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "tooth",
+    "child"
+   ],
+   "poem": {
+    "hi": "बड़े-बड़े दाँत हैं मेरे,\n    सफ़ेद-सफ़ेद और चमकदार।\n    रोज़ सुबह ब्रश से धोऊँ,\n    मिठाई खाऊँ तो ब्रश फिर से।\n\n    ऊपर-नीचे, गोल-गोल,\n    दाँतों को मिलाता जाऊँ।\n    प्यारे-प्यारे दाँत हैं मेरे,\n    इनकी रक्षा कर लाऊँ।",
+    "gu": "મોટા-મોટા દાંત છે મારા,\n    સફેદ-સફેદ અને ચમકતા.\n    રોજ સવારે બ્રશથી ધોવું,\n    મીઠાઈ ખાઉં તો બ્રશ ફરીથી.\n\n    ઉપર-નીચે, ગોળ-ગોળ,\n    દાંતને ભેળવું જઈએ.\n    પ્યારા-પ્યારા દાંત છે મારા,\n    એમની રક્ષા કરી લઈએ.",
+    "en": "Big big teeth are here in my mouth,\n    shining white and clean.\n    Every morning I brush them well,\n    after sweets I brush again.\n\n    Up and down, round and round,\n    I make them all meet.\n    These teeth are very dear to me,\n    so let me help them stay neat!"
+   }
+  },
+  {
+   "id": "p-bharat",
+   "title": {
+    "hi": "मेरा देश भारत",
+    "gu": "મારું દેશ ભારત",
+    "en": "My Country India"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "mountain",
+    "river",
+    "bird",
+    "tree"
+   ],
+   "poem": {
+    "hi": "ऊँचे-ऊँचे पहाड़ हैं मेरे,\n    लंबी-लंबी नदियाँ।\n    हरे-भरे खेत हैं मेरे,\n    मेरे बाग-बगीचे।\n\n    चिड़ियाँ गातीं इन्हीं केले,\n    तितलियाँ डोलें इन पर।\n    मेरा देश सबसे प्यारा,\n    इसी को कहूँ — मेरा वतन!",
+    "gu": "ઊંચા-ઊંચા પર્વત છે મારા,\n    લાંબી-લાંબી નદીઓ.\n    લીલા-લીલા ખેતર છે મારા,\n    મારા બગીચા-ફૂલો.\n\n    ચીડિયાં ગાય છે ત્રણે જ,\n    તીવળીઓ ઝૂલે તેમાં ઉપર.\n    મારું દેશ સૌથી પ્યારો,\n    એને કહું — મારું વતન!",
+    "en": "I have the highest mountains,\n    and rivers long and wide.\n    I have the greenest fields,\n    and gardens on every side.\n\n    Birds sing songs upon my hills,\n    butterflies dance on flowers.\n    My country is the dearest one —\n    this is my own, my hours!"
+   }
+  },
+  {
+   "id": "p-rakhi",
+   "title": {
+    "hi": "राखी का त्यौहार",
+    "gu": "રાખીનો તહેવારો",
+    "en": "The Festival of Rakhi"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "gift",
+    "child",
+    "flower"
+   ],
+   "poem": {
+    "hi": "आज राखी बनानी है,\n    भाई को कल तक भेजनी है।\n    लाल-पीली चमकदार राखी,\n    सीने में सजा ले उसे।\n\n    \"भाई, यह राखी पहन ले,\n    याद रखना मुझे हमेशा।\n    कभी न छोड़ना हाथ मेरा,\n    जैसे मैं न छोड़ूँगी तेरा!\"",
+    "gu": "આજે રાખી બનાવવી છે,\n    ભાઈને કાલ સુધી મોકલવી છે.\n    લાલ-પીળી ચમકતી રાખી,\n    છાતીમાં સજાવી લે એને.\n\n    \"ભાઈ, આ રાખી પહેર લે,\n    યાદ રાખજે મને હંમેશાં.\n    કદી ન છોડવું હાથ મારો,\n    જેમ હું ન છોડું તમારો!\"",
+    "en": "Today I have to make a rakhi,\n    send it to my brother by tomorrow.\n    A red and yellow shining rakhi,\n    we will tie around his chest.\n\n    \"Brother, please wear this rakhi,\n    and always remember me.\n    Never leave or hold my hand,\n    just as I will never leave thee!\""
+   }
+  },
+  {
+   "id": "p-vidya",
+   "title": {
+    "hi": "विद्या देवी",
+    "gu": "વિદ્યા દેવી",
+    "en": "Goddess of Learning"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "book",
+    "lamp",
+    "child"
+   ],
+   "poem": {
+    "hi": "किताब है दीपक समान,\n    जो जलाता है अंधेर को।\n    जो बिना पढ़े रहता आँधेरे में,\n    वो जीवन में खो दे।\n\n    सुबह पढ़ूँ, शाम पढ़ूँ,\n    हर समय पढ़ता रहूँ।\n    जो थोड़ा-थोड़ा पढ़ता जाए,\n    सागर में वो उतर आए!",
+    "gu": "પુસ્તક છે દીવડું સમાન,\n    જે બળે અંધકારનું.\n    જે વગર વાંચ્યું તો અંધકાર,\n    એ જીવનમાં ખોઈ જાય.\n\n    સવારે વાંચું, સાંજે વાંચું,\n    દરેક સમય વાંચતો રહું.\n    જે થોડું-થોડું વાંચતો જાય,\n    સાગરમાં તે ઉતરી જાય!",
+    "en": "A book is like a little lamp,\n    it burns away the dark.\n    He who never learns to read,\n    in life walks long in dark.\n\n    I read in morning, read at night,\n    I read at every time.\n    He who reads a little every day,\n    will reach the ocean of his prime!"
+   }
+  },
+  {
+   "id": "p-diwali",
+   "title": {
+    "hi": "दीपावली का दिन",
+    "gu": "દિવાળીનો દિવસ",
+    "en": "The Day of Diwali"
+   },
+   "classId": "ukg",
+   "scene": [
+    "night",
+    "stars",
+    "diya",
+    "home",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "दीये जले लाल-लाल,\n    अँधेरा हटा गया काला।\n    राखी-पट्टी लगाओ दरवाज़े पर,\n    आ जाए मेहमान उजाला।\n\n    बुराई से भलाई होती,\n    हर साल यही सीख दाती।\n    रोशनी का दीवस है दीपावली,\n    प्यार-सुख का उपहार लाती!",
+    "gu": "દીવડા બળે લાલ-લાલ,\n    અંધકાર ગયો કાળો.\n    રાખી-પટ્ટી લગાવો બારણે,\n    આવી જાય મહેમાન ઉજાળો.\n\n    ખરાબથી સારું થાય,\n    દરેક વર્ષ આ શીખવાય.\n    પ્રકાશનો દિવસ છે દિવાળી,\n    પ્યાર-સુખનો ભેટ લાવે તમાં!",
+    "en": "The little lamps are burning red,\n    all the darkness has gone instead.\n    Tie a rakhi at your door,\n    let the happy guests come in.\n\n    Good always wins from evil here,\n    every year it teaches clear.\n    This festival of light is here,\n    bringing love and joy and cheer!"
+   }
+  },
+  {
+   "id": "p-suna",
+   "title": {
+    "hi": "सुनना भी एक कला",
+    "gu": "સાંભળવું પણ કલા",
+    "en": "Listening Is a Skill"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "child",
+    "bird",
+    "tree"
+   ],
+   "poem": {
+    "hi": "बोलना तो सबको आता,\n    सुनना सीखना पड़ता।\n    पहले ध्यान से सुन लो,\n    फिर बोलो मन की बात।\n\n    चिड़िया को कहा — तू चुप,\n    मैं अभी सुन रहा हूँ।\n    जो पहले सुनना जानता है,\n    सबसे समझदार वही सच में!",
+    "gu": "બોલવું તો બધાને આવે,\n    સાંભળવું શીખવું પડે.\n    પહેલા ધ્યાનથી સાંભળો,\n    પછી બોલો મનની વાત.\n\n    ચીડિયાને કહ્યું — તું ચૂપ,\n    હું હમણાં સાંભળું છું.\n    જે પહેલા સાંભળવું જાણે,\n    સૌથી સમજદાર એ જ સાચે!",
+    "en": "Everyone can talk and talk,\n    but listening must be learnt.\n    First listen with all your heart,\n    then say what you have meant.\n\n    I told the bird — please be quiet,\n    I still am listening now.\n    Whoever learns to listen first,\n    is truly the cleverest, I vow!"
+   }
+  },
+  {
+   "id": "p-safai",
+   "title": {
+    "hi": "छोटी सी सफ़ाई",
+    "gu": "નાની સી સફાઈ",
+    "en": "A Little Bit of Clean"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "home",
+    "flower",
+    "child"
+   ],
+   "poem": {
+    "hi": "सुबह उठकर झाड़ू लगाऊँ,\n    घर को साफ़-सुथरा पाऊँ।\n    अपनी बिस्तर बनाकर रखूँ,\n    नए दिन की शुभ शुरुआत पाऊँ।\n\n      मैं सफ़ाई करूँगा,\n    माँ मुस्कुराएगी,\n    घर चमक उठेगा,\n    सबको अच्छा लगेगी!",
+    "gu": "સવારે ઊઠીને ઝાડું લગાવું,\n    ઘરને સાફ-સુધરું પાવું.\n    પોતાનું બિછાવણું બનાવી રાખું,\n    નવા દિવસની શુભ શરૂઆત કરું.\n\n    હું સફાઈ કરીશ,\n    માં હસશે,\n    ઘર ચમકશે,\n    બધાને સારું લાગશે!",
+    "en": "I get up and sweep the floor,\n    and keep my house so neat.\n    I make my own bed today,\n    a new day I will greet.\n\n    I will do the cleaning,\n    mother will smile.\n    The whole home will shine,\n    for everyone a while!"
+   }
+  },
+  {
+   "id": "p-kabaddi",
+   "title": {
+    "hi": "खेल है कबड़ी",
+    "gu": "રમત છે કબડી",
+    "en": "We Play Kabaddi"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "ball",
+    "child",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "सात-सात की आवाज़ लगाओ,\n    आगे पीछे सब भागो!\n    एक को पकड़ो, दस को छोड़ो,\n    कबड़ी-कबड़ी खेल आऊँ!\n\n    घुटनों पे बैठकर ज़ोर से,\n    पीठ पे पैर रखकर ऊँचे से,\n    निकली जब रोशनी हाथ से,\n    तब खुशी से नाच ले हाथ से!",
+    "gu": "સાત-સાતનો અવાજ કરો,\n    આગળ પાછળ બધા દોડો!\n    એકને પકડો, દસને છોડો,\n    કબડી-કબડી રમત રમીઓ!\n\n    ઘૂંટણા પર બેસીને જોરથી,\n    પીઠ પર પગ રાખીને ઊંચાઈથી,\n    નીકળી જ્યારે રોશની હાથથી,\n    ત્યારે ખુશીથી નાચીએ!",
+    "en": "Seven-seven! Shout it out,\n    everyone run forwards, back about!\n    Catch one, but let ten go free,\n    now let's play kabaddi, you see!\n\n    Kneel down low and hold on tight,\n    raise your feet up in the air.\n    When the light shines in your hand,\n    then dance and jump and be aware!"
+   }
+  },
+  {
+   "id": "p-nadi",
+   "title": {
+    "hi": "नदी का गीत",
+    "gu": "નદીનો ગીત",
+    "en": "The Song of the River"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "mountain",
+    "river",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "पहाड़ों से दौड़ती नदी,\n    पत्थरों से होती महिमा।\n    कहती है धरती की बेटी,\n    \"बहती हूँ, रुकती नहीं कभी!\"\n\n    झाग बनते, लहरें गातीं,\n    किनारों पे पेड़ जगमगातीं।\n    खेतों को पानी देती सीं,\n    इसलिए लगती सबको प्रीत!",
+    "gu": "પર્વતથી દોડતી નદી,\n    પાષાણથી થાય મહિમા.\n    કહે છે ધરતીની દીકરી,\n    \"ભાગું છું, રોકાતી નહીં કદી!\"\n\n    ઝાપ બને, લહેરાં ગાય,\n    કિનારા પર વૃક્ષ ઝળઝળાય.\n    ખેતરને પાણી આપે સીં,\n    એટલું સૌને ગમ્યું જ પ્રીત!",
+    "en": "A river runs down from the hills,\n    with stones her glory flows.\n    The daughter of the earth she says,\n    \"I flow, I never stop, you know!\"\n\n    Foams are made and waves do sing,\n    trees by banks are shimmering.\n    To all the fields she gives her water,\n    so everyone loves her, later."
+   }
+  },
+  {
+   "id": "p-aankh",
+   "title": {
+    "hi": "मेरी आँखें",
+    "gu": "મારી આંખો",
+    "en": "My Two Bright Eyes"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "mirror",
+    "child"
+   ],
+   "poem": {
+    "hi": "आँखें मेरी गोल-मटोल,\n    देखती हैं सब कुछ सारा।\n    इन्हीं से सूरज ढलता है,\n    इन्हीं से जगती है दुनिया सारा।\n\n      आँखें धोऊँ प्रतिदिन जल से,\n    ताकि चमकें जग-जग में।\n    जो आँखें अच्छी रख लेता है,\n    उसका दिन बना लेता है।",
+    "gu": "આંખો મારી ગોળ-મટોળ,\n    જુએ છે બધું જ સારું.\n    એમાંથી સૂર્ય ઢલતો,\n    એમાંથી જાગે દુનિયા સારું.\n\n    આંખો ધોવું દરરોજ પાણીથી,\n    જેથી ચમકે જગ-જગમાં.\n    જે આંખો સાચવી રાખે,\n    તેનો દિવસ બનાવી લે.",
+    "en": "My two eyes are round and bright,\n    they see the whole world right.\n    The Sun sets down through them,\n    the whole world wakes up again.\n\n    I wash my eyes with water every day,\n    so that they shine and glow.\n    Whoever keeps his eyes well,\n    his whole day he will enjoy!"
+   }
+  },
+  {
+   "id": "p-imaandar",
+   "title": {
+    "hi": "ईमानदारी",
+    "gu": "પ્રામાણિકતા",
+    "en": "Honesty"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "clock",
+    "child",
+    "book"
+   ],
+   "poem": {
+    "hi": "सच बोलो, मिठा लगे,\n    झूट बोलो, दुख पड़े।\n    सच्चे बच्चे सबसे बड़े,\n    उनका दिल हमेशा चमके।\n\n      मिठाई चुराने से क्या होगा,\n    मन में रहेगा सौ गुस्सा।\n    सच्चे बच्चे नींद से सोएं,\n    और बोलें — मैंने काम किया!",
+    "gu": "સાચું બોલો, મીઠું લાગે,\n    જૂઠું બોલો, દુઃખ પડે.\n    સાચા બાળકો સૌથી મોટા,\n    એમનું હૃદય હંમેશાં ચમકે.\n\n    મીઠાઈ ચોરવાથી શું થાય,\n    મનમાં રહે સો ગુસ્સો.\n    સાચા બાળકો ઊંઘમાં સૂવાન,\n    અને કહે — મેં કામ કર્યું!",
+    "en": "Speak the truth, it tastes so sweet,\n    tell a lie, it's bitter heat.\n    The honest child is the greatest one,\n    his heart always shines, you see.\n\n    What's the good of stealing sweets,\n    a hundred anger stays inside.\n    Honest children sleep so well,\n    and say — I did it well!"
+   }
+  },
+  {
+   "id": "p-mela",
+   "title": {
+    "hi": "गाँव का मेला",
+    "gu": "ગામનું મેળું",
+    "en": "The Village Fair"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "icecream",
+    "colours",
+    "child",
+    "flower"
+   ],
+   "poem": {
+    "hi": "मेले में रंग-बिरंग,\n    गुब्बारे, झूले, कुल्फ़ी।\n    किताबों का एक कोना,\n    बच्चों की सबसे महफ़िल।\n\n      ढोल-मंज़िरी बजे रे,\n    हँसी उठे दूर तक।\n    गुड़ की खीर, गरमा-गरमा,\n    लपेटो लड्डू की लकड़ी!",
+    "gu": "મેળામાં રંગ-બિરંગ,\n    બલૂન, ઝૂલો, કુલ્ફી.\n    પુસ્તકોનો એક ખૂણો,\n    બાળકોની સૌથી મહફિલ.\n\n    ઢોલ-મંજીરી વાગે રે,\n    હાસ્ય ઊઠે દૂર સુધી.\n    ગુળની ખીર, ગરમા-ગરમા,\n    ભેળવો લડ્ડુની લાકડી!",
+    "en": "At the fair there is colour and fun,\n    balloons, swings and ice-cream undone.\n    One corner is full of books,\n    for all the kids the fair befalls.\n\n    Drums and manjiras play all day,\n    laughter goes far away.\n    Hot gulab jamun, hot and sweet,\n    rolled on a little stick, so neat!"
+   }
+  },
+  {
+   "id": "p-teacher",
+   "title": {
+    "hi": "मेरी टीचर",
+    "gu": "મારી ટીચર",
+    "en": "My Teacher"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "book",
+    "child"
+   ],
+   "poem": {
+    "hi": "टीचर जी आती हैं सर-सुजाके,\n    हम लगाते हैं वे हाथ।\n    बोलती हैं — बैठो पढ़ने,\n    सिखाती हैं हर बात।\n\n      इतनी प्यारी टीचर जी,\n    हम न छोड़ेंगे कभी।\n    उनके बिना जीवन अधूरा,\n    उनकी माँ है वे सभी!",
+    "gu": "ટીચર જી આવે છે સર-સુજાકે,\n    અમે લગાવીએ છીએ હાથ.\n    કહે છે — બેસો વાંચવા,\n    શીખવે છે દરેક વાત.\n\n    આવી પ્યારી ટીચર જી,\n    અમે ન છોડીશું કદી.\n    તેમના વગર જીવન અધૂરું,\n    તેમની માં છે તો બધી!",
+    "en": "My teacher comes in a lovely way,\n    we hold her hands and sway.\n    She says — please sit down and read,\n    and teaches us every single deed.\n\n    Such a sweet teacher she is,\n    I will not leave her, this.\n    Without her my life is half,\n    she is mother, all of this!"
+   }
+  },
+  {
+   "id": "p-achhe",
+   "title": {
+    "hi": "अच्छे बच्चे",
+    "gu": "સારા બાળકો",
+    "en": "Good Children"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "tooth",
+    "child",
+    "flower"
+   ],
+   "poem": {
+    "hi": "सुबह उठे, ब्रश लगाया,\n    दूध पीकर चाट लगाई।\n    अपनी किताब सँभाली,\n    चूले-जूते पहन लाई।\n\n      गुरु को प्रणाम किया,\n    माँ-पापा को छू पाया।\n    छोटों से प्यार किया,\n    यही तो अच्छे बच्चे कहलाया!",
+    "gu": "સવારે ઊઠ્યા, બ્રશ લગાવી,\n    દૂધ પીને ચાટ લગાવી.\n    પોતાની પુસ્તક સાંભાળી,\n    ચૂલા-જૂતા પહેનાવી.\n\n    ગુરુને પ્રણામ કર્યો,\n    માં-પપાને છૂ પાયો.\n    નાનાને પ્યાર કર્યો,\n    આ જ તો સારા બાળકો કહેવાય!",
+    "en": "I woke up and brushed my teeth,\n    drank my milk and licked my lips.\n    I kept my books in proper place,\n    and put my shoes upon my feet.\n\n    I bowed down to my teacher,\n    touched my Ma and Papa's feet.\n    I love all children who are small,\n    that is why I'm called so sweet!"
+   }
+  },
+  {
+   "id": "p-azadi",
+   "title": {
+    "hi": "आज़ादी का दिन",
+    "gu": "આઝાદીનો દિવસ",
+    "en": "The Day of Freedom"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "kite",
+    "bird",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "सितंबर की वो सुबह आई,\n    चमक उठी एक नई दुनिया।\n    ऊँचे-ऊँचे खंडों के ऊपर,\n    खेल रहे हम सब खुशी-भरे।\n\n      चरखा था, नौजवान था,\n    हाथों में था वही जज़्बा।\n    आज़ाद हुआ हमारा देश,\n    यही हमारी है कहानी!\n\n      झंडा ऊपर उठता आए,\n    इतरास बचे हर बच्चे के।\n    आज़ादी मिली खून से,\n    याद रखे हम हर साँस के!",
+    "gu": "સપ્ટેમ્બરની એ સવાર આવી,\n    ચમકી ઉઠી એક નવી દુનિયા.\n    ઊંચા-ઊંચા પૈદાવશો ઉપર,\n    રમી રહ્યા અમે બધા ખુશીભરા.\n\n    ચરખો હતો, નવજુવાન હતો,\n    હાથમાં હતો એ જ જઝમ.\n    આઝાદ થયું અમારું દેશ,\n    આ છે અમારી વાત!\n\n    ધ્વજ ઉપર ઊઠતો આવે,\n    ઇતરાસ બચે દરેક બાળકના.\n    આઝાદી મળી લૂહથી,\n    યાદ રાખીએ દરેક શ્વાસથી!",
+    "en": "That morning of September came,\n    and a whole new world shone bright.\n    Above the highest of the lands,\n    we play with joy, all day and night.\n\n    There was the wheel, there was the youth,\n    the same fire in every hand.\n    Today my country is free at last,\n    this is our story, understand!\n\n    The flag goes up and higher flies,\n    so no child ever lives in chains.\n    Freedom came with sacrifice,\n    we breathe it in our every vein!"
+   }
+  },
+  {
+   "id": "p-shiksha",
+   "title": {
+    "hi": "शिक्षा का दीपक",
+    "gu": "શિક્ષણનો દીવડો",
+    "en": "The Lamp of Learning"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "computer",
+    "book",
+    "child"
+   ],
+   "poem": {
+    "hi": "किताब, कलम, कॉपी, बोर्ड,\n    ये चार हैं मेरे ज़रूरी।\n    इनके बिना मिट्टी जैसे,\n    बन जाऊँगा मैं बे-नूरी।\n\n      डॉक्टर बनूँ, पढ़ाई करूँ,\n    मेहनत से कुछ पा लूँ।\n    आज का मेहनत कल का,\n    कल का मेरा सुबत गाऊँ!",
+    "gu": "પુસ્તક, કલમ, કોપી, બોર્ડ,\n    આ ચાર છે મારા જરૂરી.\n    આના વગર માટી જેવું,\n    બની જઈશ હું બે-નૂરી.\n\n    ડૉક્ટર બનું, ભણું હું,\n    મહેનતથી કંઈ પાવું.\n    આજની મહેનત કાલની,\n    કાલનો મારો સુબત ગાવું!",
+    "en": "Book, pen, copy, and the board,\n    these four are all I need.\n    Without them I am just like dust,\n    I am nothing, just a reed.\n\n    I'll be a doctor, I will study,\n    and struggle to achieve.\n    Today's hard work is tomorrow's,\n    so I'll sing tomorrow's eve!"
+   }
+  },
+  {
+   "id": "p-ped",
+   "title": {
+    "hi": "पेड़ से दोस्ती",
+    "gu": "વૃક્ષ સાથે મિત્રતા",
+    "en": "Friendship With a Tree"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "tree",
+    "bird",
+    "child"
+   ],
+   "poem": {
+    "hi": "पेड़ से कहूँ — सुबह शुक्र,\n    तूने कितना छाया दिया।\n    फल-फूल तूने दिया मुझे,\n    और छाया में भी खिला दिया।\n\n      जड़ ज़मीन में गहरे पैर,\n    डालें ऊपर ऊँची उठे।\n    हम तुझे काट नहीं सकते,\n    क्योंकि तू है हमारी ज़मीन!\n\n      छोटे बच्चे तुझे प्यार करें,\n    और सीखें पेड़ को बचाना।\n    पेड़ बचेगा तो धरती बचेगी,\n    बचेगा फिर सबको छाना!",
+    "gu": "વૃક્ષને કહું — સવારે શુભ,\n    તુંએ કેટલી છાયા આપી.\n    ફળ-ફૂલ તુંએ આપ્યા મને,\n    અને છાયામાં પણ ખીલાવી.\n\n    મૂળ જમીનમાં ઊંડા પગ,\n    ડૂંખ ઉપર ઊંચી ઊંચી.\n    અમે તને કાપી ન શકીએ,\n    કે તું છે અમારી જમીન!\n\n    નાના બાળકો તને પ્યાર કરે,\n    અને શીખે વૃક્ષ બચાવવા.\n    વૃક્ષ બચે તો ધરતી બચે,\n    બચે ફરી બધાને છાના!",
+    "en": "I tell the tree — good morning, friend,\n    what shade you have given me.\n    You gave me fruit and flowers,\n    and made me bloom under your tree.\n\n    Your roots are deep down in the soil,\n    your branches reach the sky so high.\n    We cannot cut you down, my friend,\n    you are the ground beneath our feet!\n\n    Small children must love you, and\n    must learn to save the tree.\n    If the tree is saved, earth is saved,\n    and air is safe for all to breathe."
+   }
+  },
+  {
+   "id": "p-mausam",
+   "title": {
+    "hi": "चार मौसम",
+    "gu": "ચાર ઋતુઓ",
+    "en": "The Four Seasons"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "sun",
+    "cloud",
+    "rain",
+    "tree"
+   ],
+   "poem": {
+    "hi": "वसंत आया, फूल खिले,\n    चिड़ियाँ बोलीं — कानू कानू।\n    ग्रीष्म आया, धूप जली,\n    हवा चली, पसीना पानी।\n\n      शरद आई, पत्ते पीले,\n    खेल के मैदान खाली हुए।\n    सर्दी आई, कोट सजी,\n    मोटे कपड़े, गरम जूके।\n\n      चार मौसम, चार सुख,\n    हर बार नया आनंद।\n    जो इन सबको आनंद से,\n    वही सच में है खुशनसीब!",
+    "gu": "વસંત આવ્યો, ફૂલ ખિલ્યા,\n    ચીડિયાં બોલી — કાનું કાનું.\n    ગ્રીષ્મ આવ્યો, ધપ જળી,\n    હવા ચલી, પરસીનો પાણી.\n\n    શરદ આવી, પાન પીળાં,\n    રમવાના મેદાન ખાલી થયાં.\n    સરદી આવી, કોટ સજ્યો,\n    જાડા કપડાં, ગરમ જૂકણ.\n\n    ચાર ઋતુ, ચાર સુખ,\n    દરેક વખતે નવો આનંદ.\n    જે આ બધાનો આનંદ લે,\n    એ જ સાચેમાં નસીબદાર!",
+    "en": "The spring has come, the flowers bloom,\n    the birds say — kanu kanu!\n    The summer comes, the sunlight burns,\n    the wind blows, the water too.\n\n    The autumn comes, the leaves turn gold,\n    the playgrounds empty down.\n    The winter comes, the coats are on,\n    thick clothes and a warm gown.\n\n    Four seasons, four sweet joys,\n    a new delight each time.\n    Whoever enjoys them all in peace,\n    is truly lucky, and it's fine!"
+   }
+  },
+  {
+   "id": "p-dada",
+   "title": {
+    "hi": "दादा दादी के पास",
+    "gu": "દાદા દાદી પાસે",
+    "en": "With Grandmother and Grandfather"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "home",
+    "child",
+    "flower",
+    "tree"
+   ],
+   "poem": {
+    "hi": "दादा जी की चाय, दादी की थाली,\n    पुरानी कहानी, पुरानी गली।\n    उनकी गोद सबसे गर्म जगह,\n    उनकी आँखों में गहरा प्यार।\n\n      सुनो उनकी बात हमेशा,\n    चाहे कभी भी बात बड़ी हो।\n    \"मेहनत कर, सच बोल, पढ़ लेखा\" —\n    यही उनका जीवन का चेहरा।\n\n      जब बड़े होऊँगा, तब याद करूँगा,\n    दादा दादी की गोद वही।\n    मेरी कविता सुनाऊँगा उन्हें,\n    खुशी से भर जाएगी वोई!",
+    "gu": "દાદા જીની ચા, દાદીનું થાળી,\n    જૂની વાત, જૂની ગલી.\n    એમની કોડ સૌથી ગરમ જગ્યા,\n    એમની આંખમાં ઊંડો પ્યાર.\n\n    સાંભળો એમની વાત હંમેશાં,\n    ભલે કદી પણ વાત મોટી હોય.\n    \"મહેનત કર, સાચું બોલ, વાંચ\" —\n    આ જ એમનું જીવનનો ચેહેરો.\n\n    જ્યારે મોટો થઈશું, ત્યારે યાદ કરશું,\n    દાદા દાદીનું કોડ વટે.\n    મારી કવિતા સુનાવીશ એમને,\n    ખુશીથી ભરાઈ જશે વટે!",
+    "en": "Grandfather's tea, grandmother's plate,\n    old stories from an older street.\n    Their lap is the warmest place I know,\n    all the deep love lights their face so.\n\n    I listen to their words always,\n    though the story may be long.\n    \"Work hard, speak true, read your books\" —\n    this is the song of their whole life long.\n\n    When I am grown I will remember,\n    that lap of theirs is the same.\n    I will read my poems out to them,\n    and joy will fill every frame!"
+   }
+  },
+  {
+   "id": "p-samay",
+   "title": {
+    "hi": "समय की बात",
+    "gu": "સમયની વાત",
+    "en": "All About Time"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "clock",
+    "lamp",
+    "child"
+   ],
+   "poem": {
+    "hi": "समय है वो चोर न जो दिन बन जाए,\n    आज नहीं आएगा फिर कोई।\n    यह सच है सबसे बड़ा उपदेश,\n    जो बीत गया वो लौट न आए।\n\n      कल कहना आज मत करो,\n    आज का काम आज ही करो।\n    मिनट भी फूँक कर न बैठो,\n    पकड़ लो मौका सबसे भरो!",
+    "gu": "સમય એ ચોર નહીં જે દિવસ બની જાય,\n    આજે નહીં આવશે ફરી કોઈ.\n    આ સાચું છે સૌથી મોટો ઉપદેશ,\n    જે વીતી ગયો એ ફરી ન આવે કોઈ.\n\n    કાલે કહેવું આજે ન કરો,\n    આજનું કામ આજે જ કરો.\n    મિનિટ પણ ફૂંકી ન બેસો,\n    પકડો તક સૌથી ભરો!",
+    "en": "Time is not a thief that passes,\n    today will not come again.\n    This is the biggest truth there is —\n    what time has gone, will not come back then.\n\n    Don't say \"tomorrow\", do it now,\n    today's work is only for today.\n    Don't sit and blow a minute off,\n    catch the chance while it is here!"
+   }
+  },
+  {
+   "id": "p-kavita",
+   "title": {
+    "hi": "मेरी कविता",
+    "gu": "મારી કવિતા",
+    "en": "My Own Poem"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "rocket",
+    "stars",
+    "child"
+   ],
+   "poem": {
+    "hi": "मेरी कविता मेरी अपनी,\n    किसी की नकल नहीं।\n    मेरी आवाज़, मेरा शब्द,\n    मेरी ही अपनी पहचान।\n\n      लिखूँगा रात दिन जब तक,\n    जब तक हाथ न थकाई।\n    जो बोलें — यह किसने लिखा?\n    \"हमने लिखा, हमने सजाया!\"\n\n      दुनिया कहे तो बड़ा सपना,\n    छोटा बच्चा फिर भी।\n    मेरी कविता, मेरी जान,\n    यही मेरी पहचान!",
+    "gu": "મારી કવિતા મારી પોતાની,\n    કોઈની નકલ નહીં.\n    મારો અવાજ, મારો શબ્દ,\n    મારી જ પોતાની ઓળખ.\n\n    લખું રાત દિવસ જ્યારે સુધી,\n    જ્યારે સુધી હાથ થાકે.\n    કહે કોઈ — આ કોણે લખ્યું?\n    \"અમે લખ્યું, અમે સજાવ્યું!\"\n\n    દુનિયા કહે તો મોટો સપનો,\n    નાનો બાળકો તો પણ.\n    મારી કવિતા, મારી જાન,\n    આ જ મારી ઓળખ!",
+    "en": "This poem of mine is mine alone,\n    it is nobody's copy.\n    My voice, my words, my hand,\n    my very own identity.\n\n    I will write it day and night,\n    until my arm is tired.\n    They ask — who wrote this poem?\n    \"We wrote it, we dressed it fine!\"\n\n    The world says it is too big a dream,\n    but I'm small and I don't care.\n    My poem, my own life,\n    this is all my identity!"
+   }
+  },
+  {
+   "id": "p-granthalay",
+   "title": {
+    "hi": "पुस्तकालय की शांति",
+    "gu": "ગ્રંથાલયની શાંતિ",
+    "en": "Peace of the Library"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "book",
+    "lamp",
+    "child"
+   ],
+   "poem": {
+    "hi": "चुप-चाप सब बैठे हैं,\n    किताबों से बात करते।\n    एक-एक पन्ना चुपके से,\n    दुनिया भर की खोज पाते।\n\n      यहाँ कोई नहीं हँसता ज़ोर,\n    कोई नहीं करता शोर।\n    यहाँ पढ़ने वाले होते हैं,\n    और यहीं बनते तैयार!\n\n      रोशनी, हवा, पत्ते की सरसराहट,\n    किताबों की महक इन्हें।\n    जो यहाँ बैठकर पढ़ लेता है,\n    उसका भविष्य होता सँवरा!",
+    "gu": "ચૂપ-ચાપ બધા બેસે છે,\n    પુસ્તકો સાથે વાત કરે.\n    એક-એક પાનું ચૂપચાપ,\n    દુનિયાભરની શોધ કરે.\n\n    અહીં કોઈ નહીં હસે મોટા,\n    કોઈ નહીં કરે શોર.\n    અહીં વાંચનારા હોય છે,\n    અને અહીં તૈયાર થાય છોર!\n\n    પ્રકાશ, પવન, પાનની સરસરાહટ,\n    પુસ્તકોની મહક તેમને.\n    જે અહીં બેસીને વાંચી લએ,\n    તેનું ભવિષ્ય સુંદર બને!",
+    "en": "All sit so quietly here,\n    they talk with all the books.\n    Page after page, without a sound,\n    they find the whole world, they looks.\n\n    Nobody laughs so loud in here,\n    nobody makes a sound.\n    Here are the ones who read and learn,\n    and here the future they have found!\n\n    Light, and wind, and leaves that stir,\n    the smell of books is here to stay.\n    He who reads and sits in here,\n    tomorrow he will be okay!"
+   }
+  },
+  {
+   "id": "p-gaon",
+   "title": {
+    "hi": "मेरा गाँव",
+    "gu": "મારું ગામ",
+    "en": "My Village"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "cow",
+    "home",
+    "tree",
+    "bird",
+    "hen"
+   ],
+   "poem": {
+    "hi": "छोटा-सा गाँव मेरा,\n    नीचे बहती नदी।\n    खेतों में हरा-भरा धान,\n    पेड़ों पर बैठे चिड़ियाँ।\n\n      सुबह-सुबह धुआँ उठे,\n    चौपाल पर चाय पे।\n    बच्चे जाते विद्यालय,\n    बूढ़े बैठे धूप में।\n\n      यहाँ सब एक परिवार,\n    दुख-सुख बाँट लेते।\n    मेरे गाँव की ये पहचान,\n    इसे छोड़ के कहाँ जाते?",
+    "gu": "નાનું-નાનું ગામ મારું,\n    નીચે વહે નદી.\n    ખેતરમાં લીલું-લીલું ડાંગર,\n    વૃક્ષ ઉપર બેઠે ચીડિયાં.\n\n      સવારે-સવારે ધોં ઊઠે,\n      ચૌપાલ પર ચા પે.\n      બાળકો જાય શાળામાં,\n      વૃદ્ધ બેઠા ધોમાં પે.\n\n      અહીં બધા એક કુટુંબ,\n      દુઃખ-સુખ વાંચી લેવાં.\n      મારા ગામની આ ઓળખ,\n      એ છોડીને ક્યાં જવાં?",
+    "en": "My little village by the stream,\n    with fields of rice so green.\n    On every tree the birds are singing,\n    the air is clean and fine.\n\n    In the morning smoke is rising,\n    on the porch the tea is set.\n    Children go off to the school,\n    old ones sit and get the sun, you bet.\n\n    Here everyone is one family,\n    they share the sorrow and the joy.\n    This is the mark of my village,\n    I would not go, nor leave it for employ."
+   }
+  },
+  {
+   "id": "p-swasthya",
+   "title": {
+    "hi": "स्वास्थ्य का राज़",
+    "gu": "તંદુરસ્તીનો રાજ",
+    "en": "The Secret of Health"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "flower",
+    "butterfly",
+    "bee",
+    "child"
+   ],
+   "poem": {
+    "hi": "सुबह जल्दी उठ जाओ,\n    थोड़ा-थोड़ा खाओ प्यार से।\n    रोज़ दो बहार जाओ,\n    नींद पूरी पाओ।\n\n      पानी ज्यादा पीओ,\n    मिठाई कम खाओ।\n    कपड़े साफ़ पहनो,\n    मन को साफ़ रखो।\n\n      यही है स्वास्थ्य का राज़,\n    खेलो-कूदो, झूलो-झूलो।\n    तंदुरुस्त रहेगे सदा,\n    यही सबसे अच्छी कहानी!",
+    "gu": "સવારે વહેલે ઊઠ જાઓ,\n    થોડું-થોડું ખાઓ પ્યારથી.\n    રોજ બે વાર બહાર જાઓ,\n    નિંદ પૂરી પાઓ.\n\n      પાણી વધારે પીઓ,\n    મીઠાઈ ઓછી ખાઓ.\n      કપડાં સાફ પહનો,\n      મન સાફ રાખો.\n\n      આ જ છે તંદુરસ્તીનો રાજ,\n      રમો-કૂદો, ઝૂલો-ઝૂલો.\n      તંદુરસ્ત રહેશે હંમેશાં,\n      આ જ સૌથી સારી વાત!",
+    "en": "Wake up early in the morning,\n    eat a little, love it so.\n    Every day go out and play,\n    and take a sleep that's long ago.\n\n    Drink a lot of water, you,\n    eat less sugar, keep it cool.\n    Wear your clothes all clean and white,\n    and keep your heart so clean.\n\n    This is the secret of health —\n    run, and jump, and swing on high.\n    Stay fit and strong forever,\n    this is the best story!"
+   }
+  },
+  {
+   "id": "p-jal",
+   "title": {
+    "hi": "पानी बचाओ",
+    "gu": "પાણી બચાવો",
+    "en": "Save the Water"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "pond",
+    "fish",
+    "rain",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "पानी है जीवन का आधार,\n    इसका करो महत्व ज़रूरी।\n    नल खोला तो बंद कर दो,\n    नहाते हो तो जल्दी।\n\n      दाँत ब्रश में पानी भरो,\n    मुँह धोने में बचाओ।\n    फूल को पानी देना हो,\n    बाल्टी से सींचो, बचाओ।\n\n      एक-एक बूँद अपनी,\n    लाखों की ज़िंदगी।\n    बचाओ पानी यूँ ही,\n    मरना नहीं है किसी की!",
+    "gu": "પાણી છે જીવનનો આધાર,\n    એનું કરોડ મહત્વ જરૂરી.\n    નળ ખોલ્યો તો બંધ કર દો,\n    નહાતા હો તો જલદી.\n\n      દાંત બ્રશમાં પાણી ભરો,\n    મોં ધોવામાં બચાવો.\n    ફૂલને પાણી આપવું હોય,\n    બાલટીથી સિંચો, બચાવો.\n\n      એક-એક ટીપું પોતાનું,\n      લાખોની જિંદગી.\n    બચાવો પાણી આમ જ,\n    મરવું નથી કોઈની!",
+    "en": "Water is the base of life,\n    don't take its worth for granted.\n    If you leave the tap on, close it,\n    if you bathe, don't waste it.\n\n    Fill the water in the brush,\n    while washing save some more.\n    When you have to water the plants,\n    use a bucket, not a floor.\n\n    Every single drop is yours,\n    thousands and thousands of lives.\n    Save the water, let it be,\n    no life should lose, you see!"
+   }
+  },
+  {
+   "id": "p-prakriti",
+   "title": {
+    "hi": "प्रकृति की बात",
+    "gu": "પ્રકૃતિની વાત",
+    "en": "Words of Nature"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "mountain",
+    "river",
+    "tree",
+    "bird",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "पेड़ कहे — मुझे बचाओ,\n    हवा कहे — मुझे बहने दो।\n    नदी कहे — मेरो बहाव,\n    पहाड़ कहे — मुझे सहने दो।\n\n      जो इनसे बात कर सके,\n    समझे सबका दर्द।\n      फूल कहे — मुझे तोड़ो मत,\n    धरती कहे — बस, हम बहुत कर दर्द।\n\n      सीखो इनसे जीवन का,\n      सहज़ी बात सारी।\n    इन्हीं के बिना एक दिन,\n    मनुष्य करे सच्चाई हारी!",
+    "gu": "વૃક્ષ કહે — મને બચાવો,\n    પવન કહે — મને વહેતા રાખ.\n    નદી કહે — મારું પ્રવાહ,\n    પર્વત કહે — મને સહને દે.\n\n    જે આની સાથે વાત કરે,\n    સમજે બધાનો દરદ.\n    ફૂલ કહે — મને તોડશો નહીં,\n    ધરતી કહે — બસ, બહુ થઈ દરદ.\n\n    આનાથી જીવન શીખો,\n    સરળ બાત સારી.\n    આના વગર એક દિવસ,\n    માણસ ખોટો જશે કાંઈ!",
+    "en": "The tree says — please protect me,\n    the wind says — let me flow.\n    The river says — this is my stream,\n    the mountain says — let me grow.\n\n    Whoever talks to them like this,\n    will understand their pain.\n    The flower says — don't break me now,\n    the earth says — that is enough of pain.\n\n    Learn life from them like this,\n    all the simple words they say.\n    Without them there'd come a day,\n    that man would lose his way."
+   }
+  },
+  {
+   "id": "p-budhhi",
+   "title": {
+    "hi": "बुद्धि का दीपक",
+    "gu": "બુદ્ધિનો દીવડો",
+    "en": "The Lamp of the Mind"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "robot",
+    "child",
+    "stars"
+   ],
+   "poem": {
+    "hi": "सोचो कभी अपने दिमाग़ में,\n    रोबोट भी सीखता है।\n    नहीं मिले उसे पंख लेकिन,\n    सपने उसके नहीं रुकते।\n\n      सोचो ज़रूर, हर मौक़े पर,\n    कभी सोचो-सोचो बढ़ना।\n    जो नहीं सोचता वो कमज़ोर,\n    जो सोचता है वो सच में।\n\n      दिमाग़ पत्थर से पत्थर,\n    पानी से निकलेगा रत्न।\n    टॉर्च है वो हाथ की,\n    चलो चलो जलाए दिन!",
+    "gu": "વિચારો ક્યારેય પોતાના મનમાં,\n    રોબોટ પણ શીખે છે.\n    નથી મળે એને પાંખ પણ,\n    સપના એના અટકતા નથી.\n\n      વિચારો જરૂર, દરેક પળખે,\n    ક્યારેક વિચારો-વિચારો વધવા.\n    જે ન વિચારે એ નબળો,\n    જે વિચારે એ સાચેમાં તવા.\n\n      દિમાગ પથ્થરથી પથ્થર,\n      પાણીમાંથી નીકળશે રત્ન.\n      ટોર્ચ છે એ હાથની,\n      ચાલો ચાલો સળગાવી દિન!",
+    "en": "Just think sometimes in your mind,\n    even robots learn that way.\n    They have no wings to fly with,\n    but their dreams never stay.\n\n    Think for sure, at every chance,\n    think and grow more and more.\n    He who does not think is weak,\n    he who does will reach the shore.\n\n    The mind from stone to stone,\n    will bring a gem out of the stream.\n    It is a torch inside your hand,\n    come, light the whole day's gleam!"
+   }
+  },
+  {
+   "id": "p-safalta",
+   "title": {
+    "hi": "सफलता की ऊँचाई",
+    "gu": "સફળતાની ઊંચાઈ",
+    "en": "The Height of Success"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "rocket",
+    "stars",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "ऊँचाई पर जो चढ़ना चाहे,\n    पहले सीढ़ियाँ बनानी पड़ें।\n    एक-एक पाथर रखना पड़े,\n    नहीं कि सीधा आकाश पकड़ लें।\n\n      पहले गिरना सीखो बहुत,\n    फिर उठना सीखना।\n    हार मानो तो हार होगी,\n    लड़ते रहो तो जीत जाना।\n\n      धीरे-धीरे करो तैयारी,\n    कूद पड़ना ऊँचाई से।\n    जो खुश है नीचे बैठकर,\n    वो कभी ऊपर न जा पाए!\n\n      रॉकेट जैसा उड़ना है,\n    ज़मीन से ऊँचा सोचो।\n    नीचे से शुरू करना तो,\n    ऊपर का सफ़र भी करो!",
+    "gu": "ઊંચાઈ પર જે ચઢવા માંગે,\n    પહેલા સીડીયાં બનાવવી પડે.\n    એક-એક પાથર મૂકવો પડે,\n    નહીં કે સીધું આકાશ પકડ લઈએ.\n\n      પહેલા પડવું શીખો ઘણું,\n      પછી ઊઠવું શીખજો.\n    હાર માનો તો હાર થાય,\n    લડતા રહો તો જીત જાય.\n\n      ધીરે-ધીરે તૈયારી કરો,\n    ઊંચાઈ પરથી કૂદ પડો.\n    નીચે બેસીને ખુશ જે,\n    એ ક્યારેય ઉપર ન જાય!\n\n      રોકેટ જેવું ઉડવું છે,\n    જમીન પરથી ઊંચું વિચારો.\n    નીચેથી શરૂ કરવું તો,\n    ઉપરનો સફર પણ કરો!",
+    "en": "If you wish to climb the height,\n    first you have to build the stairs.\n    Place one stone at every step,\n    you cannot grab the sky, beware.\n\n    First learn to fall and fall again,\n    and then to rise and try.\n    If you give up then you will lose,\n    if you fight on, you will win, goodbye.\n\n    Get ready slowly, step by step,\n    and jump down from the height.\n    He who is happy sitting low,\n    will never reach a star of light.\n\n    It's like a rocket that must fly,\n    so think higher than the ground.\n    Start from down below today,\n    and climb the sky you've found!"
+   }
+  },
+  {
+   "id": "p-rishte",
+   "title": {
+    "hi": "रिश्तों की डोर",
+    "gu": "રિશ્તાની ડોર",
+    "en": "The Thread of Relations"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "child",
+    "tree",
+    "bird"
+   ],
+   "poem": {
+    "hi": "माँ का हाथ, पिता का आशा,\n    भाई-बहन का प्यार।\n    दादा-दादी की कहानी,\n    चाचा का खेल का पसंद।\n\n      रिश्ते नहीं सिर्फ़ नाम के,\n    दिल से जुड़े ऐसे।\n    दिन भर मिला न मिला, फिर भी,\n    ख्याल हर पल में रहे।\n\n      एक दिन सब हमें छोड़ के,\n    जाने हैं इस संसार से।\n    इन्हीं रिश्तों की गर्मी से,\n    मिलेगा हमें प्यार संसार से!",
+    "gu": "માંનો હાથ, પિતાની આશા,\n    ભાઈ-બહેનનો પ્યાર.\n    દાદા-દાદીની વાત,\n    ચાચાનો રમવાનો શોગ.\n\n      રિશ્તા નહીં ફક્ત નામના,\n    દિલથી જોડાયેલા એવા.\n    આખો દિવસ મળ્યા ન મળ્યા, તો પણ,\n    ખ્યાલ દરેક પળખે રહે.\n\n      એક દિવસ બધાને છોડીને,\n      જવા છીએ આ સંસારથી.\n    આના જ રિશ્તાની ગરમીથી,\n    મળશે આપણને પ્યાર સંસારથી!",
+    "en": "Mother's hands, father's hope,\n    a brother and a sister's love.\n    Grandfather's and grandmother's stories,\n    uncle's games that we look forward to.\n\n    Relations are not just a name,\n    they're joined from the heart.\n    All day we meet or we don't meet,\n    but they're with us, each part.\n\n    One day we all must leave this world,\n    and go away from all we own.\n    It's only in the warmth of these,\n    that we will find love, and a home."
+   }
+  },
+  {
+   "id": "c-twinkle",
+   "classic": true,
+   "title": {
+    "hi": "ट्विंकल ट्विंकल तारा",
+    "gu": "ટ્વિંકલ ટ્વિંકલ તારો",
+    "en": "Twinkle Twinkle Star"
+   },
+   "classId": "play",
+   "scene": [
+    "night",
+    "moon",
+    "stars",
+    "child"
+   ],
+   "poem": {
+    "hi": "ट्विंकल-ट्विंकल तारा,\n    ऊपर ऊपर आसमान में।\n    मोती जैसे दीपक तुम,\n    चमक रहे हो मेहराब में।\n\n    नीचे आओ, बैठो पास,\n    देखो चाँद की किरण।\n    गिनती करो एक-दो-तीन,\n    फिर सो जाओ — शुभ प्रात।",
+    "gu": "ટ્વિંકલ-ટ્વિંકલ તારો,\n    ઉપર ઉપર આકાશમાં.\n    મોતી જેવા દીવડા તમે,\n    ચમકતા છે અહીં મહેરાબમાં.\n\n    નીચે આવો, બેસો પાસે,\n    જુઓ ચાંદની કિરણ.\n    ગણતરી કરો એક-બે-ત્રણ,\n    પછી સૂઈ જાઓ — શુભ પ્રભાત.",
+    "en": "Twinkle, twinkle, little star,\n    up above the sky so high.\n    Like a pearl, like a little lamp,\n    shining in the vault so wide.\n\n    Come down, please, and sit by me,\n    look upon the moonbeam.\n    Count with me — one, two, three,\n    then sleep, it's morning's dream."
+   }
+  },
+  {
+   "id": "c-baabaa",
+   "classic": true,
+   "title": {
+    "hi": "भेड़ों की भेड़",
+    "gu": "માટરી ભેડ",
+    "en": "Baa Baa Black Sheep"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "child",
+    "tree",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "काली-काली भेड़ सफ़ेद ऊन,\n    तीन थोलियाँ भर दोनों गुन।\n    एक अपनी पकड़ ली,\n    एक अपने मित्र को दे दी।\n\n    बचा तो थोड़ा सा मेरा,\n    मेरे बच्चों को दे दो भला।\n    गिनती याद हो जाएगी,\n    भेड़ गिनना सबको सिखाना।",
+    "gu": "કાળી-કાળી ભેડ સફેદ ઊન,\n    ત્રણ થોળીયાં ભરી બંને ગૂન.\n    એક પોતાની પકડી લી,\n    એક પોતાના મિત્રને આપી દી.\n\n    બચ્યો તો થોડો મારો,\n    મારા બાળકોને આપો ભલું.\n    ગણતરી યાદ થઈ જશે,\n    ભેડ ગણવી સૌને શીખવી.",
+    "en": "Baa baa, black sheep, have you any wool?\n    Yes sir, yes sir, three bags full.\n    One for the master, and one for the dame,\n    and one for the little boy who lives down the lane.\n\n    Then says the boy — what of the rest?\n    Give it to the children, they're the best.\n    Counting sheep is the game we know,\n    so count these sheep and watch them grow."
+   }
+  },
+  {
+   "id": "c-chandamama",
+   "classic": true,
+   "title": {
+    "hi": "चंदमामा दूर के",
+    "gu": "ચંદમામા દૂર કે",
+    "en": "The Moon Is Far Away"
+   },
+   "classId": "play",
+   "scene": [
+    "night",
+    "moon",
+    "stars",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "चंदमामा दूर के,\n    आए तो डर कैसे!\n    आप ही मुझे बताओ,\n    आप कैसे आते हैं।\n\n      चंदमामा निकले,\n    बच्चे सब सो गए।\n    फिर सबेरे उठ के,\n    देखो चंदा ने मुस्काया!",
+    "gu": "ચંદમામા દૂર કે,\n    આવો તો ડર કેવી રીતે!\n    તમે જ મને કહો,\n    તમે કેવી રીતે આવો છો.\n\n    ચંદમામા નીકળ્યા,\n    બાળકો બધા સૂઈ ગયા.\n    પછી સવારે ઊઠીને,\n    જુઓ ચંદાએ મુસ્કાયા!",
+    "en": "The moon is far away, you know,\n    how does it come and go?\n    Won't you tell me, dear old moon,\n    how do you travel, on your own?\n\n    The moon has slipped behind the hill,\n    every baby sleeps so still.\n    And in the morning when they wake,\n    they see the moon smile at the break."
+   }
+  },
+  {
+   "id": "c-mary",
+   "classic": true,
+   "title": {
+    "hi": "मेरी भेड़",
+    "gu": "મારી ભેડ",
+    "en": "Mary Had A Little Lamb"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "child",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "मेरी थी एक भेड़ सफ़ेद,\n    सीधी-सादी, नरम-नरम।\n    वो चमकती थी जैसे दूध,\n    और मेरी थी बिल्कुल।\n\n      भेड़ ने कहा — मुझे छोड़कर मत जा,\n    सदा तेरे साथ रहूँगी।\n    चादर हिले तो खूँट उठेगी,\n    प्यार से प्यार झरकाऊँगी।",
+    "gu": "મારી હતી એક ભેડ સફેદ,\n    સીધી-સાદી, નરમ-નરમ.\n    એ ચમકતી હતી દૂધ જેવી,\n    અને મારી હતી બિલકુલ.\n\n    ભેડ બોલી — મને છોડીને ન જા,\n    હંમેશાં તારી સાથે રહીશ.\n    ચાદર હલે તો ખૂંટ ઊઠશે,\n    પ્યારથી પ્યાર ઝરકાવીશ.",
+    "en": "Mary had a little lamb,\n    its fleece was white as snow.\n    And everywhere that Mary went,\n    the lamb was sure to go.\n\n    He followed her to school one day,\n    which was against the rules.\n    It made the children laugh and smile,\n    to see a lamb in schoolroom rules."
+   }
+  },
+  {
+   "id": "c-row",
+   "classic": true,
+   "title": {
+    "hi": "नाव चलाओ",
+    "gu": "હોય ચલાવો",
+    "en": "Row Row Row Your Boat"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "boat",
+    "fish",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "नाव नाव चलो धीरे-धीरे,\n    पानी पर हो हल्का-हल्का।\n    मछलियाँ हैं डरा-डराई,\n    डूबी जाएँ झट से पल्का!\n\n      तूफ़ान आए तो हट जाओ,\n    पत्ते जैसे तैरते जाओ।\n    नाव फिर मिलेगी सफ़ेद,\n    पानी में डालें खेमल चादर।",
+    "gu": "હોય હોય ચલાવો ધીરે-ધીરે,\n    પાણી પર હોય હળવું-હળવું.\n    માછલીઓ છે ડરેલી-ડરેલી,\n    ડૂબી જશે ઝટથી પલક!\n\n    તોફાન આવે તો દૂર જાઓ,\n    પાન જેવાં તરતા જાઓ.\n    હોય ફરી મળશે સફેદ,\n    પાણીમાં નાખીએ રેણ ચાદર.",
+    "en": "Row, row, row your boat,\n    gently down the stream.\n    Merrily, merrily, merrily, merrily,\n    life is but a dream.\n\n    If the waves should rise again,\n    like a leaf we'll float away.\n    We'll row our boat and cross the stream,\n    and safe and sound we'll stay."
+   }
+  },
+  {
+   "id": "c-hickory",
+   "classic": true,
+   "title": {
+    "hi": "हिकोरी डिकोरी डॉक",
+    "gu": "હિકરી ડિકરી ડોક",
+    "en": "Hickory Dickory Dock"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "clock",
+    "child"
+   ],
+   "poem": {
+    "hi": "हिकोरी-डिकोरी डॉक,\n    घड़ी में टिक मारी टॉक।\n    डॉक की उल्टी खड़ी करो,\n    तारे बन गए बड़े-बड़े!\n\n      एक दो तीन, तीन की गिनती,\n    बच्चे बोले — हम हैं सच्चे।\n    खेल-खेल में गिनती सीख लो,\n    ज़िंदगी खेल जैसी मीठी!",
+    "gu": "હિકરી-ડિકરી ડોક,\n    ઘડિયાળમાં ટિક મારી ટોક.\n    ડોકની ઊંધી કરો,\n    તારા બની ગયા મોટા-મોટા!\n\n    એક બે ત્રણ, ત્રણની ગણતરી,\n    બાળકો બોલ્યા — અમે સાચા.\n    રમત-રમતમાં ગણતરી શીખો,\n    જીવન રમત જેવું મીઠું!",
+    "en": "Hickory, dickory, dock,\n    the clock struck one — the mouse ran off.\n    Turn the clock back upside down,\n    and see the stars come dance around.\n\n    One, two, three — we count it well,\n    the children say — we tell the truth.\n    Play and learn to count with joy,\n    life's a game, and that's the point."
+   }
+  },
+  {
+   "id": "c-rain",
+   "classic": true,
+   "title": {
+    "hi": "बारिश जा रही",
+    "gu": "વરસાદ જતો",
+    "en": "Rain Rain Go Away"
+   },
+   "classId": "lkg",
+   "scene": [
+    "rain",
+    "cloud",
+    "umbrella",
+    "child"
+   ],
+   "poem": {
+    "hi": "बारिश बारिश जा रही,\n    जा जा गई भाई।\n    बच्चे बोले — वापस आ,\n    खेलना है हमें आज।\n\n      टप-टप-टप हो रही,\n      भीगे सब कपड़े।\n    फिर भी खुशी-खुशी गाते,\n    \"आज छत पर नाचते!\"",
+    "gu": "વરસાદ વરસાદ જતો,\n    જા જા ગયો ભાઈ.\n    બાળકો બોલ્યા — પાછા આ,\n    રમવું છે આજે મારે.\n\n    ટપ-ટપ-ટપ થાય છે,\n    ભીનાં સૌ કપડાં.\n    તોય ખુશીથી ગાય છે,\n    \"આજે છત ઉપર નાચીએ!\"",
+    "en": "Rain, rain, go away,\n    come again another day.\n    Little children want to play,\n    running around in bright array.\n\n    Pitter patter, pitter patter,\n    every dress is wet and wetter.\n    Still we sing and jump and cheer,\n    \"let's dance on the roof right here!\""
+   }
+  },
+  {
+   "id": "c-aao",
+   "classic": true,
+   "title": {
+    "hi": "आओ बच्चे आओ",
+    "gu": "આવો બાળકો આવો",
+    "en": "Come Children Come"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "child",
+    "flower",
+    "bee"
+   ],
+   "poem": {
+    "hi": "आओ बच्चे आओ, बाहर चलो,\n    फूलों के पास ज़रा चलो।\n    तितली उड़ी, भेँयू मिला,\n    महुँगा तुलना इन्हें रहा।\n\n      हाथ पकड़कर चलो साथ,\n    गिनती गिनती में बनाओ राज।\n    पेड़ है, पत्ता है, फूल है,\n    और मेरे पास है — प्यार का सूज़ा!",
+    "gu": "આવો બાળકો આવો, બહાર ચાલો,\n    ફૂલના પાસે થોડું ચાલો.\n    તીવળી ઉડી, માયફલી મળી,\n    મહાન તેને નમતા જ રહી.\n\n    હાથ પકડીને ચાલો સાથે,\n    ગણતરીમાં રાજ બનાવો હાથે.\n    વૃક્ષ છે, પાન છે, ફૂલ છે,\n    અને મારી પાસે છે — પ્યારનું સૂજું!",
+    "en": "Come, come, children, come along,\n    let us walk beside the flowers.\n    A butterfly and a buzzing bee,\n    they ask — who has the most powers?\n\n    Hold my hand and walk with me,\n    let's make counting into fun.\n    There's a tree, there's a leaf, there's a flower,\n    and here I've got love — that is the one."
+   }
+  },
+  {
+   "id": "c-chalo",
+   "classic": true,
+   "title": {
+    "hi": "चलो चलो चलो",
+    "gu": "ચલો ચલો ચાલો",
+    "en": "Let Us Walk Together"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "tree",
+    "bird",
+    "child",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "चलो चलो चलो, पेड़ की छाँव,\n    चिड़ियों के गाँव।\n    पत्ते हैं झररर, हवा है महका,\n    भोली-भोली धूप।\n\n      चलो चलो चलो, नदी किनारे,\n    पानी की ओर।\n    पत्थरों ने कहा — कदम रखो धीरे,\n    यही सिखाए प्यार।\n\n      चलो चलो चलो, साथ-साथ सब,\n    कदम एक-से।\n    यही है जीवन का सुंदर संगम,\n    यही है हमारी पहचान!",
+    "gu": "ચલો ચલો ચાલો, વૃક્ષની છાયં,\n    ચીડિયાના ગામ.\n    પાન છે ઝરરર, પવન મહેકે,\n    ભોળી-ભોળી ધોળ.\n\n    ચલો ચલો ચાલો, નદી કિનારે,\n    પાણી તરફ.\n    પાષાણણે કહ્યું — પગ મૂકો ધીરે,\n    આ જ શીખવે પ્યાર.\n\n    ચલો ચલો ચાલો, સાથે-સાથે બધા,\n    કદમ એક-જેવા.\n    આ જ જીવનનું સુંદર જોડણ,\n    આ જ આપણી ઓળખ!",
+    "en": "Come walk with me to the tree's shade,\n    the village of the birds.\n    Leaves go rustle, wind is blowing,\n    the sunlight is in words.\n\n    Come walk with me to the river side,\n    the water's cool and deep.\n    The stones say — put your steps up softly,\n    it's love that we must keep.\n\n    Come walk with me, all side by side,\n    our steps are one and same.\n    This is the beauty of our walk,\n    this is our name."
+   }
+  },
+  {
+   "id": "c-titli",
+   "classic": true,
+   "title": {
+    "hi": "तितली तितली प्यारी",
+    "gu": "તીવળી તીવળી પ્યારી",
+    "en": "The Little Butterfly"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "butterfly",
+    "flower",
+    "child"
+   ],
+   "poem": {
+    "hi": "तितली तितली प्यारी,\n    उड़ती है इधर-उधर।\n    रंगीन पंख खोलती,\n    मीठी-मीठी बात कर।\n\n      फूल बोले — आ जा मेरे पास,\n    महक मेरी अच्छी।\n    तितली बोली — थोड़ी देर,\n    फिर उड़ जाऊँगी कहीं!",
+    "gu": "તીવળી તીવળી પ્યારી,\n    ઉડે છે અહીં-તહીં.\n    રંગીન પાંખ ખોલે છે,\n    મીઠી-મીઠી વાત કરે.\n\n    ફૂલ બોલે — આ જા મારી પાસે,\n    મહક મારી સુંદર.\n    તીવળી બોલે — થોડી વાર,\n    પછી ઉડી જઈશ ત્યાં!",
+    "en": "Butterfly, butterfly, dear one,\n    you fly here and there.\n    You open your pretty coloured wings,\n    and you flutter everywhere.\n\n    The flower says — please come to me,\n    my scent is so sweet.\n    The butterfly says — wait a while,\n    then off to the other field."
+   }
+  },
+  {
+   "id": "c-prithvi",
+   "classic": true,
+   "title": {
+    "hi": "धरती माँ",
+    "gu": "ધરતી માં",
+    "en": "Earth Is Our Mother"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "mountain",
+    "river",
+    "tree",
+    "bird"
+   ],
+   "poem": {
+    "hi": "धरती माँ ने बनाया सब,\n    पेड़, पहाड़, नदी, रेत-पत्थर।\n    हम उसी के बच्चे हैं,\n    उसका प्यार हमारा संसार।\n\n      जड़ टिकाए उसने रखी,\n    आँखें दिए हमें देखने।\n    हाथ उठाओ, कहो — धन्य माँ,\n    तूने बनाया हमें!",
+    "gu": "ધરતી માએ બનાવ્યા બધું,\n    વૃક્ષ, પર્વત, નદી, રેત-પાષાણ.\n    અમે એના બાળકો છીએ,\n    એનો પ્યાર છે આપણો સંસાર.\n\n    મૂળ ટકાવ્યા એને,\n    આંખો આપી અમને જોવાની.\n    હાથ ઊપારો, કહો — ધન્ય માં,\n    તું બનાવી અમને!",
+    "en": "Mother Earth has made us all,\n    trees, hills and rivers, sand and stone.\n    We are the children of that Earth,\n    her love is our world, our own.\n\n    She holds our roots down deep,\n    she gives her eyes to see.\n    Raise up your hands and thank her now —\n    \"thank you, Ma, you made me!\""
+   }
+  },
+  {
+   "id": "c-holi",
+   "classic": true,
+   "title": {
+    "hi": "होली है आई",
+    "gu": "હોળી છે આવી",
+    "en": "Holi Has Come"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "colours",
+    "child"
+   ],
+   "poem": {
+    "hi": "होली है आई, होली है आई,\n    रंग-बिरंगी लाई।\n    गुलाल उठाओ, पिचकुरी पकड़ो,\n    कान्जा के खेल लाई।\n\n      लाल-पीला-नीला-हरा,\n    चेहरा सबका रंगे।\n    बुराई को रहा दूर,\n    अच्छाई से जग संभले।\n\n      सबको रंग लगाओ, गले लगाओ,\n    माँ को त्यार कराओ।\n    होली का ये प्यार मना\n    न होने का न बनाओ!",
+    "gu": "હોળી છે આવી, હોળી છે આવી,\n    રંગ-બિરંગી લાવી.\n    ગુલાલ ઊપારો, પિચકરી પકડો,\n    કાનજાનો ખેલ લાવી.\n\n    લાલ-પીળું-નીલું-લીલું,\n    ઘમેલ સૌનો રંગ.\n    ખરાબ થી દૂર રહે,\n    સારાઈથી જગ સંભળ.\n\n    બધાને રંગ લગાઓ, ગળે લગાઓ,\n    માંને તૈયાર કરાઓ.\n    હોળીનો આ પ્યાર ના\n    ન હોવાનો ન બનાઓ!",
+    "en": "Holi has come, Holi has come,\n    with colours it is here.\n    Raise up the syringes, catch the pichkari,\n    let's play without a fear.\n\n    Red and yellow, blue and green,\n    every face is coloured bright.\n    May the bad go far away,\n    let the good ones hold the light.\n\n    Colour everyone, and hug them too,\n    make your mother neat and smart.\n    This is the love of Holi,\n    don't let it from your heart."
+   }
+  },
+  {
+   "id": "c-lakir",
+   "classic": true,
+   "title": {
+    "hi": "लकीर पक्की",
+    "gu": "લકીર પક્કી",
+    "en": "Straight Lines"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "child",
+    "kite",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "लकीर पक्की, लकीर पक्की,\n    बना ले बच्चे पक्की!\n    एक के बाद दो, दो के बाद तीन,\n    नाप से बनती ये पक्की।\n\n      आड़ी-तिरछी, टेढ़ी-मेढ़ी,\n    सब डालते हैं पक्की।\n    लकीर से बनता घर-दरवाज़ा,\n    और स्कूल जाते बच्चे पक्की!",
+    "gu": "લકીર પક્કી, લકીર પક્કી,\n    બના લે બાળકો પક્કી!\n    એક પછી બે, બે પછી ત્રણ,\n    માપથી બને છે આ પક્કી.\n\n    આડી-તિરછી, ટેઢી-મેઢી,\n    સૌ દોરે છે પક્કી.\n    લકીરથી બને ઘર-બારણું,\n    અને શાળાએ જાય બાળકો પક્કી!",
+    "en": "A straight line, a straight line, draw a line that's true.\n    It's the very first thing you learn and the first you'll do.\n    One then two and two then three,\n    measured lines are what we see.\n\n    Flat and slanted, bent and round,\n    we all draw a line or two.\n    Doors and houses lines do make,\n    and school goes on, the straight ones too!"
+   }
+  },
+  {
+   "id": "c-lalo",
+   "classic": true,
+   "title": {
+    "hi": "लालो लालो",
+    "gu": "લાલો લાલ",
+    "en": "The Red Day"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "home",
+    "child",
+    "flower"
+   ],
+   "poem": {
+    "hi": "लालो लालो, लाल हुआ,\n    सुबह का सूरज लाल हुआ।\n    फूलों ने भी रंग पाया,\n    और चिड़ियों ने गाना गाया।\n\n      लाल से होता प्यार पैदा,\n    लाल से मन को सजावट।\n    खून का रंग ना भूल जाओ,\n    वो अपने ही देश का नात।",
+    "gu": "લાલો લાલ, લાલો લાલ,\n    સવારનો સૂર્ય લાલ.\n    ફૂલને પણ રંગ મળ્યો,\n    ચીડિયાએ ગીત ગાયું.\n\n    લાલથી પ્યાર પ્રગટે,\n    લાલથી મન સજાય.\n    લહુનો રંગ ના ભૂલી જવો,\n    એ પોતાના દેશનો નાત.",
+    "en": "Red is red, and red has come,\n    the morning sun is red.\n    The flowers too have caught the colour,\n    the birds have sung instead.\n\n    From red there grows a loving heart,\n    from red the room is gay.\n    The red that our own blood has earned,\n    is all our country's way."
+   }
+  },
+  {
+   "id": "c-jaal",
+   "classic": true,
+   "title": {
+    "hi": "जाल की तैयारी",
+    "gu": "જાળની તૈયારી",
+    "en": "Ready For The Net"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "pond",
+    "fish",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "जाल की तैयारी हो गई,\n    मछलियाँ आती जा रही।\n    जाल बिछाया पानी में,\n    धीरे से हाथ बढ़ा ले भाई।\n\n      पकड़ी एक डाल के,\n    फिर छूट गई हवा के संग!\n      बचा तो छोटा सा टोकरा,\n    सिखा बड़े का संग।\n\n      आज नहीं पकड़ी कुछ भी,\n    पर प्यार सीखा मिला।\n    जो चला गया वो छोड़ दो,\n    जो रहा उसको गले लगा!",
+    "gu": "જાળની તૈયારી થઈ ગઈ,\n    માછલીઓ આવે જય.\n    જાળ નાખ્યો પાણીમાં,\n    ધીરે હાથ લંબાવ ભાઈ.\n\n    પકડી એક ડાલની,\n    પછી છૂટી ગઈ પવનની સાથ!\n    બચ્યો નાનો ટોકરો,\n    શીખ્યો મોટાની સાથ.\n\n    આજે કંઈ પકડ્યું નહીં,\n    પણ પ્યાર શીખ્યો મળ્યો.\n    જે ચલ્યો એ છોડી દે,\n    જે રહ્યો એને ગળે લગા!",
+    "en": "The net is ready, spread and wide,\n    the fishes come and go.\n    We throw it in the water, then\n    our hands go very slow.\n\n    One is caught — the branch gave way,\n    then wind has carried it!\n    Only a small basket we brought back,\n    the big lesson of it.\n\n    We caught not any fish today,\n    but love we did get.\n    The one that went, let it go free,\n    the one that stayed, a friend."
+   }
+  },
+  {
+   "id": "c-ginti",
+   "classic": true,
+   "title": {
+    "hi": "गिनती की कविता",
+    "gu": "ગણતરીની કવિતા",
+    "en": "A Poem of Counting"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "child",
+    "flower",
+    "bee"
+   ],
+   "poem": {
+    "hi": "एक मैला दो पानी,\n    तीन लकड़ी चार चार पानी।\n    पाँच जोड़ी, छह करें,\n    सात थैली, आठ करें।\n\n      नौ नौकरी कर दी,\n    दस के साथ गिन ली।\n      अब गिनती हो गई पूरी,\n      मिठाई खा लो बच्चे भूरे!",
+    "gu": "એક કપડો બે પાણી,\n    ત્રણ લાકડું ચાર ચાર પાણી.\n    પાંચ જોડી, છ કરીએ,\n    સાત થેલી, આઠ કરીએ.\n\n    નવ નોકરી કરી દીધી,\n    દસ સાથે ગણી લીધી.\n    હવે ગણતરી પૂરી થઈ,\n    મીઠાઈ ખાય માં ભૂર!",
+    "en": "One is dirty, two is water,\n    three is wood and four's a potter.\n    Five is pairs and six is six,\n    seven is sacks and eight is fix.\n\n    Nine is nine and I have done,\n    ten and I have counted everyone.\n    Now our counting has come to close —\n    and here's a sweet, so eat up those!"
+   }
+  },
+  {
+   "id": "c-vakyo",
+   "classic": true,
+   "title": {
+    "hi": "वाक्य बनाओ खेल",
+    "gu": "વાક્ય બનાવો રમત",
+    "en": "The Sentence Game"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "book",
+    "pen",
+    "child"
+   ],
+   "poem": {
+    "hi": "वाक्य बनाओ, खेल यही,\n    कुछ भी गलत नहीं।\n    पहले लेटक सा कोई शब्द,\n    फिर जोड़ो बड़ा।\n\n      मैंने चाय पी, उसने नहीं,\n    ऐसा न हो सकता कभी!\n    दो शब्द, फिर तीन जोड़ो,\n    छह से बनेगी कविता छबि।\n\n      चमकते अक्षर, खूली सहारा,\n    गंभीरता से भी न हो हारा।\n    लिखो, सुधारो, फिर सुना दो,\n    यही है हमारा अभ्यास-प्यार!",
+    "gu": "વાક્ય બનાવો, રમત આ,\n    કંઈ પણ ખોટું ના.\n    પહેલા લેટક સા કોઈ શબ્દ,\n    પછી જોડો મોટો ભાગ.\n\n    મેં ચા પી, એને નહીં,\n    આવું ન થઈ શકે કદી!\n    બે શબ્દ, પછી ત્રણ જોડો,\n    છ થી બનશે કવિતા છબિ.\n\n    ચમકતા અક્ષર, નીચની સહાર,\n    ગંભીરતાથી પણ ન હોય હાર.\n    લખો, સુધારો, પછી સુનાઓ,\n    આ જ છે આપણો અભ્યાસ-પ્યાર!",
+    "en": "Make a sentence — that is the game,\n    it isn't wrong, it's just a name.\n    First take a word that doesn't fit,\n    then a bigger one to sit.\n\n    \"I drank the tea, he did not\" — no,\n    that can never ever go!\n    Join two words and then a third,\n    six will make a poem that's heard.\n\n    Bright letters, lines to hold,\n    even with gravity, be bold.\n    Write, improve, then read it out —\n    this is our practice, this our bout."
+   }
+  },
+  {
+   "id": "k-polly",
+   "classic": true,
+   "title": {
+    "hi": "चूल्हा गरम करो",
+    "gu": "ચૂલ્હો ગરમ કરો",
+    "en": "Polly And The Kettle"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "home",
+    "child",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "चूल्हा गरम करो, जल्दी-जल्दी,\n    पानी उबालो सबके लिए।\n    मकड़ी मुँ में रखती उकट्टा,\n    उधर आती उधर जाती!\n\n      पानी उबला, कटोरी गिरी,\n    टप-टप-टप बच्चे हँसे।\n    \"अब चाय बनाओ जल्दी से,\"\n    सब मिलकर गाना गाएँ!",
+    "gu": "ચૂલ્હો ગરમ કરો, ઝડપી-ઝડપી,\n    પાણી ઉકાવો બધાને માટે.\n    અળવાનું હોઠમાં રાખે ઊંધું,\n    ત્યાં આવે ત્યાં જાય!\n\n    પાણી ઉકડ્યું, વાટકો પડી,\n    ટપ-ટપ-ટપ બાળકો હસે.\n    \"હવે ચા બનાવો ઝડપથી,\"\n    બધા મળીને ગીત ગાઈએ!",
+    "en": "Polly, Polly, put the kettle on,\n    the water's boiling, hurry along.\n    Polly, Polly, don't you cry,\n    I'll put the kettle back on high.\n\n    The water boiled, the cup fell down,\n    and every child laughed around.\n    \"Now make the tea,\" the mother said,\n    \"and all together we will sing!\""
+   }
+  },
+  {
+   "id": "k-jack",
+   "classic": true,
+   "title": {
+    "hi": "जैक और जिल",
+    "gu": "જેક અને જિલ",
+    "en": "Jack And Jill"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "mountain",
+    "child",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "जैक ने कहा — पानी लाऊँ,\n    जिल ने कहा — मैं भी साथ।\n    दोनों ऊपर पहाड़ी पर गए,\n    जिल का बucket लुढ़का साथ!\n\n      जिल गिरी, माथा दुखा,\n    जैक ने कहा — रो मत यारा।\n    लकड़ी आनी जब तक ना,\n    पानी लाने दो हम यहाँ शेर!",
+    "gu": "જેક કહ્યો — પાણી લઈએ,\n    જિલ કહ્યો — હું પણ સાથે.\n    બંને ઉપર પહાડી ગયા,\n    જિલનું બકેટ લૂટક્યું સાથે!\n\n    જિલ પડ્યો, માથું દુખ્યું,\n    જેક કહ્યો — રડ ન યારા.\n    લાકડું આની જ્યાં સુધી નહીં,\n    પાણી લાવવા દો અહીં શેર!",
+    "en": "Jack and Jill went up the hill\n    to fetch a pail of water.\n    Jill fell down and broke her crown,\n    and Jack fell down after her.\n\n    Jack has gone to get some plaster,\n    and Jill is crying after that.\n    Never mind, we'll fetch some water,\n    come along, and let's be glad!"
+   }
+  },
+  {
+   "id": "k-humpty",
+   "classic": true,
+   "title": {
+    "hi": "हम्पटी डंबटी",
+    "gu": "હમ્પટી ડંબટી",
+    "en": "Humpty Dumpty"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "हम्पटी डंबटी बैठा था\n    दीवार पे ऊपर ज़ोर से।\n    एक आते ही गिर पड़ा —\n    \"अरे! सबके पहले ये गिरा!\"\n\n      रानी बोली — हेइ बेचारे,\n    पैदा हो या न दोबारा।\n    दोबारा बनाया न जाए,\n    बस यही कहानी सारा!",
+    "gu": "હમ્પટી ડંબટી બેઠો હતો\n    દીવાલ પર ઉપર જોરથી.\n    એક આવતાં પડી ગયો —\n    \"અરે! બધાને પહેલાં આ પડ્યો!\"\n\n    રાણી બોલી — હેઇ બેચારે,\n    જન્મ થાય કે ન બીજે વાર.\n    બીજે બનાવાય ન જાય,\n    બસ આ જ વાત સારી!",
+    "en": "Humpty Dumpty sat on a wall,\n    and he sat there with such a fall.\n    All the king's horses and all the king's men,\n    could not put Humpty together again.\n\n    \"Oh, you poor fellow,\" the queen said,\n    \"don't cry so loud, my dear.\n    If you'll not be healed in a year,\n    you never will be, I do fear!\""
+   }
+  },
+  {
+   "id": "k-shoe",
+   "classic": true,
+   "title": {
+    "hi": "एक दो बकल जूता",
+    "gu": "એક બે બકલ જૂતું",
+    "en": "One Two Buckle My Shoe"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "child",
+    "book"
+   ],
+   "poem": {
+    "hi": "एक दो बकल मेरा जूता,\n    तीन चार दरवाज़ा खुला।\n    पाँच छह गिनते जाएँ,\n    सात आठ जूता पहना।\n\n      नौ दस कहो जोर से,\n    ग्यारह बारह आ गए।\n    तेरह चौदह पहना जूता,\n    पंद्रह सोलह हो गए!",
+    "gu": "એક બે બકલ મારું જૂતું,\n    ત્રણ ચાર બારણું ખુલ્લું.\n    પાંચ છ ગણીએ જઈએ,\n    સાત આઠ જૂતું પહેરીએ.\n\n    નવ દસ બોલીએ મોટેથી,\n    અગિયાર બાર આગળ ગયા.\n    તેર ચૌદ પહેરું જૂતું,\n    પંદર સોળ થઈ ગયા!",
+    "en": "One, two — buckle my shoe.\n    Three, four — knock at the door.\n    Five, six — pick up sticks.\n    Seven, eight — lay them straight.\n\n    Nine, ten — a big fat hen.\n    Eleven, twelve — the little bell.\n    Thirteen, fourteen — shoes so clean,\n    Fifteen, sixteen — the king is green!"
+   }
+  },
+  {
+   "id": "k-machhli",
+   "classic": true,
+   "title": {
+    "hi": "मछली वाला जाल",
+    "gu": "માછલી વાળું જાળ",
+    "en": "The Fishing Net"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "pond",
+    "fish",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "मछली वाला जाल की तैयारी,\n    पानी से निकली डबडबाय।\n    डाल के पीछे छुप के वह,\n    बड़ी मछली को देख जाय!\n\n      छुपी मछली निकली तो,\n    जाल किसने डाला? कोई नहीं!\n    फिर से सोचे — अब कब डालूँ,\n    छोटी मछली बड़ी हो जाए?",
+    "gu": "માછલી વાળું જાળ તૈયારી,\n    પાણીમાંથી નીકળી ડબડબાય.\n    ડાળ પાછળ છુપાઈને તે,\n    મોટી માછલી જોવા જાય!\n\n    છુપાયેલી માછલી નીકળી તો,\n    જાળ કોણે નાખ્યો? કોઈ નહીં!\n    ફરી વિચારે — હવે ક્યારે નાખું,\n    નાની માછલી મોટી થઈ જાય?",
+    "en": "The fisherman threw his net in deep,\n    and all the fishes started to leap.\n    One little fish slipped out and away,\n    and now the net can only play.\n\n    \"Ah, too small,\" the fisherman said,\n    \"next time I'll throw it strong and broad.\"\n    Next time perhaps the fish will grow,\n    and then we'll catch them all, you know!"
+   }
+  },
+  {
+   "id": "k-bopeep",
+   "classic": true,
+   "title": {
+    "hi": "लिटिल मिस बू-पीप",
+    "gu": "લિટલ મિસ બૂ-પીપ",
+    "en": "Little Bo Peep"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "child",
+    "tree",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "लिटिल मिस बू-पीप मिल गईं,\n    भेड़ों का झुंड खो गया।\n    \"कहाँ गईं सब गायें?\" — सोचा,\n    \"मेरी बच्ची गई ऐसा हुआ।",
+    "gu": "લિટલ મિસ બૂ-પીપ મળી ગઈ,\n    ભેડનો ઝૂંડ ખોઈ ગયો.\n    \"ક્યાં ગઈ બધી ગાય?\" — વિચાર્યું,\n    \"મારી બચ્ચી ગઈ એવું થયું.",
+    "en": "Little Bo-Peep lost her sheep\n    and doesn't know where to find them.\n    She doesn't know the address,\n    so now she's crying her eyes blind.\n\n    Bo-Peep, Bo-Peep, come back home,\n    we'll find the sheep before the day's done."
+   }
+  },
+  {
+   "id": "k-itsy",
+   "classic": true,
+   "title": {
+    "hi": "इट्सी बिट्सी मकड़ी",
+    "gu": "ઇટ્સી બિટ્સી કરમાત",
+    "en": "The Itsy Bitsy Spider"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "spider",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "इट्सी बिट्सी मकड़ी,\n    बारिश में उतरी सीढ़ी।\n    \"अरे! टप-टप-टप गिरी मेरी,\n    बादल फटा और हो गई गीली।\"\n\n      पानी सूखा, सूरज आया,\n    मकड़ी ने फिर जाल बनाया।\n    \"अब से ऊपर से देख कर,\n    पानी आए तो भी नहीं डर!\"",
+    "gu": "ઇટ્સી બિટ્સી કરમાત,\n    વરસાદમાં ઊતરી સીડી.\n    \"અરે! ટપ-ટપ-ટપ પડી મારી,\n    વદલો ફટ્યો અને થઈ ભીની.\"\n\n    પાણી સૂકાયું, સૂર્ય આવ્યો,\n    કરમાતે ફરી જાળ બનાવ્યો.\n    \"હવેથી ઉપરથી જોઈને,\n    પાણી આવે તો પણ નહીં ડર!\"",
+    "en": "The itsy bitsy spider climbed up the water spout,\n    down came the rain and washed the spider out.\n    Out came the sun and dried up all the rain,\n    and the itsy bitsy spider climbed the spout again.\n\n    Little spider, don't you worry,\n    climb up again and don't you hurry."
+   }
+  },
+  {
+   "id": "k-patcake",
+   "classic": true,
+   "title": {
+    "hi": "पैट-ए-केक",
+    "gu": "પેટ-એ-કેક",
+    "en": "Pat-A-Cake"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "cake",
+    "child"
+   ],
+   "poem": {
+    "hi": "पैट-ए-केक, पैट-ए-केक, पैट-ए-केक बेकर मेरी!\n    ले लो मक्कर, बेकर जी, ले लो मक्कर इतनी।\n\n      रोटी बेक हुई तेज़ी से,\n    फिर थोड़ी ठंडी कीजे।\n    फिर बाटी जी ने इतना डाला,\n    जिसमें तिल और गुड़ मसाला!",
+    "gu": "પેટ-એ-કેક, પેટ-એ-કેક, પેટ-એ-કેક બેકર મારી!\n    લઈ લો માખર, બેકર જી, લઈ લો માખર તેટલી.\n\n    રોટલી બેક થઈ ઝડપથી,\n    પછી થોડી ઠંડી કરો.\n    પછી બાટી જીએ આટલું નાખ્યું,\n    જેમાં તિલ અને ગોળ મસાલો!",
+    "en": "Pat-a-cake, pat-a-cake, baker's man,\n    bake me a cake as big as you can.\n    Pat it and roll it and mark it with B,\n    put it in the oven for baby and me.\n\n    Bake it and beat it and put it in the oven,\n    tie it with a ribbon and give it to theoven."
+   }
+  },
+  {
+   "id": "k-diddle",
+   "classic": true,
+   "title": {
+    "hi": "हे डिडल डिडल",
+    "gu": "હે ડિડલ ડિડલ",
+    "en": "Hey Diddle Diddle"
+   },
+   "classId": "lkg",
+   "scene": [
+    "night",
+    "moon",
+    "child",
+    "stars"
+   ],
+   "poem": {
+    "hi": "हे डिडल डिडल, बिल्ली ने मोम का खेल खेला,\n    नन्हीं चुड़िया नाची, फिर गिनती गिनने भागी।\n\n      चौड़ा नदी, गरम रेत,\n    उधर आया जुगनू बहुत चमकेदार।\n    मुर्गी ने चिल्लाकर कहा — \"क्यूँ?\"\n    कोई बच्चा सो रहा था पास!",
+    "gu": "હે ડિડલ ડિડલ, બિલાડીએ મોમનો રમત રમ્યો,\n    નાની ચૂડી નાચી, પછી ગણતરી ગણવા દોડી.\n\n    ચોડા નદી, ગરમ રેત,\n    ત્યાં આવ્યો અમલ ઘણો ચમકતો.\n    મરિયાએ બોલાવી — \"કેમ?\"\n    કોઈ બાળક પાસે સૂઈ રહ્યો!",
+    "en": "Hey diddle diddle, the cat and the fiddle,\n    the cow jumped over the moon,\n    and the little dog laughed to see such a sport,\n    and the dish ran away with the spoon.\n\n    Hey diddle diddle, the cat and the fiddle,\n    the cow jumped over the moon,\n    I saw a little dog, and he looked so funny,\n    that I was glad to see him, I swear."
+   }
+  },
+  {
+   "id": "k-weasel",
+   "classic": true,
+   "title": {
+    "hi": "पॉप गोज द विज़ल",
+    "gu": "પોપ ગોઝ દ વિઝલ",
+    "en": "Pop Goes The Weasel"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "child",
+    "ball"
+   ],
+   "poem": {
+    "hi": "पॉप गोज द विज़ल — सारी मूँगफली ले गया!\n    लाला साहब ने बोला — \"इसमें कुछ नहीं रहा।\"\n\n      बेचारा पकड़ो — लेकिन वो निकल गया,\n    मारे डिग डिग शोर मचाया।\n    पॉप गोज द विज़ल — सारी मूँगफली ले गया!",
+    "gu": "પોપ ગોઝ દ વિઝલ — બધી મગફળી લઈ ગયો!\n    લાલા સાહેબ બોલ્યા — \"આમાં કંઈ નથી રહ્યું.\"\n\n    બેચારો પકડો — પણ એ નિકળી ગયો,\n    મારે ડિગ ડિગ શોર મચાવ્યો.\n    પોપ ગોઝ દ વિઝલ — બધી �મગફળી લઈ ગયો!",
+    "en": "Pop goes the weasel, takes all the peas,\n    and the little pigs are on their knees.\n    \"Where is the weasel?\" the farmer cries,\n    and all the pigs give him a \"Weasel, weasel!\"\n\n    \"I am the weasel,\" the little pig squeals,\n    \"it's a shame that the peas you steal.\""
+   }
+  },
+  {
+   "id": "k-dhol",
+   "classic": true,
+   "title": {
+    "hi": "वाग्यो रे ढोल रे वा",
+    "gu": "વાગ્યો રે ઢોલ રે વા",
+    "en": "Dhol Beats"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "drum",
+    "child",
+    "flower"
+   ],
+   "poem": {
+    "hi": "वाग्यो रे ढोल रे वा,\n    वा घुमरा लागी रे!\n    दसों तालों में नाचो,\n    हाथों में गांठ लागी रे!\n\n      ढोल बजे रे धम धम रे,\n    बच्चे नाचें सारे।\n    ढोल की थाप पे मन नहीं,\n    बस झूमे बारा बारे!",
+    "gu": "વાગ્યો રે ઢોલ રે વા,\n    વા ઘુમરા લાગી રે!\n    દસોન તાલોમાં નચો,\n    હાથમાં ગાંઠ લાગી રે!\n\n    ઢોલ બજે રે ધમ ધમ રે,\n    બાળકો નચે સારે.\n    ઢોલની થાપ પે મન નહીં,\n    બસ ઝૂમે બારા બારે!",
+    "en": "The dhol plays and the children sway,\n    the little ones come out to play.\n    Ten little fingers clap in time,\n    and every single one is fine.\n\n    The dhol beats, dhak dhak dhak,\n    and all the children jump like that.\n    Nobody can sit still on this beat,\n    every single pair of feet!"
+   }
+  },
+  {
+   "id": "k-head",
+   "classic": true,
+   "title": {
+    "hi": "सिर कंधे घुटने पांव",
+    "gu": "માથું કંધે ઘૂંટણ પગ",
+    "en": "Head Shoulders Knees And Toes"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "child",
+    "flower"
+   ],
+   "poem": {
+    "hi": "सिर कंधे घुटने पांव,\n    घुटने पांव नाक-आँख।\n    घुटने पांव नाक-आँख,\n    और कान भी साथ!\n\n      जल्दी-जल्दी दो-दो करो,\n    कम-से-कम पाँच बार।\n    पहली बार थोड़ा धीरे,\n    फिर आवे तेज़ी से उफान!",
+    "gu": "માથું કંધે ઘૂંટણ પગ,\n    ઘૂંટણ પગ નાક-આંખ.\n    ઘૂંટણ પગ નાક-આંખ,\n    અને કાન પણ સાથ!\n\n    ઝડપી-ઝડપી બે બે કરો,\n    ઓછામાં ઓછા પાંચ વાર.\n    પહેલી વાર થોડું ધીરું,\n    પછી આવે ઝડપથી ઉફાન!",
+    "en": "Head, shoulders, knees and toes,\n    knees and toes, eyes and ears.\n    Shoulders, knees and toes and head,\n    and the ears and eyes and head.\n\n    Slow and steady, one, two, three,\n    let's do it faster, one, two, three!"
+   }
+  },
+  {
+   "id": "k-happy",
+   "classic": true,
+   "title": {
+    "hi": "अगर खुश हो तो",
+    "gu": "જો ખુશ હોય તો",
+    "en": "If You're Happy"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "child",
+    "flower",
+    "bee"
+   ],
+   "poem": {
+    "hi": "अगर खुश हो तो ताली बजाओ,\n    दोनों हाथ ऊपर उठाओ।\n    अगर खुश हो तो पैर हिलाओ,\n    दोनों पैर नीचे रखाओ।\n\n      अगर खुश हो तो इशारा करो,\n    आँखें मूँदकर आसमान दिखाओ।\n    सब मिलकर गाना गाएँ,\n    \"खुशी-खुशी में दिन कटाएँ!\"",
+    "gu": "જો ખુશ હોય તો તાલી બજાઓ,\n    બંને હાથ ઉપર ઉઠાવો.\n    જો ખુશ હોય તો પગ હીલાઓ,\n    બંને પગ નીચે રાખાવો.\n\n    જો ખુશ હોય તો ઇશારો કરો,\n    આંખો મૂંદીને આકાશ બતાવો.\n    બધા મળીને ગીત ગાઈએ,\n    \"ખુશી-ખુશીમાં દિવસ કાઢીએ!\"",
+    "en": "If you're happy and you know it, clap your hands.\n    If you're happy and you know it, stamp your feet.\n    If you're happy and you know it, shout \"Hooray!\"\n    If you're happy and you know it, do all three!"
+   }
+  },
+  {
+   "id": "k-monkeys",
+   "classic": true,
+   "title": {
+    "hi": "पाँच छोटे बंदर",
+    "gu": "પાંચ નાના વાંદળ",
+    "en": "Five Little Monkeys"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "monkey",
+    "tree",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "पाँच छोटे बंदर बैठे थे मेरे कान पर,\n    एक उतरी तो सो गया — सिर पे मारा!\n\n      दो ने कहा — \"ऐसे न हो!\"\n    तीन ने कहा — \"सच बात है!\"",
+    "gu": "પાંચ નાના વાંદળ બેઠા હતા મારા કાન પર,\n    એક ઉતરી તો સો ગયો — સિદ પે મારા!\n\n    બે બોલ્યા — \"આવું ન હોવું!\"\n    ત્રણ બોલ્યા — \"સાચ વાત છે!\"",
+    "en": "Five little monkeys jumping on the bed,\n    one fell down and bumped his head.\n    Mama called the doctor and the doctor said,\n    \"no more monkeys jumping on the bed!\"\n\n    Four little monkeys jumping on the bed,\n    one fell down and bumped his head..."
+   }
+  },
+  {
+   "id": "k-holifolk",
+   "classic": true,
+   "title": {
+    "hi": "होली है बड़ी यार",
+    "gu": "હોળી છે મોટા યાર",
+    "en": "Holi Is A Happy Day"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "colours",
+    "child"
+   ],
+   "poem": {
+    "hi": "होली है बड़ी यार,\n    रंग के मेले का उत्सार।\n    गुलाल से रंग पे,\n    अगले को दे आवाज़ार!\n\n      लाल पीला नीला हरा,\n    सब मिलकर करें उल्लास।\n    बुराई को भगा दो,\n    रहे अच्छे केवल हास!",
+    "gu": "હોળી છે મોટા યાર,\n    રંગના મેળાનો ઉત્સાર.\n    ગુલાલથી રંગ પે,\n    અગલાને આવી અવાજ કાર!\n\n    લાલ પીળું નીલું લીલું,\n    બધા મળીને કરીએ ઉલ્લાસ.\n    ખરાબને ભગાડી દો,\n    રહે સારાનો હાસ!",
+    "en": "Holi is here, it's a happy day,\n    let us colour it in every way.\n    Red and yellow, blue and green,\n    the brightest festival you have seen.\n\n    Wash the bad and keep the good,\n    sharing colour and sharing food."
+   }
+  },
+  {
+   "id": "k-raghupati",
+   "classic": true,
+   "title": {
+    "hi": "रघुपति राघव राजा",
+    "gu": "રઘુપતિ રાઘવ રાજા",
+    "en": "Raghupati Raghav Raja"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "diya",
+    "flower",
+    "home"
+   ],
+   "poem": {
+    "hi": "रघुपति राघव राजा,\n    जाने किस पड़ोसी राजा।\n    ऊतरे भाग सिंधु में,\n    बजे मुरचंग मेहन से।\n\n      पैरों में पद्म दिए दास,\n    हाथों में कमल बसाये।\n    दीन-दुखी के देव दासों को,\n    संकट सभी मिटाये!",
+    "gu": "રઘુપતિ રાઘવ રાજા,\n    જાણે કઈ પડોશી રાજા.\n    ઊતરે ભાગ સિંધુમાં,\n    બજ્યે મુરચંગ મહેનતથી.\n\n    પગમાં પદ્મ આપ્યાં દાસ,\n    હાથમાં કમળ બસાવ્યા.\n    દીન-દુખીના દેવ દાસનો,\n    સંકટ સભ મિટાવ્યા!",
+    "en": "Raghupati Raghav, the king of the land,\n    I know your story, I understand.\n    You crossed the river Sindhu with a leap,\n    and the drums sounded, loud and deep.\n\n    With lotus feet and lotus hands,\n    you lifted up the poor and lands.\n    Whoever was in trouble, you set free —\n    that is who Raghupati Raghav must be."
+   }
+  },
+  {
+   "id": "k-muffinman",
+   "classic": true,
+   "title": {
+    "hi": "मफिन वाला",
+    "gu": "મફીન વાળા",
+    "en": "The Muffin Man"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "cake",
+    "child",
+    "flower"
+   ],
+   "poem": {
+    "hi": "मफिन वाला, मफिन वाला,\n    रोटी-मफिन लाता है।\n    कोक-रोक, कोक-रोक,\n    पक्का तेरा इरादा है!\n\n      गोल-मटोल कुरकुरे,\n    जामुन जैसे नरम।\n    बच्चे जमा जमा कर,\n    चाटते हैं सब स्वादम!",
+    "gu": "મફીન વાળા, મફીન વાળા,\n    રોટલી-મફીન લાવે છે.\n    કોક-રોક, કોક-રોક,\n    પક્કો તેરો ઇરાદો છે!\n\n    ગોળ-મટોળ કુરકરે,\n    જામૃન જેવા નરમ.\n    બાળકો જમા જમા કરે,\n    ચાટે છે બધા સ્વાદમ!",
+    "en": "The muffin man, the muffin man,\n    do you know the muffin man?\n    Knock, knock, knock at the door,\n    it's the muffin man, at your door!\n\n    Round and soft and warm and sweet,\n    like a little treat for feet.\n    All the children call out loud,\n    \"muffin man, come back to our crowd!\""
+   }
+  },
+  {
+   "id": "k-aagayi",
+   "classic": true,
+   "title": {
+    "hi": "आ भी गई हमें खेलने",
+    "gu": "આ પણ ગઈ હમને રમવા",
+    "en": "Off We Go To Play"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "kite",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "आ भी गई हमें खेलने,\n    बहार-बहार के झूमने।\n    बार-बार गई दिन के अंत,\n    रहे न हाथ में न रहे न पंख!\n\n      आए हैं साथ के खेलने,\n    चलो चलो, सबको ले चलने।\n    पेड़ के तने, पत्ते के झोंटे,\n    बिछ गए चमकते सोने!",
+    "gu": "આ પણ ગઈ હમને રમવા,\n    બહાર-બહારના ઝૂમવા.\n    વાર-વાર ગઈ દિવસના અંત,\n    રહ્યા ન હાથમાં ન રહ્યા પંખ!\n\n    આવ્યાં છે સાથે રમવા,\n    ચલો ચલો, બધાને લઈ ચલવા.\n    વૃક્ષના થડ, પાનના ઝૂમણા,\n    છતાવાયાં ચમકતા સોના!",
+    "en": "Off we go, off we go,\n    the day is done, the sun is low.\n    We came back at the end of day,\n    and nothing in our hands would stay.\n\n    Off we go, off we go,\n    it's time for all of us to play.\n    The trees and leaves are spread out bright,\n    like golden carpets in the light."
+   }
+  },
+  {
+   "id": "k-johnny",
+   "classic": true,
+   "title": {
+    "hi": "जॉनी जॉनी",
+    "gu": "જોની જોની",
+    "en": "Johnny Johnny"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "child",
+    "drum",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "जॉनी जॉनी — हाँ पापा?\n    \"हाँ पापा!\" — बोलो सब।\n    जॉनी जॉनी — नहीं पापा?\n    \"नहीं पापा!\" — जोर से बोलो।\n\n      पापा पूछे — इधर आओ,\n    और उधर चले जाओ।\n    बच्चे बोलें — ढोल बजाओ,\n    ताली बजाओ, गाओ गाओ!",
+    "gu": "જોની જોની — હા પાપા?\n    \"હા પાપા!\" — બોલો બધા.\n    જોની જોની — ના પાપા?\n    \"ના પાપા!\" — મોટેથી બોલો.\n\n    પાપા પૂછે — અહીં આવો,\n    અને ત્યાં ચાલો જાઓ.\n    બાળકો બોલે — ઢોલ બજાવો,\n    ટાલી બજાવો, ગાવો ગાવો!",
+    "en": "Johnny Johnny — yes, papa?\n    \"Yes, papa!\" — shout it out.\n    Johnny Johnny — no, papa?\n    \"No, papa!\" — really loud.\n\n    Papa says — come over here,\n    and then he sends him far.\n    All the children clap and cheer,\n    \"Johnny Johnny, we can hear!\""
+   }
+  },
+  {
+   "id": "k-twinkle2",
+   "classic": true,
+   "title": {
+    "hi": "ट्विंकल ट्विंकल — अक्षर",
+    "gu": "ટ્વિંકલ ટ્વિંકલ — અક્ષર",
+    "en": "Twinkle With Alphabet"
+   },
+   "classId": "play",
+   "scene": [
+    "night",
+    "moon",
+    "stars",
+    "child"
+   ],
+   "poem": {
+    "hi": "ट्विंकल ट्विंकल लेटर, सुनो ज़ोर से —\n    हर अक्षर का गाते हैं हम, सब जानें!\n\n      \"अ-ब-स-क\" — एक के बाद दो,\n    \"ह-भ-म-य\" — जाते हैं आगे।\n    \"म-छ-द-फ\" — अब यह दो,\n    \"घ-च-छ-झ-ञ\" — करें रटाए!",
+    "gu": "ટ્વિંકલ ટ્વિંકલ લેટર, સાંભળો મોટેથી —\n    દરેક અક્ષરનું ગાય છે અમે, બધા જાણે!\n\n    \"અ-આ-ઇ-ઈ\" — એક પછી બે,\n    \"ઉ-ઊ-એ-ઐ\" — આગળ જઈએ.\n    \"ઓ-ઔ-અં\" — અહીં થોડા,\n    \"ક-ખ-ગ-ઘ\" — કરી રહે!",
+    "en": "Twinkle twinkle little letter, say it out loud,\n    sing the whole alphabet, sing it out loud.\n\n    A, B, C, D, E — that's the way we go,\n    F, G, H, I, J — now you already know.\n    K, L, M, N, O, P, Q, R, S, T, U, V,\n    W, X, Y and Z — this is fun for me!"
+   }
+  },
+  {
+   "id": "k-sleeping",
+   "classic": true,
+   "title": {
+    "hi": "सो रहे हो क्या?",
+    "gu": "ઊંઘે છો કરવા?",
+    "en": "Are You Sleeping"
+   },
+   "classId": "play",
+   "scene": [
+    "night",
+    "moon",
+    "stars",
+    "child"
+   ],
+   "poem": {
+    "hi": "सो रहे हो क्या? सो रहे हो क्या?\n    सब सो रहे हैं, आँखें मूँद लो।\n\n      एक की मूँजी, दो की मूँजी,\n    तीन की मूँजी, चार की मूँजी।\n    पाँच की मूँजी, छह की मूँजी,\n    सब हो गए नींद — चमक रही चादर!",
+    "gu": "ઊંઘે છો કરવા? ઊંઘે છો કરવા?\n    બધા ઊંઘે છે, આંખો બંધ કરો.\n\n    \"એકની મૂંજી\" — \"બેની મૂંજી\",\n    \"ત્રણની મૂંજી\" — \"ચારની મૂંજી\".\n    \"પાંચની મૂંજી\" — \"છની મૂંજી\",\n    બધા સૂઈ ગયા — ચમકે છે છવ!",
+    "en": "Are you sleeping, are you sleeping,\n    brother John, brother John?\n    Morning bells are ringing,\n    ding, dang, dong!\n\n    All the little children,\n    one by one, they creep.\n    And they creep so softly,\n    while the sleepy head stays deep."
+   }
+  },
+  {
+   "id": "k-abc",
+   "classic": true,
+   "title": {
+    "hi": "अ ब से ज़मीन-आसमान",
+    "gu": "અ આથી ધરતી-આકાશ",
+    "en": "The Alphabet Song"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "book",
+    "pen",
+    "child"
+   ],
+   "poem": {
+    "hi": "अ ब से ज़मीन-आसमान,\n    क ख ग घ छ से पहचान।\n    च छ ज झ झ ञ से जान,\n    ट ठ ड ढ ण के बताए सब ज्ञान।\n\n      त थ द ध न में बहुत कुछ,\n    प फ ब भ म य जाने सब अच्छ।\n    र ल व श ष स ह से पूरा,\n    क्ष त्र ज्ञ श्र क सब हे धोरा!",
+    "gu": "અ આથી ધરતી-આકાશ,\n    ક ખ ગ ઘ છથી ઓળખાશ.\n    ચ છ જ ઝ ઞ થી જાણ,\n    ટ ઠ ડ ઢ ણનું કાર્ય બધું ગાણ.\n\n    ત થ દ ધ નમાં ઘણું કંઈ,\n    પ ફ ભ મ ય જાણી બધું સાંઈ.\n    ર લ વ શ ષ સ હથી પૂરું,\n    ક્ષ ત્ર જ્ઞ શ્ર ક સબ ઝડપું!",
+    "en": "A, B, C and D, E, F and G,\n    H, I, J and K, L, M, N, O, P.\n    Q, R, S and T, U and V,\n    W, X, Y and Z — this is fun for me!\n\n    Now I know my alphabet,\n    I can read and I can spell."
+   }
+  },
+  {
+   "id": "k-london",
+   "classic": true,
+   "title": {
+    "hi": "लंदन का पुल",
+    "gu": "લંદનનો પુલ",
+    "en": "London Bridge"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "river",
+    "cloud",
+    "child"
+   ],
+   "poem": {
+    "hi": "लंदन का पुल गिर गया,\n    टप-टप-टप पानी बह गया।\n    \"बना दो बना दो पुल नया!\"\n\n      कबीरा गया पानी लेने,\n    दूसरा गया तो लौट न आने।\n    दोनों भाई बन गए — फूट!\n    अब न जाएँ, अब न आए!\n\n      मछली बोली — डूब के देखती,\n    कुछ न मिला पर डर के काँपती।",
+    "gu": "લંદનનો પુલ તૂટી ગયો,\n    ટપ-ટપ-ટપ પાણી વહે ગયો.\n    \"બનાવો બનાવો પુલ નવો!\"\n\n    કાબીરા ગયો પાણી લેવા,\n    બીજો ગયો તો પાછો ન આવવા.\n    બંને ભાઈ બન્યા — ફૂટ!\n    હવે ન જવાઁ, હવે ન આવે!\n\n    માછલી બોલી — ડૂબીને જોવું,\n    કંઈ ન મળ્યું પણ ડર જોવું.",
+    "en": "London Bridge is falling down,\n    falling down, falling down.\n    London Bridge is falling down,\n    my fair lady.\n\n    Build it up with iron bars,\n    iron bars, iron bars.\n    Build it up with iron bars,\n    my fair lady.\n\n    Iron bars will bend and break,\n    bend and break, bend and break.\n    Iron bars will bend and break,\n    my fair lady."
+   }
+  },
+  {
+   "id": "k-macdonald",
+   "classic": true,
+   "title": {
+    "hi": "फार्मर बैल डॉंड",
+    "gu": "ફાર્મર વાસલ ડૉન્ડ",
+    "en": "Old MacDonald"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "cow",
+    "hen",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "फार्मर बैल डॉंड था,\n    मछली-मछली वहाँ गाता था।\n    \"फार्मर बैल डॉंड, कीट कीट,\n    कहाँ है वो पुराना जगह?\"",
+    "gu": "ફાર્મર વાસલ ડૉન્ડ હતો,\n    માછલી-માછલી ત્યાં ગાતો હતો.\n    \"ફાર્મર વાસલ ડૉન્ડ, કીટ કીટ,\n    ક્યાં છે એ જૂના જગ્ગા?\"",
+    "en": "Old MacDonald had a farm,\n    E-I-E-I-O.\n    And on his farm he had a cow,\n    E-I-E-I-O.\n\n    \"With a moo-moo here and a moo-moo there,\n    here a moo, there a moo, everywhere a moo.\""
+   }
+  },
+  {
+   "id": "k-farmers",
+   "classic": true,
+   "title": {
+    "hi": "किसान वाला गीत",
+    "gu": "ખેડૂત વાળો ગીત",
+    "en": "The Farmer In The Dell"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "cow",
+    "hen",
+    "home"
+   ],
+   "poem": {
+    "hi": "किसान, किसान, डेल में किसान,\n    गाय निकली डेल में।\n    बच्चा आया, डेल में बच्चा,\n    गौरी आई उसके पीछे।\n\n      औरत आई, औरत के साथ,\n      बच्चे-बच्चे छह आए।\n      चार आए, तीन आए,\n      दो आए, एक आए!",
+    "gu": "ખેડૂત, ખેડૂત, ડેલમાં ખેડૂત,\n    ગાય નીકળી ડેલમાં.\n    બાળકો આવ્યો, ડેલમાં બાળકો,\n    ગૌરી આવી તેની પાછળ.\n\n    બહુ આવી, બહુ સાથે,\n    બાળકા-બાળકા છ આવ્યા.\n    ચાર આવ્યા, ત્રણ આવ્યા,\n    બે આવ્યા, એક આવ્યો!",
+    "en": "The farmer in the dell, the farmer in the dell,\n    and he kept a cow, and he kept a cow.\n    The cow came down the hill, the cow came down the hill,\n    and the farmer's wife came down after them.\n\n    The children came along, the children came along,\n    and they all got a cow, and they all got a cow."
+   }
+  },
+  {
+   "id": "k-tenbed",
+   "classic": true,
+   "title": {
+    "hi": "दस बिस्तर में",
+    "gu": "દસ બિસ્તરમાં",
+    "en": "Ten In The Bed"
+   },
+   "classId": "ukg",
+   "scene": [
+    "night",
+    "home",
+    "moon",
+    "child"
+   ],
+   "poem": {
+    "hi": "दस बिस्तर में थे दस,\n    उठ गए सब उठ गए।\n    \"लेट जा — दिल है तूँगा,\" — डॉक्टर बोले।\n\n      नौ बिस्तर में रह गए नौ,\n      फिर तकिया बना कर सोए।\n      आठ-सात-छ-पाँच-चार-तीन-दो-एक,\n      एक बचा — उठ गया कोई नहीं!",
+    "gu": "દસ બિસ્તરમાં હતા દસ,\n    ઊઠ ગયા બધા ઊઠ ગયા.\n    \"સૂઈ જા — દિલ છે તુંટા,\" — ડૉક્ટર બોલ્યા.\n\n    નવ બિસ્તરમાં રહી ગયા નવ,\n    પછી તકિયો બનાવી સૂઈ ગયા.\n    આઠ-સાત-છ-પાંચ-ચાર-ત્રણ-બે-એક,\n    એક બચ્યો — ઊઠ ગયો કોઈ નહીં!",
+    "en": "There were ten in the bed and the little one said,\n    \"roll over, roll over!\" — and all of them rolled.\n    One fell out and bumped on the ground,\n    then nine climbed in and they all turned round.\n\n    Eight, seven, six, five, four, three, two, one,\n    now there's nobody left in the bed!"
+   }
+  },
+  {
+   "id": "k-hushbaby",
+   "classic": true,
+   "title": {
+    "hi": "चुपचुप, नींद आ जाए",
+    "gu": "ચૂપચૂપ, ઊંઘ આવી જાય",
+    "en": "Hush Little Baby"
+   },
+   "classId": "ukg",
+   "scene": [
+    "night",
+    "moon",
+    "stars",
+    "child",
+    "home"
+   ],
+   "poem": {
+    "hi": "चुप-चुप, नींद आ जाए,\n    माँ गाना गा रही आज।\n    कोई नहीं बोलेगा \"चुप\",\n    चलती है गाड़ी खेत की तराज़!\n\n      अगर कोई चिड़िया चीखे,\n    लाड़ली तू सो जा।\n    प्यारी मम्मी है पास तेरी,\n    चमक रही है चाँद की छवि!",
+    "gu": "ચૂપ-ચૂપ, ઊંઘ આવી જાય,\n    મમ્મી ગીત ગાય આજ.\n    કોઈ નહીં બોલશે \"ચૂપ\",\n      ચાલે છે ગાડી ખેતની તરાજ!\n\n    જો કોઈ ચીડિયું ચીકે,\n    લાડલી તું સો જા.\n    પ્યારી મમ્મી છે પાસ તારી,\n    ચમકે છે ચાંદની છવિ!",
+    "en": "Hush little baby, don't say a word,\n    mama's going to buy you a mockingbird.\n    And if that mockingbird won't sing,\n    mama will buy you a diamond ring.\n\n    Hush little baby, sleep tight,\n    the stars are blinking in the sky."
+   }
+  },
+  {
+   "id": "k-jingle",
+   "classic": true,
+   "title": {
+    "hi": "घोड़े की घंटियाँ",
+    "gu": "ઘોડાની ઘંટિયાં",
+    "en": "Jingle Bells"
+   },
+   "classId": "ukg",
+   "scene": [
+    "snow",
+    "snowman",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "घोड़े की घंटियाँ बजें, ठुम्म-ठुम्म-बज!\n    बर्फ़ में सवारी चले, रात को जगमग-जगम।\n\n      \"एक को दो, नहीं एक-दो,\n    बार-बार फिर वही बजाओ!\"\n\n      घोड़ा हिला, लट्ठा खेली,\n    नींद खो गई हम सबके पास।\n    \"अब सो जाओ — सुबह जल्दी,\n    मौसम बहुत बड़ा लाल है!\"",
+    "gu": "ઘોડાની ઘંટિયાં વાજે, ઠમમ-ઠમમ બજે!\n    બરફમાં સવારી ચલે, રાતે જગમગ-જગમ.\n\n    \"એકને બે, નહીં એક-બે,\n    વાર-વાર ફરી એ જ બજાવો!\"\n\n    ઘોડો હિલ્યો, લાઠી રમતી,\n    ઊંઘ ઊડી ગઈ અમને બધાને.\n    \"હવે સૂઈ જાઓ — વહેલા સવારે,\n    વાતાવણું ઘણું મોટું લાલ છે!\"",
+    "en": "Jingle bells, jingle bells, jingle all the way!\n    Oh what fun it is to ride in a one-horse sleigh.\n\n    \"One horse, open! Two horses, shut!\n    Ring them bells, ring them bells, ding-a-ling-a-ling!\"\n\n    The sleigh is full of snow and the horse is old,\n    but the bells keep ringing for the children so bold."
+   }
+  },
+  {
+   "id": "k-openshut",
+   "classic": true,
+   "title": {
+    "hi": "खोलो और बंद करो",
+    "gu": "ખોલો અને બંધ કરો",
+    "en": "Open Shut Them"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "child",
+    "hands"
+   ],
+   "poem": {
+    "hi": "खोलो, बंद करो — ऊपर-ऊपर हाथ,\n    घुटने छूओ — प्यार से ज़मीन से नीचे लाए पाथ!\n\n      ऊपर-ऊपर — खोलो, बंद!\n    नीचे-नीचे — खोलो, बंद!\n    डा-डा डोलनी — साथ-साथ घूमे,\n    तू-तू-तू सो-जाओ, सपने!\n\n      आँखें मूँदो, कान कान करो,\n    गोदों में हाथ — जाम करो।",
+    "gu": "ખોલો, બંધ કરો — ઉપર-ઉપર હાથ,\n    ઘૂંટણે છૂં — પ્યારથી જમીન નીચે લાવ પાથ!\n\n    ઉપર-ઉપર — ખોલો, બંધ!\n    નીચે-નીચે — ખોલો, બંધ!\n    ડા-ડા ડોલની — સાથે-સાથે ફરે,\n    તૂ-તૂ-તૂ સો-જાઓ, સપના!\n\n    આંખો મૂંદો, કાન કાન કરો,\n    ગોડામાં હાથ — જામ કરો.",
+    "en": "Open, shut them, open, shut them,\n    give a little clap and up they go!\n    Open, shut them, open, shut them,\n    now let's jump and hold them so.\n\n    Shut them, shut them, shut, shut, shut,\n    lay them down and gently rest your head."
+   }
+  },
+  {
+   "id": "k-fiveducks",
+   "classic": true,
+   "title": {
+    "hi": "पाँच बत्तखें",
+    "gu": "પાંચ બત્તખ",
+    "en": "Five Little Ducks"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "pond",
+    "duck",
+    "bird"
+   ],
+   "poem": {
+    "hi": "पाँच बत्तखें पानी में जा रही थीं,\n    बहुत सुखी थीं सब।\n    जब ये सब से छुप के गईं,\n    तो खाका चोटा हुआ!\n\n      \"कब आओगी, कब आओगी?\" — चिल्लाया,\n    पाँचों ने कहा — \"हम आ रहे हैं!\"\n\n      एक-एक करके वापस आईं,\n    फिर सब साथ में नाचने लगीं!",
+    "gu": "પાંચ બત્તખ પાણીમાં જઈ રહી હતી,\n    ખૂબ સુખી હતી બધી.\n    જ્યારે આ બધી છુપાઈ ગઈ,\n    તો ખોલાકો ચોટા હયો!\n\n    \"ક્યારે આવશો, ક્યારે આવશો?\" — બોલાવ્યું,\n    પાંચેએ કહ્યું — \"અમે આવી રહ્યા છીએ!\"\n\n    એક-એક કરીને પાછા આવ્યા,\n    પછી બધા સાથેમાં નચવા લાગ્યા!",
+    "en": "Five little ducks went out one day,\n    over the hills and far away.\n    Mother duck said \"quack, quack, quack,\"\n    but only four little ducks came back.\n\n    \"Oh, little ducks, won't you swim?\"\n    \"Sorry, mother, we've lost our fin.\""
+   }
+  },
+  {
+   "id": "k-sawan",
+   "classic": true,
+   "title": {
+    "hi": "सावन आया",
+    "gu": "સાવન આવ્યો",
+    "en": "Sawan Has Come"
+   },
+   "classId": "ukg",
+   "scene": [
+    "rain",
+    "cloud",
+    "umbrella",
+    "child"
+   ],
+   "poem": {
+    "hi": "सावन आया, सावन आया,\n    हरा-भरा गुड़ बरसाया।\n    काले बादल बरसने लगे,\n    नन्हे बच्चे भी नहाने लगे!\n\n      छत पर बैठे चाँद-बिलास,\n    टप-टप-टप नीले पास।\n    भीग गई कमरियाँ सारी,\n    खिल गये फूल रंग-बिरंग भारी!",
+    "gu": "સાવન આવ્યો, સાવન આવ્યો,\n    લીલો-લીલો ગોળ વરસાવ્યો.\n    કાળા વદલ વરસવા લાગ્યા,\n    નાના બાળકો પણ નહાવા લાગ્યા!\n\n    છત પર બેઠા ચાંદ-બિલાસ,\n    ટપ-ટપ-ટપ નીલા પાસ.\n    ભીના ગઈ કમરિયાં સારી,\n    ખિલા ગએ ફૂલ રંગ-બિરંગ ભારી!",
+    "en": "Sawan has come, Sawan has come,\n    green and sweet, here it is done.\n    Dark clouds start to give their rain,\n    all the little children bathe again.\n\n    Sitting on the roof, they look at the moon,\n    pitter-patter, pitter-patter, comes the monsoon."
+   }
+  },
+  {
+   "id": "k-chalomankh",
+   "classic": true,
+   "title": {
+    "hi": "चलो मन केले",
+    "gu": "ચાલો મન રે ખેલવા",
+    "en": "Come On Let's Play"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "kite",
+    "child",
+    "tree",
+    "butterfly"
+   ],
+   "poem": {
+    "hi": "चलो मन केले, चलो मन केले,\n    ऊपर-ऊपर जले-बले।\n    हमको खेलना है तो खेलेंगे,\n    जात-बात जो डर किसे?\n\n      हाथ पकड़ो, गोल बनाओ,\n    पहले-पहले खूब नाचाओ।\n    पीछे भागो आगे आओ,\n    गिनती से खेल शुरू करो!",
+    "gu": "ચાલો મન રે ખેલવા, ચાલો મન રે ખેલવા,\n    ઉપર-ઉપર જલે-બલે.\n    આપણને રમવું છે તો રમીએ,\n    જાત-બાત જે ડર કેસે?\n\n    હાથ પકડીને, ગોળ બનાવીએ,\n    પહેલાં-પહેલાં ખૂબ નચાવીએ.\n    પાછળ દોડો આગળ આવો,\n    ગણતરીથી રમત શરૂ કરો!",
+    "en": "Come on, come on, let's all go and play,\n    up above and far away.\n    Nobody here has any fear,\n    let's play together, all of us, my dear.\n\n    Hold my hand and make a ring,\n    then we all begin to sing."
+   }
+  },
+  {
+   "id": "k-machine",
+   "classic": true,
+   "title": {
+    "hi": "मशीन के पहिये",
+    "gu": "મશીનના પહિયા",
+    "en": "Wheels On The Bus"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "bus",
+    "child",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "मशीन के पहिये — टर-टर-टर घूमे,\n    बस के बच्चे सब ज़ोर से बोले।\n\n      \"पहिये पहिये\" — सब बोले,\n      \"दरवाज़े दरवाज़े\" — सब बोले,\n      \"बिन बिन\" — सब बोले,\n      \"हाँ हाँ हाँ\" — सब बोले!",
+    "gu": "મશીનના પહિયા — ટર-ટર-ટર ફરે,\n    બસના બાળકો બધા મોટેથી બોલે.\n\n    \"પહિયા પહિયા\" — બધા બોલે,\n    \"બારણું બારણું\" — બધા બોલે,\n    \"વહ વહ\" — બધા બોલે,\n    \"હા હા હા\" — બધા બોલે!",
+    "en": "The wheels on the bus go round and round,\n    round and round, round and round.\n    The wheels on the bus go round and round,\n    all through the town.\n\n    The wipers on the bus go swish, swish, swish,\n    the horn on the bus goes beep, beep, beep,\n    the people in the bus go up and down — \n    here we go, there we go!"
+   }
+  },
+  {
+   "id": "k-didi",
+   "classic": true,
+   "title": {
+    "hi": "गिनती और कूलिया",
+    "gu": "ગણતરી અને કૂલિયા",
+    "en": "Counting With Me"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "child",
+    "book",
+    "flower"
+   ],
+   "poem": {
+    "hi": "एक गिनती, दो गिनती, तीन गिनती मेरे हाथ,\n    चार गिनती पाँच गिनती — गिनती की बात!\n\n      उँगलियाँ सब जोड़ के,\n    जोड़-घटाव का खेल सीख ले।\n    एक से दस फिर बारह,\n    बड़ी-बड़ी संख्या — कितनी सीख ले!",
+    "gu": "એક ગણતરી, બે ગણતરી, ત્રણ ગણતરી મારા હાથ,\n    ચાર ગણતરી પાંચ ગણતરી — ગણતરીની વાત!\n\n      આંગળીઓ બધી જોડીને,\n    જોડ-ઘટાવનો રમત શીખે.\n    એકથી દસ પછી બાર,\n    મોટી-મોટી સંખ્યા — કેટલી શીખે!",
+    "en": "One, two, three, come with me,\n    four and five and six, you'll see.\n    Seven, eight, nine, and ten,\n    now count again and do it then!\n\n    Clap your hands for every number,\n    count with me and count with thunder!"
+   }
+  },
+  {
+   "id": "q-rubdub",
+   "classic": true,
+   "title": {
+    "hi": "रब-डब-डब",
+    "gu": "રબ-ડબ-ડબ",
+    "en": "Rub A Dub Dub"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "pond",
+    "duck",
+    "child"
+   ],
+   "poem": {
+    "hi": "रब-डब-डब, तीन लड़के टब में,\n    कौन निकलेगा ऊपर से उतर में?\n    दस सितारे तैरते हुए,\n    तीन लड़के उतरे खूब खुशी से!",
+    "gu": "રબ-ડબ-ડબ, ત્રણ છોકરા ટબમાં,\n    કોણ નિકળશે ઉપરથી ઉતરમાં?\n    દસ તારાઓ તરતા જઈ,\n    ત્રણ છોકરા ઉતર્યા ખૂબ ખુશીથી!",
+    "en": "Rub-a-dub-dub, three men in a tub,\n    and who do you think they be?\n    The butcher, the baker, the candlestick maker,\n    the tub was full of gems."
+   }
+  },
+  {
+   "id": "q-shaftoe",
+   "classic": true,
+   "title": {
+    "hi": "बॉबी शाफ्टो",
+    "gu": "બોબી શાફટો",
+    "en": "Bobby Shaftoe"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "pond",
+    "child",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "बॉबी शाफ्टो ने समुद्र में पछाड़ा,\n    अपनी गोद भर चीपें बजाया।\n    चीप में मछली सुन-सुन-सुन,\n    गिनती शुरू — एक-दो-तीन!",
+    "gu": "બોબી શાફટોએ દરિયામાં પાછો,\n    પોતાની ઘોળી ભરી ચીપે વાગ્યો.\n    ચીપે માછલી સુન-સુન-સુન,\n    ગણતરી શરૂ — એક-બે-ત્રણ!",
+    "en": "Bobby Shaftoe went to sea,\n    with his pipe by his side,\n    and he blew with a smile,\n    \"Silver and eels have I laid up for thee.\""
+   }
+  },
+  {
+   "id": "q-tucker",
+   "classic": true,
+   "title": {
+    "hi": "टॉमी टकर",
+    "gu": "ટૉમી ટકર",
+    "en": "Little Tommy Tucker"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "child",
+    "cake"
+   ],
+   "poem": {
+    "hi": "टॉमी टकर रोटी खाता है,\n    आधी-अधी कर जाता है।\n    \"आओ बच्चो मेरी मदद करो,\n    नहीं तो भूखा मर जाता है!\"",
+    "gu": "ટૉમી ટકર રોટલી ખાય છે,\n    અડધી-અડધી કરી જાય છે.\n    \"આવો બાળકો મારી મદદ કરો,\n    નહીં તો ભૂખ્યો મરી જશે!\"",
+    "en": "Little Tommy Tucker\n    sings for his supper.\n    \"What shall we give him?\n    Brown bread and butter.\"\n    How shall he cut it\n    without e'er a knife?\n    How shall he marry\n    without a wife?"
+   }
+  },
+  {
+   "id": "q-rosie",
+   "classic": true,
+   "title": {
+    "hi": "गुलाब की झोली",
+    "gu": "ગુલાબની ઝૂલી",
+    "en": "Ring Around The Rosie"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "child",
+    "flower"
+   ],
+   "poem": {
+    "hi": "गुलाब की झोली, फूलों का गुच्छा,\n    ऊपर इधर, नीचे उधर!\n    आग जल जाए, ज़मीन गिर जाए,\n    जब आग लगी — हम सब गिर जाएं!",
+    "gu": "ગુલાબની ઝૂલી, ફૂલનો ગૂચ્છો,\n    ઉપર ઈધર, નીચે ત્યાં!\n    આગ ભળઈ જાય, જમીન પડી જાય,\n    જ્યારે આગ લાગી — બધા પડી જઈએ!",
+    "en": "Ring around the rosie,\n    a pocket full of posies,\n    ash and ashes, we all fall down.\n    Rise on your knees\n    and jingle your shoes,\n    we'll all be happy when you turn around."
+   }
+  },
+  {
+   "id": "q-pussycat",
+   "classic": true,
+   "title": {
+    "hi": "बिल्ली की गली",
+    "gu": "બિલાડીની ગલી",
+    "en": "Pussy Cat"
+   },
+   "classId": "play",
+   "scene": [
+    "day",
+    "moon",
+    "child",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "बिल्ली गई चूहा खाने,\n    अँधेरे में राह भटकाने।\n    चाँद निकला तब लौटी वह,\n    गिनती कर-कर के खाना पाए!",
+    "gu": "બિલાડી ગઈ ઇંદડનું ખાવું,\n    અંધારામાં રસ્તો ભટકાવું.\n    ચાંદ નીકળ્યો ત્યારે પાછી આવી,\n    ગણતરી કરી-કરી ખાવું પાવી!",
+    "en": "Pussy cat, pussy cat,\n    where have you been?\n    \"I've been to the sea\n    to see the fish swim.\""
+   }
+  },
+  {
+   "id": "q-simon",
+   "classic": true,
+   "title": {
+    "hi": "सिंपल साइमन",
+    "gu": "સિમ્પલ સાઇમન",
+    "en": "Simple Simon"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "child",
+    "book"
+   ],
+   "poem": {
+    "hi": "सिंपल साइमन सिंपल साइमन,\n    अपनी मछली पकड़ के कहा —\n    \"सुनो मेरी मछली नाच रही है,\n    बहुत खूब छाती फूल रही है!\"",
+    "gu": "સિમ્પલ સાઇમન સિમ્પલ સાઇમન,\n    પોતાની માછલી પકડીને કહ્યો —\n    \"સાંભળો મારી માછલી નર્ચે છે,\n    ઘણું સુખી છાતી ફૂલે છે!\"",
+    "en": "Simple Simon met a pieman\n    going to the fair;\n    \"Give me your pie, good pieman,\n    I'll give you my hare.\""
+   }
+  },
+  {
+   "id": "q-horner",
+   "classic": true,
+   "title": {
+    "hi": "जैक होर्नर की पाई",
+    "gu": "જેક હોર્નરની પાઈ",
+    "en": "Little Jack Horner"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "child",
+    "book"
+   ],
+   "poem": {
+    "hi": "जैक होर्नर बैठा था कोने,\n    एक पाई में पिठ्ठी निकाला।\n    पिठ्ठी में छोटा-सा घर था,\n    पहली बारि पहुँचा बड़ा शानि!",
+    "gu": "જેક હોર્નર બેઠો હતો ખૂણે,\n    એક પાઈમાં પિઠ્ઠી કાઢી.\n    પિઠ્ઠીમાં નાનું ઘર હતું,\n    પહેલી વાર પહોંચ્યો મોટું શાન!",
+    "en": "Little Jack Horner\n    sat in a corner\n    eating his Christmas pie.\n    How good little Jack\n    pulled out the plum!"
+   }
+  },
+  {
+   "id": "q-kingcole",
+   "classic": true,
+   "title": {
+    "hi": "राजा कोल",
+    "gu": "રાજા કોલ",
+    "en": "Old King Cole"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "child",
+    "drum",
+    "tree"
+   ],
+   "poem": {
+    "hi": "पुराने राजा कोल ने खाया था,\n    एक बड़ा सा तरकू बनवा कर।\n    \"आओ गाओ, मेरे प्यारे मित्र,\n    सुनाऊँ दास्तान पुराने ज़मान की!\"",
+    "gu": "જૂના રાજા કોલે ખાધું હતું,\n    એક મોટું ટફળું બનાવતાં.\n    \"આવો ગાઓ, મારા પ્યારા મિત્ર,\n    સુંનાવું વાત જૂના જમાનાની!\"",
+    "en": "Old King Cole\n    is a merry old soul,\n    and a merry old soul is he.\n    He read books and he read till six,\n    and then he read till tea."
+   }
+  },
+  {
+   "id": "q-oranges",
+   "classic": true,
+   "title": {
+    "hi": "संतरे और नींबू",
+    "gu": "સંતરે અને લીંબુ",
+    "en": "Oranges And Lemons"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "child",
+    "tree",
+    "flower"
+   ],
+   "poem": {
+    "hi": "संतरे और नींबू कहते हैं —\n    \"किस के घर की मिठास है?\"\n    \"जो न बीजे सहकार दूरा,\n    वो पे कभी न आजाये घर!\"",
+    "gu": "સંતરે અને લીંબુ કહે છે —\n    \"કયાના ઘરની મીઠાશ છે?\"\n    \"જે ન વાવે સહકાર દૂર,\n    એ પણ ક્યારેય ન આવે ઘર!\"",
+    "en": "Oranges and lemons\n    say what is your name?\n    \"I know what your name is,\n    for I have seen you, and I know your game.\""
+   }
+  },
+  {
+   "id": "q-kachopapu",
+   "classic": true,
+   "title": {
+    "hi": "कच्चा पप्पू",
+    "gu": "કાચું પપ્પું",
+    "en": "Kacho Papu"
+   },
+   "classId": "lkg",
+   "scene": [
+    "day",
+    "child",
+    "balloon",
+    "flower"
+   ],
+   "poem": {
+    "hi": "कच्चा पप्पू और नालियाँ रमता,\n    ऊपर-ऊपर गुब्बारे फुलाता।\n    छोटा बच्चा मच्छर हों!\n    मच्छर ने आँखें मूँद लीं — खत्म!",
+    "gu": "કાચું પપ્પું ને નાળીયેં રમતાં,\n    ઉપર-ઉપર બલૂન ફૂલાતાં.\n    નાનો બાળક મચ્છર હોય!\n    મચ્છરે આંખો બંધ કરી — ખતમ!",
+    "en": "Kacho papu ne naliye ramta,\n    upar-upar baloon phulata.\n    Chhota bachcha machhar hoy!\n    Machhar ne aankhein mundi — khatam!"
+   }
+  },
+  {
+   "id": "q-duke",
+   "classic": true,
+   "title": {
+    "hi": "महाराज का ड्यूक",
+    "gu": "મહારાજનો ડ્યુક",
+    "en": "The Grand Old Duke Of York"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "महाराज ड्यूक ने पहाड़ी पर चढ़े,\n    बहुत-बहुत सैनयुक्त किए।\n    \"जो इस पहाड़ी पर चढ़ पाए,\n    वही शुरू से इतना गाना गाए!\"",
+    "gu": "મહારાજ ડ્યુકે પહાડી પર ચઢ્યા,\n    ઘણા-ઘણા સૈનયુક્ત કર્યા.\n    \"જે આ પહાડી પર ચઢે તણે,\n    તે જ શરૂથી આટલું ગાય!\"",
+    "en": "The grand old Duke of York\n    marched ten thousand men,\n    marched them up to the top of the hill\n    and marched them back again again."
+   }
+  },
+  {
+   "id": "q-bay",
+   "classic": true,
+   "title": {
+    "hi": "समुद्र किनारे",
+    "gu": "દરિયા કિનારે",
+    "en": "Down By The Bay"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "pond",
+    "duck",
+    "cloud"
+   ],
+   "poem": {
+    "hi": "समुद्र किनारे जब गए,\n    एक लड़की ने पाया।\n    \"हंसते-हंसते क्या मिल गया?\"\n    \"चावल खाते एक मछली!\"",
+    "gu": "દરિયા કિનારે જઈ પણ જયો,\n    એક છોકરીએ શોધ્યું.\n    \"હસતાં-હસતાં શું મળ્યું?\"\n    \"ચાંલ ખાતું એક માછલી!\"",
+    "en": "Down by the bay\n    where the watermelons grow,\n    a little girl asked a fisherman:\n    \"How much water do you have to sow?\""
+   }
+  },
+  {
+   "id": "q-aayibari",
+   "classic": true,
+   "title": {
+    "hi": "आई बारी आ जा",
+    "gu": "આવી બારી આવી જા",
+    "en": "Aayi Bari Aayi"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "child",
+    "butterfly",
+    "flower"
+   ],
+   "poem": {
+    "hi": "आई बारी आ जा, आई बारी आ जा,\n    क्यूँ आई तू क्यूँ आई तू।\n    नन्हीं नन्हीं सी बरसात में,\n    भीग गए सब बाल चट्ट के!",
+    "gu": "આવી બારી આવી જા, આવી બારી આવી જા,\n    કેમ આવી તું કેમ આવી તું.\n    નાની નાની વરસાદમાં,\n    ભીના ગયા બધા બાળ ચટ્ટે!\"",
+    "en": "Aayi baari aayi ja,\n    aayi baari aayi ja,\n    kyun aayi tu, kyun aayi tu?\n    nanhi nanhi si barsaat me,\n    bhee gaye bachhe chaat ke!"
+   }
+  },
+  {
+   "id": "q-bhaandiyadi",
+   "classic": true,
+   "title": {
+    "hi": "भांवड़ियाँ आई",
+    "gu": "ભાંવડિયાં આવી",
+    "en": "Bhaandiyadi Aavi"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "child",
+    "drum",
+    "flower"
+   ],
+   "poem": {
+    "hi": "भांवड़ियाँ आई रे मेरे गाँव,\n    पेड़ों को हिला-हिलाकर।\n    गीत बजाओ ढोल-मसाला,\n    नाचो सब मन की खुशी भरकर!",
+    "gu": "ભાંવડિયાં આવી રે મારા ગામ,\n    વૃક્ષને હલાવી-હલાવીને.\n    ગીત બજાવો ઢોલ-મશાલો,\n    નચો બધા મનની ખુશી ભરીને!",
+    "en": "Bhaandiyadi aavi re mere gaanv,\n    ped-ne hilaa-hilaakar.\n    Geet bajao dhol-mashalo,\n    nacho sab man ki khushi bharakar!"
+   }
+  },
+  {
+   "id": "q-dfada",
+   "classic": true,
+   "title": {
+    "hi": "डफड़ा धनाधर",
+    "gu": "ડફડા ધનાધાર",
+    "en": "Dfada Dfada"
+   },
+   "classId": "ukg",
+   "scene": [
+    "day",
+    "child",
+    "flower",
+    "colours"
+   ],
+   "poem": {
+    "hi": "डफड़ा डफड़ा धनाधर,\n    सगरंगला पडपर।\n    गरबा सगरंगला पडपर,\n    तेरा मोल ताळी जेरी।\n\n      डफड़ा डफड़ा धनाधर,\n    सगरंगला पडपर!\n    सगरंगला पाडपर,\n    तेरा मोल ताळी जेरी!",
+    "gu": "ડફડા ડફડા ધનાધાર,\n    સગરંગલા પડપર.\n    ગરબા સગરંગલા પડપર,\n    તેરા મોલ તાળી જેરી.\n\n    ડફડા ડફડા ધનાધાર,\n    સગરંગલા પડપર!\n    સગરંગલા પાડપર,\n    તેરા મોલ તાળી જેરી!",
+    "en": "Dfada dfada dhanadhar,\n    sagarangla padpar.\n    Garba sagarangla padpar,\n    tera mol taali jeri!"
+   }
+  },
+  {
+   "id": "q-muffet",
+   "classic": true,
+   "title": {
+    "hi": "मिस मफेट",
+    "gu": "મિસ મફેટ",
+    "en": "Little Miss Muffet"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "spider",
+    "child",
+    "flower"
+   ],
+   "poem": {
+    "hi": "मिस मफेट बैठी मटर के टुकड़े,\n    एक मकड़ी आई उसके सिर पर बैठे।\n    \"चल दूर मेरे सिर से!\" — उसने कहा,\n    \"हाथ पकड़ के उसे भगा दी मौलिका ने सरस्वा!\"",
+    "gu": "મિસ મફેટ બેઠી વટાકરાના ટુકડા,\n    એક કરમાત આવી તેના શિર પર બેઠી.\n    \"ચલ દૂર મારા શિરથી!\" — એણે કહ્યું,\n    \"હાથ પકડીને એને ભગાવી દી મૌલિકાએ સરસ્વા!",
+    "en": "Little Miss Muffet sat on a tuffet,\n    a spider beside her.\n    \"Get away, you spider,\" she cried,\n    and the spider ran away."
+   }
+  },
+  {
+   "id": "q-teapot",
+   "classic": true,
+   "title": {
+    "hi": "छोटा सा टीपट",
+    "gu": "નાનું ટીપટ ચા",
+    "en": "I'm A Little Teapot"
+   },
+   "classId": "c1",
+   "scene": [
+    "day",
+    "cake",
+    "child"
+   ],
+   "poem": {
+    "hi": "मैं हूँ छोटा-सा टीपट टी,\n    मेरा हेडल ढक्कन हटा।\n    \"मुझे पकड़ो और उबाल दो,\"—\n    मैं हूँ छोटा-सा टीपट टी!",
+    "gu": "હું છું નાનું ટીપટ ચા,\n    મારું હેન્ડલ ઢાંકણ ખોલાવું.\n    \"મને પકડો અને ઉકાળો,\"—\n    હું છું નાનું ટીપટ ચા!",
+    "en": "I'm a little teapot, short and stout,\n    here is my handle, here is my spout.\n    Tip me over and pour me out,\n    and I'll shout, \"I'm a little teapot!\""
+   }
+  },
+  {
+   "id": "q-christmas",
+   "classic": true,
+   "title": {
+    "hi": "बारह दिन क्रिसमस",
+    "gu": "બાર દિવસ ક્રિસમસ",
+    "en": "Twelve Days Of Christmas"
+   },
+   "classId": "c1",
+   "scene": [
+    "snow",
+    "snowman",
+    "child",
+    "tree"
+   ],
+   "poem": {
+    "hi": "बारह दिन क्रिसमस आया,\n    उपहार लाओ सजाया।\n    एक-दो-तीन... गिनती होगी,\n    बारह बने दिन गिन-गिन के!",
+    "gu": "બાર દિવસ ક્રિસમસ આવ્યો,\n    ભેટ લાવી સજાવ્યો.\n    એક-બે-ત્રણ... ગણતરી થશે,\n    બાર થયા દિવસ ગણી-ગણીને!",
+    "en": "On the first day of Christmas my true love gave to me,\n    a partridge in a pear tree.\n    Two doves, three hens, four birds,\n    five gold rings — and count them with me!"
+   }
+  }
+ ]
+}

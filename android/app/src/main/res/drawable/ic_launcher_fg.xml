@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- kitaab + sur ka icon -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- kitaab -->
+    <item android:drawable="@drawable/ic_launcher_book" />
+
+    <!-- niche rainbow strip -->
+    <item
+        android:drawable="@drawable/ic_launcher_rainbow"
+        android:bottom="0" />
+
+</layer-list>

@@ -1,0 +1,17 @@
+{
+  "name": "kavita-ka-ghar-react",
+  "version": "1.0.0",
+  "description": "Play Group se Class 1 tak ki **74 kavitayen** — Hindi, Gujarati aur English teeno bhashaon mein.",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@babel/cli": "^8.0.6",
+    "@babel/preset-react": "^8.0.1"
+  }
+}

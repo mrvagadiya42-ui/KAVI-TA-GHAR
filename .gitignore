@@ -1,0 +1,85 @@
+# ============================================================
+#  कविता का घर — .gitignore
+#  Source code push hota hai, build artifacts nahi.
+# ============================================================
+
+# ---------- Node / npm ----------
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.npm/
+
+# ---------- Build output (re-generate hota hai) ----------
+www/
+dist/
+build/
+*.min.js.map
+
+# ---------- Android build ----------
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/captures/
+android/app/release/
+*.apk
+*.aab
+*.keystore
+!debug.keystore
+
+# ---------- iOS (future) ----------
+ios/Pods/
+ios/build/
+
+# ---------- Audio (59 MB — script se banta hai) ----------
+assets/audio/
+assets/audio_flat/
+*.mp3
+*.wav
+*.m4a
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# ---------- Firebase ----------
+firebase-debug.log
+firebase-debug.*.log
+firestore-debug.log
+.ui-debugger.json
+firebase/
+.firebase/
+.firebaserc
+!firebase.json
+
+# ---------- Backups & temp ----------
+backups/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.bak
+*.tmp
+*.log
+tmp/
+temp/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Editors ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------- Secret ----------
+.env
+.env.local
+*.pem
+secrets.json
+serviceAccount*.json
